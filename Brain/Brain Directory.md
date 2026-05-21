@@ -1,6 +1,6 @@
 # Brain Directory
 
-*Last updated: 2026-05-21 (Contacts.md added under new Contacts section, Fade Group employees only. Mirrored subset of Tom OS Contacts. Earlier: Onboarding model changed: Learning is now install-bootstrap + complete-reinstall only, no longer periodic. After install clears the P1 minimum bar, the OS adapts on the job via the Live Brain Update rule in Instructions.md. Document Linking Convention added to Instructions.md to make the propagation mechanism explicit: canonical source per fact, transclusion via `![[file#heading]]`, edit at source. Skills updated: Install gained Step 13a (P1 bar measurement) + Step 13b (initial state files), Daily Briefing Step 1b repurposed as onboarding-gap nag, Learning scoped down to bootstrap/reinstall. Identity Locks layer added to Instructions.md: identity-level Brain content (colours, voice tone, strategic positioning, etc.) requires drift-detection + binary permanent/one-off question before any write; operational content stays friction-free; adds to locked lists run freely, only replacements/removals fire the flag.)*
+*Last updated: 2026-05-21 (Teach skill added under new Learning the OS group. Interactive `/help` skill that reads skill files at runtime, five modes for first-week onboarding through to steady-state lookup. Earlier today: Seven master skills imported and adapted for Maddie OS: Grill Me, Critique, Quick Research, Slack Search, Continuation Note, Difficult Conversation Prep, Draft Text. Slack Workspace.md Brain file added under Tech Stack section to support Slack Search. Earlier: Contacts.md added under new Contacts section, Fade Group employees only. Mirrored subset of Tom OS Contacts. Earlier still: Onboarding model changed: Learning is now install-bootstrap + complete-reinstall only, no longer periodic. After install clears the P1 minimum bar, the OS adapts on the job via the Live Brain Update rule in Instructions.md. Document Linking Convention added to Instructions.md to make the propagation mechanism explicit: canonical source per fact, transclusion via `![[file#heading]]`, edit at source. Skills updated: Install gained Step 13a (P1 bar measurement) + Step 13b (initial state files), Daily Briefing Step 1b repurposed as onboarding-gap nag, Learning scoped down to bootstrap/reinstall. Identity Locks layer added to Instructions.md: identity-level Brain content (colours, voice tone, strategic positioning, etc.) requires drift-detection + binary permanent/one-off question before any write; operational content stays friction-free; adds to locked lists run freely, only replacements/removals fire the flag.)*
 
 ## Purpose
 
@@ -93,6 +93,7 @@ Current templates: none captured yet. Will populate as Maddie provides samples d
 ## Tech Stack
 
 - [[Tech Stack]] — what tools Maddie uses, what is connected via MCP, what is via CLI, what is manual
+- [[Slack Workspace]] — workspace URL, channel IDs, canvas IDs, member IDs for the Fade Group Slack. Used by [[Slack Search]] and any skill that posts to Slack.
 
 ---
 
@@ -147,6 +148,20 @@ For external comms: use [[Pre-publish Check]]. For in-flight drafting: use indiv
 
 **Session lifecycle:**
 - [[Session End]] — updates Status.md, Tasks.md, daily log, pushes to GitHub.
+- [[Continuation Note]] — save a structured note when parking work mid-task; resume from it in a fresh session.
+
+**Learning the OS:**
+- [[Teach]] — interactive help skill. Maddie says `/help`, "how do I X", or "what's the skill for Y". Five modes (Overview / Phrase Lookup / Drill-Down / Troubleshoot / Escalate). Reads actual skill files at runtime so it stays in sync as the OS evolves. Biases toward demoing over describing.
+
+**Thinking partner and review:**
+- [[Grill Me]] — critically pressure-tests plans, briefs, or decisions before they go out. Light/Standard/Deep depth tiers, pre-mortem mandatory at Standard+. Use BEFORE the work is finished.
+- [[Critique]] — 4-agent iterative chain (Structure → Clarity → Brutal Critic → Accuracy) for finished deliverables. Use AFTER the work is finished, before it ships.
+- [[Difficult Conversation Prep]] — full conversation plan for tough talks (pushing back to Tom or Harry, holding ambassadors / suppliers to account, delivering bad news). Includes Receiving Mode for when she's on the receiving end.
+
+**Writing and research:**
+- [[Draft Text]] — draft messages (email / Slack / WhatsApp / LinkedIn) in Maddie's voice with tone matched to recipient and channel. Built-in learning loop.
+- [[Quick Research]] — on-demand research across multiple sources. Quick / Comparison / Deep Dive depths. WebSearch-dependent, no memory fallback.
+- [[Slack Search]] — read-only search across the Fade Group Slack workspace. Returns grouped results with permalinks and a Bottom Line. Use [[Draft Text]] to send.
 
 ---
 
