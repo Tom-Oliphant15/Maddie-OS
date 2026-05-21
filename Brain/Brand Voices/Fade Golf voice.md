@@ -1,0 +1,33 @@
+# Fade Golf — Voice
+
+*STATUS: Stub. Locked during Master Marketing Document work, target Wed 28 May 2026.*
+
+## Tone (placeholder)
+
+Premium, confident, club-cultural. Not stuffy, not trying-too-hard. Knows what it is.
+
+## Vocabulary
+
+- **Use:**
+- **Avoid:**
+
+## Sentence Rhythm
+
+- (Examples to be added)
+
+## Reference Posts (locked good examples)
+
+- (To be filled with 3 to 5 anchor posts once Master Marketing Document is locked)
+
+## Bad Examples (drift catchers)
+
+- (To be filled with 2 to 3 examples of what NOT to sound like)
+
+## Cross-Brand Drift Check
+
+- Compared to Stride: should be less clinical, more cultural
+- Compared to F&E: should be more grounded/premium, less sensory/feminine
+
+---
+
+*This file is a stub. Skills that depend on a locked voice (Cross-Platform Repurposer, Campaign Brief Expander) will flag missing voice content rather than guess. Update this file as the Master Marketing Document work surfaces the locked voice.*

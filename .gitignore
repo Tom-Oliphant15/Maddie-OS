@@ -1,0 +1,44 @@
+# Maddie OS — gitignore
+
+# macOS cruft
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local logs / temp
+*.log
+tmp/
+temp/
+
+# Secrets (NEVER commit credentials)
+.env
+.env.*
+secrets.json
+*.pem
+*.key
+!~/.ssh/maddie-os-deploy.pub  # except the public deploy key reference, not actually stored here
+
+# Python / node artefacts if any tooling adds them
+__pycache__/
+*.pyc
+node_modules/
+
+# Claude Code local state that should NOT sync (memory is personal to her install)
+.claude-memory/
+
+# State files DO sync (committed):
+#   .install-state.json    → tracks install progress, lets Tom see remotely
+#   .last-diagnostics-run  → tracks weekly cadence
+#   .last-learning-run     → tracks monthly cadence
+# These are intentionally NOT in gitignore.
+
+# OS Health log DOES sync (committed):
+#   Reviews/OS Health/    → admin tier, Tom reads on pull
+# Intentionally NOT in gitignore.
