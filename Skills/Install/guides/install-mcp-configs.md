@@ -30,7 +30,7 @@ The launch wrapper script handles ephemeral-port allocation to avoid the workspa
 ```bash
 mkdir -p ~/.local/bin
 curl -fsSL \
-  https://raw.githubusercontent.com/tomoliphant/maddie-os/main/install-assets/workspace-mcp-launch.sh \
+  https://raw.githubusercontent.com/Tom-Oliphant15/Maddie-OS/main/install-assets/workspace-mcp-launch.sh \
   -o ~/.local/bin/workspace-mcp-launch.sh
 chmod +x ~/.local/bin/workspace-mcp-launch.sh
 ```

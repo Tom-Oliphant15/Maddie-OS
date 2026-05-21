@@ -16,7 +16,7 @@ That usually means the key has not been added to the repo yet, or it has been ad
 Public key:
 [key block]
 
-Repo: tomoliphant/maddie-os
+Repo: Tom-Oliphant15/Maddie-OS
 Title suggestion: Maddie MacBook YYYY-MM-DD
 Permission: read-write
 

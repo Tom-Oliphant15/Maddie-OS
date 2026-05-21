@@ -10,7 +10,7 @@ Personal OS for Maddie, marketing lead at Fade Group. Supports her work across F
 
 **Mode:** Edit Mode during build. Switches to Complete Mode at handover.
 
-**GitHub:** mirrored for remote management by Tom.
+**GitHub:** [Tom-Oliphant15/Maddie-OS](https://github.com/Tom-Oliphant15/Maddie-OS) (private). Mirrored for remote management by Tom. Activated 2026-05-21 with initial commit from Tom's Mac. Maddie's MacBook clones via SSH deploy key during Friday install.
 
 ---
 
