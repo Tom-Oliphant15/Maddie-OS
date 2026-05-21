@@ -12,6 +12,9 @@
 *.swp
 *.swo
 
+# Microsoft Office lock files (created when Word / Excel / PowerPoint has the file open)
+~$*
+
 # Local logs / temp
 *.log
 tmp/
