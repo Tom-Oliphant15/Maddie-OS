@@ -12,7 +12,7 @@
 |---|---|
 | Workspace name | Fade Group Workspace |
 | URL | fade-group-workspace.slack.com |
-| Workspace ID | T0AV41M7LGL |
+| Workspace ID | T0AUUAU0SH |
 | Maddie's role | Member |
 | Maddie's user_id | U0AVDBDK09F |
 | Maddie's email | marketing@fadegroup.uk |

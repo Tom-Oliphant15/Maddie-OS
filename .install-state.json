@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "install_status": "in-progress",
+  "steps": {
+    "homebrew_and_jq_installed": {
+      "status": "pass",
+      "timestamp": "2026-05-22T13:14:48Z"
+    },
+    "claude_code_installed": {
+      "status": "pass",
+      "note": "Running as desktop app at /Applications/Claude.app",
+      "timestamp": "2026-05-22T13:15:28Z"
+    },
+    "deploy_key_generated": {
+      "status": "pass",
+      "timestamp": "2026-05-22T13:17:38Z"
+    },
+    "deploy_key_authorised": {
+      "status": "pass",
+      "timestamp": "2026-05-22T13:22:15Z"
+    },
+    "git_clone": {
+      "status": "pass",
+      "note": "Files already present from zip download; .git folder set up via fresh clone",
+      "timestamp": "2026-05-22T13:25:15Z"
+    },
+    "google_workspace_mcp": {
+      "status": "deferred",
+      "note": "Blocked on permissions arg fix (duplicate gmail:drafts + gmail:readonly). Tom to resolve. Re-run install to pick up.",
+      "timestamp": "2026-05-22T14:55:00Z"
+    },
+    "slack_mcp": {
+      "status": "pass",
+      "note": "MCP live. All 4 marketing channels confirmed. #leadership private, not accessible via token scope (expected).",
+      "timestamp": "2026-05-22T15:10:00Z"
+    },
+    "metricool_mcp": {
+      "status": "deferred",
+      "note": "Metricool OAuth not yet set up for 3 brands. Defer until Metricool Advanced trial is live."
+    },
+    "first_push": {
+      "status": "pending"
+    },
+    "diagnostics_first_run": {
+      "status": "pending"
+    },
+    "learning_first_run": {
+      "status": "pending"
+    },
+    "onboarding_p1_bar": {
+      "status": "pending",
+      "p1_remaining": []
+    },
+    "state_files_initialised": {
+      "status": "pending"
+    },
+    "output_folders_initialised": {
+      "status": "pending"
+    },
+    "day_one_tour_completed": {
+      "status": "pending"
+    }
+  }
+}
