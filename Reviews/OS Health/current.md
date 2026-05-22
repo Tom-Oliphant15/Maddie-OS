@@ -36,6 +36,34 @@ When Tom runs `/admin report` on his Mac and decides to roll up, the current con
 
 *(Append-only below this line. Most recent at the top.)*
 
+### 2026-05-22, Diagnostics first run (install day)
+
+**Goal status:** met — all pass/deferred, zero L3, zero L4.
+
+**Stage 1 — Connection tests**
+
+| Test | Result | Notes |
+|---|---|---|
+| 1.1 Git reachability | Pass | `git fetch --dry-run` exit 0, origin confirmed reachable |
+| 1.2 gh CLI | Deferred | Not installed on Maddie's Mac by design (Tom-side only) |
+| 1.3 Gmail MCP | Pass | Connected as marketing@fadegroup.uk, threads readable |
+| 1.4 Calendar MCP | Deferred | Google Workspace MCP partial — only Gmail connected, Calendar/Drive pending Tom's permissions fix |
+| 1.5 Drive MCP | Deferred | Same as 1.4 |
+| 1.6 Slack MCP | Pass | All 4 marketing channels confirmed. #leadership private-channel scope not available on token (expected) |
+| 1.7 Metricool MCP | Deferred | Not installed — OAuth for 3 brands not yet set up |
+| 1.8 Disk space | Pass | 15% used |
+| 1.9 Repo size | Pass | 1.6 MB |
+
+**Stage 2 — Logic tests:** All deferred. Test/scenarios/, Test/fixtures/, Test/expected/ folders exist but empty. Fixtures not yet authored. Expected during build window.
+
+**Stage 3 — Brain freshness:** All Brain files updated 2026-05-21 or 2026-05-22. No stub markers detected.
+
+**L1 count:** 0 | **L2 count:** 0 | **L3 count:** 0 | **L4 count:** 0
+
+**Deferred count:** 7 (1.2, 1.4, 1.5, 1.7, all Stage 2 skills)
+
+**Open items for Tom:** Google Workspace MCP full connection (Calendar + Drive) still pending permissions arg fix.
+
 ### 2026-05-18, OS scaffolded on Tom's Mac
 
 **Goal status:** scaffold complete, not yet installed on Maddie's Mac.

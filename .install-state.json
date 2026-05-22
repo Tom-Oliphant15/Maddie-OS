@@ -44,7 +44,9 @@
       "timestamp": "2026-05-22T15:10:00Z"
     },
     "diagnostics_first_run": {
-      "status": "pending"
+      "status": "pass",
+      "note": "0 L3, 0 L4. Gmail + Slack + git all healthy. Calendar/Drive/Metricool deferred. Stage 2 fixtures not yet authored.",
+      "timestamp": "2026-05-22T15:20:00Z"
     },
     "learning_first_run": {
       "status": "pending"
