@@ -46,6 +46,7 @@ Do NOT read all Brain files. Only pull what the current task requires. Skills by
 
 - [[Daily Cheat Sheet]] — the cheat sheet of all OS triggers grouped by job-to-be-done. Living .md version of `Assets/Maddie OS Daily Cheat Sheet.docx` (also printed as PDF for desk pinning). Edit this file as triggers evolve; the printable artifact regenerates from here.
 - [[Your First Week]] — Mon-to-Fri task list for Maddie's first week using the OS. One job per day, each ~5 to 20 minutes, end-to-end coverage by Friday. Living .md version of `Assets/Maddie OS Your First Week.docx`.
+- [[Using the Terminal]] — plain-English explainer of what the terminal is, how to open it on the right-hand side of Claude Code, how to paste a command and run it, what to do if something looks wrong, and anti-panic notes. For the (rare) moments Maddie has to run something on her Mac directly. Loaded by [[Teach]] on triggers like "terminal", "how do I open the terminal", "how do I run a command".
 
 ---
 

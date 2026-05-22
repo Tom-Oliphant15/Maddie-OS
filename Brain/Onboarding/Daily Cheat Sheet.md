@@ -90,6 +90,8 @@ Or say `/diagnostics`.
 
 Still stuck? Ping Tom in Slack `#leadership`. Tell him what you tried.
 
+**If something needs the terminal:** see [[Using the Terminal]] for how to open it on the right-hand side of Claude Code, paste a command, and run it. Or just say "terminal" to Claude and it'll walk you through.
+
 ---
 
 ## Brain and persona work (less frequent)
