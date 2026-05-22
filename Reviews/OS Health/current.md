@@ -36,6 +36,17 @@ When Tom runs `/admin report` on his Mac and decides to roll up, the current con
 
 *(Append-only below this line. Most recent at the top.)*
 
+### 2026-05-22, Session End — install day
+
+**Goal status:** met
+**Duration:** unknown (no morning briefing timestamp, first session)
+**Skills fired:** Install, Diagnostics, Learning
+**Tasks completed:** MacBook install + transfer to Maddie (Status.md updated)
+**Brain files changed:** Contacts.md, Brain/Businesses/Stride Clinics.md
+**Git:** pushed to origin/main
+
+---
+
 ### 2026-05-22, Diagnostics first run (install day)
 
 **Goal status:** met — all pass/deferred, zero L3, zero L4.

@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-05-22 (Brain bootstrapped from Maddie's returned form. Maddie OS Bootstrap Form.pages saved to Information/. PDF extracted, 84 pages of answers. Brain populated across 9 files: 3 brand voice files (Fade Golf, Stride, F&E) now Live with tone, vocab use/avoid, references, drift catchers; 3 brand guidelines files now Live with colour palette, typography, logo rules, imagery style — Fade Golf primary #41873c, Stride #204f7f, F&E #b01227; 3 business pages now have audience (primary + secondary, what makes them book, what stops, online/offline watering holes, Google search phrases) and channels with state/what works/what doesn't; Maddie.md gained working-week pattern, time wasters/wins, brief preferences, push-back style, excitement framing; Fade Group.md Key People table rewritten with Maddie's relationship context per person; Contacts.md gained Olivia marketing flag and stub rows for Manny and Nick to confirm in-person. All three parked items resolved by Tom same-day: Lynda confirmed canonical spelling (also confirmed she's Area Manager across Stride and F&E, not just F&E operations); Olivia is Clinical Lead at F&E, potentially moving to Practice Manager; Manny is the owner of Padel and Play (Stratford) — F&E is working with him; Nick is a PT renting gym space at both Stride and Fade Golf. Yesterday: Onboarding documentation built — 8 master skills imported and adapted (Grill Me, Critique, Quick Research, Slack Search, Continuation Note, Difficult Conversation Prep, Draft Text, Teach), 3 onboarding artifacts shipped, all skill testing complete bar 3 P3 stubs blocked on upstream software.)*
+*Last updated: 2026-05-22 (Install complete on Maddie's MacBook. Slack MCP live, Gmail MCP live. Calendar + Drive deferred pending Google Workspace fix. Metricool deferred pending OAuth. Diagnostics: 0 issues. Learning bootstrap: P1 bar fully met. Katie Plank corrected to F&E therapist + F&E Run Club lead. Brand identity sweep (typography, accent colours, composition) parked for dedicated session. Install status: complete.)*
 
 ---
 
@@ -36,7 +36,7 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 | Walk Bootstrap Form answers in-person, lock remaining gaps | Tom + Maddie | **Done** (same-day, 22 May, async via Tom) | Fri 22 May |
 | Metricool OAuth (3 brands) when Maddie is in person | Tom + Maddie | Not Started | Per Phase 2 plan |
 | Brand Voices + Brand Guidelines lock | Tom + Maddie | Not Started | Wed 28 May (Master Marketing Document work) |
-| MacBook install + transfer to Maddie | Tom + Maddie | Not Started | End of in-person window |
+| MacBook install + transfer to Maddie | Tom + Maddie | **Done** | 22 May (Slack + Gmail live; Calendar/Drive/Metricool deferred) |
 
 ---
 
@@ -46,7 +46,7 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 |---|---|---|
 | Fade Golf | Active | Luke sponsorship/ambassador pitch (Tom + Maddie + Harry, four-way Fri 23 May). Filming with Luke + Jason for swing/membership reels. |
 | Stride Clinics | Active | Google tag/conversion tracking fix with Mark (this week). Per-service Google Ads restructure once tag is fixed. Orthotic relaunch July. Run Club content with Katie (filmed 13 May). |
-| Fire & Earth Leamington | Active | Marketing canvas setup. Incentive scheme decision parked with Harry. |
+| Fire & Earth Leamington | Active | Marketing canvas setup. Incentive scheme decision parked with Harry. Run Club content with Katie Plank (F&E therapist, filmed 13 May). |
 
 ---
 
