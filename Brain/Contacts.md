@@ -142,6 +142,17 @@ Canonical contact list for Fade Group people Maddie communicates with. Two secti
 | Phone | TBC |
 | Notes | Maddie also references Olivia as a typography / design source for F&E ("see Canva and leaflets or Olivia"). She handles visual / brand work alongside her clinical-lead role; treat her as the F&E-side design touchpoint as well as clinical lead. |
 
+### Katie Plank
+
+| Field | Value |
+|---|---|
+| Aliases | Katie |
+| Role | Therapist, Fire & Earth Leamington. Also runs the F&E Run Club. |
+| Email | TBC |
+| Slack | TBC |
+| Phone | TBC |
+| Notes | Run Club content collaboration sits with Maddie. Filming done 13 May 2026, editing and posting cadence ongoing. Treat as internal staff for drafting purposes. |
+
 ### Other F&E therapists
 
 Clinical staff Maddie has lower-frequency contact with. Fill rows in as direct comms emerge.
@@ -149,7 +160,6 @@ Clinical staff Maddie has lower-frequency contact with. Fill rows in as direct c
 | Name | Role | Email | Slack | Phone | Notes |
 |---|---|---|---|---|---|
 | Ben Collins | Therapist | TBC | TBC | TBC | |
-| Katie Plank | Therapist | TBC | TBC | TBC | Disambiguate from any other "Katie" who turns up. |
 | Caroline Thompson | Therapist | TBC | TBC | TBC | |
 | Asbar Javed | Therapist | TBC | TBC | TBC | |
 | Hanna Dixon | Therapist | TBC | TBC | TBC | |
@@ -176,17 +186,6 @@ Aaron Pereira is covered above under Stride (works across both clinics).
 | Status | Ambassador deal in negotiation. Four-way meeting Fri 23 May 2026 to lock terms. |
 | Notes | Once ambassador contract signs, all marketing collaboration runs through Maddie. Signed Talent Release required before any filming or post (see [[Talent/Ambassador Brief]] Step 0). |
 
-### Katie (Stride Run Club)
-
-| Field | Value |
-|---|---|
-| Aliases | Katie |
-| Role | Run Club content lead, Stride. Filming completed 13 May 2026, editing and posting cadence ongoing. |
-| Email | TBC |
-| Slack | TBC |
-| Phone | TBC |
-| Status | Working relationship unclear, treat as external content collaborator pending confirmation of whether employee, freelance, or volunteer. |
-| Notes | If she is in fact a staff member, move her row to Staff. |
 
 ## External Contractors
 

@@ -64,6 +64,18 @@ When Tom runs `/admin report` on his Mac and decides to roll up, the current con
 
 **Open items for Tom:** Google Workspace MCP full connection (Calendar + Drive) still pending permissions arg fix.
 
+### 2026-05-22, Learning bootstrap run
+
+**Goal status:** met
+**Trigger:** Install bootstrap (first run)
+**Gaps closed:** 2
+**Gaps deferred:** 1 (brand identity sweep — typography, accent colours, composition rules)
+**Brain files updated:** Brain/Contacts.md, Brain/Businesses/Stride Clinics.md
+**P1 bar:** fully met pre-session (Bootstrap Form + Tom's corrections had covered all required sections)
+**Install status:** flipped to complete
+
+---
+
 ### 2026-05-18, OS scaffolded on Tom's Mac
 
 **Goal status:** scaffold complete, not yet installed on Maddie's Mac.

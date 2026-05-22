@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "install_status": "in-progress",
+  "install_status": "complete",
   "steps": {
     "homebrew_and_jq_installed": {
       "status": "pass",
@@ -49,17 +49,21 @@
       "timestamp": "2026-05-22T15:20:00Z"
     },
     "learning_first_run": {
-      "status": "pending"
+      "status": "pass",
+      "note": "P1 bar fully met pre-session. 2 corrections applied (Katie to F&E staff, Run Club to F&E). 1 gap deferred: brand identity sweep (typography, accent colours, composition rules) parked to dedicated session.",
+      "timestamp": "2026-05-22T15:35:00Z"
     },
     "onboarding_p1_bar": {
-      "status": "pending",
+      "status": "pass",
       "p1_remaining": []
     },
     "state_files_initialised": {
-      "status": "pending"
+      "status": "pass",
+      "timestamp": "2026-05-22T15:35:00Z"
     },
     "output_folders_initialised": {
-      "status": "pending"
+      "status": "pass",
+      "timestamp": "2026-05-22T15:35:00Z"
     },
     "day_one_tour_completed": {
       "status": "pending"

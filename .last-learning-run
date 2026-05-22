@@ -1,0 +1,12 @@
+{
+  "last_run": "2026-05-22T14:38:46Z",
+  "mode": "install-bootstrap",
+  "gaps_closed_this_run": 2,
+  "gaps_closed": [
+    "Contacts.md: Katie Plank moved to F&E Staff (therapist + Run Club lead). Run Club corrected to F&E not Stride.",
+    "Stride Clinics.md: Katie reference corrected to F&E therapist, Run Club noted as F&E-based."
+  ],
+  "gaps_deferred": [
+    {"file": "Brain/Brand Guidelines/*.md", "section": "Typography + accent colours + composition rules", "reason": "Maddie to run as dedicated brand identity session, or lock with Master Marketing Document 28 May. Logged in Open Questions."}
+  ]
+}

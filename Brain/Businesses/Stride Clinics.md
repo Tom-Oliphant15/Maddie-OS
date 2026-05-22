@@ -21,7 +21,7 @@ Multi-service clinical health under Fade Group. Podiatry, sports massage (to be 
 
 - **Harry Sherlock** — treating clinician, director
 - **Mark Hudson** — technical (WordPress, Google tags, conversion tracking). Maddie feeds Mark website info — photos, updates, any data she wants linked to the site or pulled from it.
-- **Katie** — Run Club content lead (filmed 13 May). Maddie marketing the Run Club with her, discussing what she wants from the club and how she wants it marketed. If it becomes a membership, develop from there.
+- **Katie Plank** — F&E therapist who runs the F&E Run Club. Run Club is F&E-based, not Stride. Filming done 13 May. Treat any Run Club comms as F&E, not Stride.
 - **Wendy** — senior podiatrist, orthotic certification in progress. Wendy does biomechanics and foot scans. Maddie will work closely with her on content and on understanding the service properly when those services start being marketed.
 - **Lynda** — confirms Wendy's certification timeline (overlap with F&E role). Lynda has first-hand visibility of what both Stride and F&E teams want, and what they're struggling with. Strong source for Maddie when planning content.
 
