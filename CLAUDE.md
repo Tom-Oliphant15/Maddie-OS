@@ -1,5 +1,7 @@
 # Maddie OS - Master Ruleset
 
+*Renamed from `Instructions.md` to `CLAUDE.md` on 2026-05-22 when Maddie OS became a standalone project at its own root on her MacBook. Historical changelog entries (in Status.md, Tasks.md, Skills changelogs) still reference "Instructions.md" because that's what the file was called when those entries were written. The file content is the same; only the filename changed so Claude Code on Maddie's Mac picks it up automatically as the project's master ruleset.*
+
 This is Maddie's operating system. Claude acts as her personal assistant across her marketing work for Fade Group: Fade Golf, Stride Clinics, Fire & Earth Leamington.
 
 This file is the master ruleset. It runs in **Edit Mode** during the Phase 2 build (Tom's master Tom OS rules also apply where relevant). After handover it runs in **Complete Mode** - Maddie's own standalone OS.

@@ -106,7 +106,7 @@ If you ever want to share specific content with Tom (a campaign brief, a strateg
 
 | Folder | What lives here |
 |---|---|
-| `Instructions.md` | The master ruleset. Read once for context. |
+| `CLAUDE.md` | The master ruleset. Read once for context. |
 | `Status.md` | What is going on this week. |
 | `Tasks.md` | What needs doing. |
 | `Brain/` | What Claude knows. |

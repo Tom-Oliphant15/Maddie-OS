@@ -236,7 +236,7 @@ Expected output contains: `Hi Tom-Oliphant15/Maddie-OS!` (or similar repo acknow
 ```bash
 if [ -d "$HOME/Documents/Maddie OS" ] && [ -n "$(ls -A "$HOME/Documents/Maddie OS" 2>/dev/null)" ]; then
   # Folder exists and non-empty
-  if [ ! -f "$HOME/Documents/Maddie OS/Instructions.md" ]; then
+  if [ ! -f "$HOME/Documents/Maddie OS/CLAUDE.md" ]; then
     echo "L4: $HOME/Documents/Maddie OS exists and has content but is not our OS, refusing to clobber"
     # Fire L4 freeze handling
   fi
@@ -245,7 +245,7 @@ fi
 
 **Test:**
 ```bash
-ls "$HOME/Documents/Maddie OS/Instructions.md" 2>/dev/null
+ls "$HOME/Documents/Maddie OS/CLAUDE.md" 2>/dev/null
 ```
 
 **If missing, configure SSH to use the deploy key for this repo:**
@@ -268,7 +268,7 @@ cd "$HOME/Documents"
 git clone git@github.com-maddie-os:Tom-Oliphant15/Maddie-OS.git "Maddie OS"
 ```
 
-**Pass when** `Instructions.md` exists in the cloned folder.
+**Pass when** `CLAUDE.md` exists in the cloned folder.
 
 ---
 
@@ -367,7 +367,7 @@ Mark `diagnostics_first_run` pass when Diagnostics completes.
 
 Check `.last-learning-run`. If empty, fire `/learning` in **install-bootstrap mode** (Learning's first-run path).
 
-Learning runs through P1 + P2 gaps with Maddie. She can say "park the rest" at any time, but the install does not declare complete until the P1 bar is met. P2 and beyond is captured live on the job after install (see Instructions.md → Live Brain Update).
+Learning runs through P1 + P2 gaps with Maddie. She can say "park the rest" at any time, but the install does not declare complete until the P1 bar is met. P2 and beyond is captured live on the job after install (see CLAUDE.md → Live Brain Update).
 
 Pass `learning_first_run` when Learning returns (whether Maddie completed all P1+P2 or parked).
 
@@ -507,7 +507,7 @@ After install reports complete (or complete-with-onboarding-in-progress), do not
 
 **Demo at least one** (whichever Maddie engages with first). The point is muscle-memory: the first time she says "/help" is the install, not three days later when she's stuck.
 
-**Optional fifth thing (if there's energy in the room):** show her the Brain. Open `Brain/Brain Directory.md` in Finder and walk her through what's in there. "This is the knowledge that makes every skill produce useful output instead of generic. The form you filled in is now living in these files. As you work, the OS keeps it current — you don't have to come back and update it." Reinforces the Live Brain Update concept from Instructions.md.
+**Optional fifth thing (if there's energy in the room):** show her the Brain. Open `Brain/Brain Directory.md` in Finder and walk her through what's in there. "This is the knowledge that makes every skill produce useful output instead of generic. The form you filled in is now living in these files. As you work, the OS keeps it current — you don't have to come back and update it." Reinforces the Live Brain Update concept from CLAUDE.md.
 
 Mark `day_one_tour_completed` as pass in `.install-state.json` so we know orientation happened (not just connections wired up).
 

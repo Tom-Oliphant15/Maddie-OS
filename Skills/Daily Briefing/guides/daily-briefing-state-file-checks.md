@@ -32,7 +32,7 @@ If `INSTALL_STATUS = "complete-with-onboarding-in-progress"` OR `P1_REMAINING > 
 
 If `INSTALL_STATUS = "complete"` or P1 bar is clear, skip and continue.
 
-This replaces the previous monthly Learning auto-recommend. Learning is install-bootstrap + complete-reinstall only now. Ongoing Brain updates happen via the Live Brain Update rule in Instructions.md, captured live as Maddie tells the OS new facts during normal work.
+This replaces the previous monthly Learning auto-recommend. Learning is install-bootstrap + complete-reinstall only now. Ongoing Brain updates happen via the Live Brain Update rule in CLAUDE.md, captured live as Maddie tells the OS new facts during normal work.
 
 ## 1c, Social Trends Watch (30-day cadence)
 
