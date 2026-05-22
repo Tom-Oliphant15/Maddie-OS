@@ -9,7 +9,11 @@ triggers:
   - "review our work"
   - "/grill"
 type: Critical Review
+recommended_model: opus
+recommended_model_reason: "Whole point of the skill is to ask hard questions Maddie wouldn't ask herself. Opus pushes back harder and finds holes Sonnet misses; Sonnet trends polite, which kills the skill's value."
 ---
+
+**Model check (before Step 1):** This skill works best on **Opus**. Grill Me only earns its keep when the questions have teeth; on Sonnet you get politer pushback and weaker holes. Switch with `/model opus` if you're on Sonnet or Haiku, or carry on if you'd rather save your Opus budget for something else this 5-hour window. See [[Model Routing]] for the full picture.
 
 **Purpose:** Critically review a piece of work, plan, or decision by asking probing questions one at a time until every angle is covered and nothing important has been left unexamined.
 

@@ -94,6 +94,16 @@ Still stuck? Ping Tom in Slack `#leadership`. Tell him what you tried.
 
 ---
 
+## Model routing
+
+You're on the Pro plan. Default is **Sonnet** for almost everything. Five skills work materially better on **Opus**: Campaign Brief Expander, Critique, Grill Me, Difficult Conversation Prep, Audience Persona Builder. The skills themselves remind you when you fire them.
+
+Switch model: `/model opus`, `/model sonnet`, `/model haiku`. Check usage in your current window: `/status`.
+
+Full picture: [[Model Routing]].
+
+---
+
 ## Brain and persona work (less frequent)
 
 - New audience persona: `audience persona for [brand + topic]`

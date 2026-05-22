@@ -7,7 +7,11 @@ triggers:
   - "review and improve"
   - "/critique"
 type: Multi-Agent Review
+recommended_model: opus
+recommended_model_reason: "4-agent iterative chain. Each agent (Structure, Clarity, Brutal Critic, Accuracy) needs depth. On Sonnet the critic agent is too polite; on Opus it actually pushes back."
 ---
+
+**Model check (before Step 1):** This skill works best on **Opus**. The 4-agent chain needs each agent to push the deliverable forward; on Sonnet the critic agent softens and you lose the value. Switch with `/model opus` if you're on Sonnet or Haiku, or carry on if you'd rather save your Opus budget for something else this 5-hour window. See [[Model Routing]] for the full picture.
 
 **Purpose:** Take a finished deliverable and run it through an iterative 4-agent improvement chain. Each agent reviews and improves the previous agent's work, producing a progressively stronger output. Returns the final deliverable plus a change log showing exactly what each agent changed, so Maddie can review and revert individual changes if needed.
 

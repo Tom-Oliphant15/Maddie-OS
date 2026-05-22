@@ -11,9 +11,13 @@ triggers:
   - "I'm avoiding this conversation"
   - "/difficult-conversation"
 type: Recipe
+recommended_model: opus
+recommended_model_reason: "Exact phrasing for high-stakes comms (HR, ambassador end, supplier pushback, salary). Opus nuance materially affects the quality of the suggested wording. Sonnet phrasing tends to be more generic / corporate."
 ---
 
 # Skill: Difficult Conversation Prep
+
+**Model check (before Step 1):** This skill works best on **Opus**. The exact phrasing for high-stakes comms is the whole product; Opus nuance affects it directly. Switch with `/model opus` if you're on Sonnet or Haiku, or carry on if you'd rather save your Opus budget for something else this 5-hour window. See [[Model Routing]] for the full picture.
 
 **Purpose:** Build Maddie a usable conversation plan for any tough conversation, internal (Tom, Harry, future hires), external (ambassadors, suppliers, agencies), or personal. The output draws on tested methodology, gives her exact words for the hard parts, names the predictable pushback with the response to each, sets non-negotiables grounded in her real alternative, and ends with a follow-up plan.
 

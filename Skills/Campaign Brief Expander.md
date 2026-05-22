@@ -8,7 +8,11 @@ triggers:
   - "build campaign for"
   - "brief expander"
 type: Workflow
+recommended_model: opus
+recommended_model_reason: "18-section professional brief requiring deep creative + analytical synthesis. Sonnet output is thinner and more generic. Opus gets closer to a brief Maddie would send without major edits."
 ---
+
+**Model check (before Step 1):** This skill works best on **Opus**. The brief is long, layered, and creative quality drops noticeably on Sonnet. Switch with `/model opus` if you're on Sonnet or Haiku, or carry on if you'd rather save your Opus budget for something else this 5-hour window. See [[Model Routing]] for the full picture.
 
 **Purpose:** Maddie feeds a campaign concept, audience, and deadline. The OS returns a full per-platform content plan: post types, vibe, dates, Google ad angles, suggested search terms, risks. She then creates the actual content herself in Canva or on camera. **Creative partner, not creative replacement.**
 

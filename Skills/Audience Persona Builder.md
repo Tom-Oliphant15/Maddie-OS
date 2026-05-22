@@ -8,7 +8,11 @@ triggers:
   - "who is the audience"
   - "build audience for"
 type: Workflow
+recommended_model: opus
+recommended_model_reason: "Long synthesis pass across research + Brain + Maddie's inline input. Opus produces personas with sharper edges; Sonnet trends toward generic demographic descriptions that don't differentiate the brand. Worth the Opus spend because the persona feeds Campaign Brief Expander, Variation Generator, Keyword Builder, and Landing Page Brief downstream."
 ---
+
+**Model check (before Step 1):** This skill works best on **Opus**. The persona feeds four other skills downstream — a generic persona makes all of them generic. Switch with `/model opus` if you're on Sonnet or Haiku, or carry on if you'd rather save your Opus budget for something else this 5-hour window. See [[Model Routing]] for the full picture.
 
 **Purpose:** Build (or refresh) a target audience persona for a specific brand+service combination. Saves to `Brain/Audiences/[Brand]/[Service].md` where Campaign Brief Expander, Tone Check, and other skills can read it.
 

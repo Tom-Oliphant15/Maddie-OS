@@ -29,6 +29,13 @@ triggers:
   - "how do I paste this command"
   - "where do I type this"
   - "the terminal looks scary"
+  - "which model"
+  - "which model should I use"
+  - "model routing"
+  - "model help"
+  - "should I switch model"
+  - "opus or sonnet"
+  - "am I going to hit my limit"
 type: Interactive Help
 ---
 
@@ -42,6 +49,7 @@ Reads the actual skill files and Brain Directory at runtime. Never duplicates co
 
 | Date | Change |
 |---|---|
+| 2026-05-22 | **Model Routing added as fourth onboarding artifact + 5 heavyweight skill runtime nudges.** Tom flagged Maddie is going on the Pro plan (not Max) and wants the OS to help her route Opus vs Sonnet vs Haiku by skill so she doesn't burn through her usage allowance. Decision after critique: don't build a generic "predict-model-from-skill" inference layer (noisy, latency cost); instead declare `recommended_model` in skill frontmatter on the 5 skills where the choice materially matters, write `Brain/Onboarding/Model Routing.md` as the canonical reference, and add a single-line Model Check at the top of those 5 skills' Process (Campaign Brief Expander, Critique, Grill Me, Difficult Conversation Prep, Audience Persona Builder). Teach skill gained 7 new triggers ("which model", "model routing", "should I switch model", "opus or sonnet", "am I going to hit my limit", etc.) and Mode 4b extended with model-routing behaviour (default-down toward Sonnet unless she's about to fire one of the 5 heavyweight skills, `/status` for headroom check on rate-limit questions). |
 | 2026-05-22 | **Terminal explainer added as third onboarding artifact.** Tom flagged on 2026-05-22 that Maddie is a novice with the terminal and could be phased if something during install needs her to paste a command. Companion file `Brain/Onboarding/Using the Terminal.md` created: what the terminal is + when she'll need it (only when Claude is blocked for safety or Tom asks) + how to open the right-hand panel in Claude Code + 3-step paste-and-run (click, Cmd+V, Enter) + what to do when output looks wrong (copy back to Claude is the 90% fix) + reference table of common commands she'll see + anti-panic notes (can't break the laptop with a given command, Ctrl+C cancels, closing the panel deletes nothing). Teach skill gained 6 new triggers ("terminal", "how do I open the terminal", "how do I run a command", "how do I paste this command", "where do I type this", "the terminal looks scary") and Mode 4b extended with terminal-specific behaviour that biases toward settling nerves rather than describing. |
 | 2026-05-22 | **Onboarding-artifact triggers + Mode 4b added.** Tom's directive on 2026-05-22 was to have the Cheat Sheet and First Week guide accessible from inside the OS at any time, not just printed/PDF in Assets/. Companion change: both artifacts converted to `.md` in `Brain/Onboarding/` so Claude Code can read them mid-conversation. Teach skill gained: (a) new triggers ("cheat sheet", "what do I say", "what do I say for", "first week", "what should I do this week", "what's my first week", "what am I meant to do today"); (b) Context section now loads the two onboarding files on demand; (c) **new Mode 4b: Onboarding artifact lookup** — for cheat-sheet questions, reads `Daily Cheat Sheet.md`, finds the section that matches Maddie's job, quotes the exact trigger verbatim, offers to run the skill; for first-week questions, reads `Your First Week.md` and points at the right day's task; always ends with the next concrete action, not a description. The artifacts are the canonical reference; Teach surfaces them with one-line tailoring rather than reinventing the answer. |
 
@@ -63,6 +71,7 @@ Reads the actual skill files and Brain Directory at runtime. Never duplicates co
 - `Brain/Onboarding/Daily Cheat Sheet.md` if the question is "cheat sheet", "what do I say", or any phrase-lookup question best answered by the canonical reference
 - `Brain/Onboarding/Your First Week.md` if the question is "first week", "what should I do this week", or any orientation question during the first 7 days post-install
 - `Brain/Onboarding/Using the Terminal.md` if the question is "terminal", "how do I run a command", "how do I open the terminal", "where do I type this", or any sign that Maddie is uneasy about a command she's been asked to paste
+- `Brain/Onboarding/Model Routing.md` if the question is "which model", "model routing", "should I switch model", "opus or sonnet", "am I going to hit my limit", or any model-choice question
 
 ---
 
@@ -199,6 +208,7 @@ The skill operates in five modes. Detect mode from the question; switch mode if 
 - For cheat-sheet questions ("what do I say for X"): read `Brain/Onboarding/Daily Cheat Sheet.md`, find the section that matches Maddie's job-to-be-done, quote the exact trigger phrase verbatim, offer to run the skill now.
 - For first-week questions ("what should I do this week"): read `Brain/Onboarding/Your First Week.md`. If she's mid-week, point at the right day's task. If she's done that day's task already, point at tomorrow's. If she's lost the thread, route to Monday and start there.
 - For terminal questions ("terminal" / "how do I open the terminal" / "how do I run a command" / any sign of unease about a command she's been asked to paste): read `Brain/Onboarding/Using the Terminal.md`, give the 3-step paste-and-run sequence (click in the panel, paste with Cmd+V, press Enter), point her at the doc for the full reference, and offer to walk through the specific command she's looking at if there is one. Bias hard toward settling nerves — the doc explicitly says "you cannot break your laptop by running a command Claude or Tom gave you", reinforce that.
+- For model-routing questions ("which model" / "should I switch model" / "opus or sonnet" / "am I going to hit my limit"): read `Brain/Onboarding/Model Routing.md`. Give the one-line answer for the specific skill she's about to fire if she named one (e.g. "Campaign Brief Expander runs best on Opus, switch with /model opus"). For "am I going to hit my limit" questions, point her at `/status` for the headroom check and the Pro-plan usage-strategy section of the doc. Default-down toward Sonnet unless she's about to run one of the 5 heavyweight skills.
 - Always end with the next concrete action ("want me to run that for you?" / "ready for Wednesday's task?" / "paste it now, I'll watch what comes back"), not a description.
 
 **Example — cheat-sheet question:**
