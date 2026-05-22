@@ -84,7 +84,7 @@ Identify recipient, channel, goal. Pick a tone from the Tone Matrix using the re
 
 ## What's Appropriate Here
 
-Maddie's daily comms are a mix of: warm internal (Tom Zoom prep, Harry daily check-ins, Linda + clinical / therapy staff), light-commercial external (ambassadors like Luke / Katie, suppliers, agencies), occasional cold outreach (potential ambassadors, partner brands, content collaborators), and pushback / declining work (telling an ambassador a brief isn't working, declining a supplier proposal, asking Tom to reconsider a timeline).
+Maddie's daily comms are a mix of: warm internal (Tom Zoom prep, Harry daily check-ins, Lynda + clinical / therapy staff), light-commercial external (ambassadors like Luke / Katie, suppliers, agencies), occasional cold outreach (potential ambassadors, partner brands, content collaborators), and pushback / declining work (telling an ambassador a brief isn't working, declining a supplier proposal, asking Tom to reconsider a timeline).
 
 **What this skill does at her scale:**
 - Calibrates tone to recipient and channel
@@ -165,7 +165,7 @@ If Maddie corrects tone, structure, or wording, see Learning Hook below.
 | Tone | When | Hallmarks |
 |---|---|---|
 | **Familiar** | Tom, Harry (post first 4 weeks), close friends, family | "Hi Tom,", prose, conversational connectors ("Quick one,", "On the Stride thing,"), contractions, British casual register, short sentences. No bold section headers. |
-| **Internal-warm** | Fade Group colleagues she's still building rapport with (Linda, Wendy, Helen, Aaron, F&E therapists, Mark, Jason) | Professional but warm, brief, friendly close. Light structure if needed. |
+| **Internal-warm** | Fade Group colleagues she's still building rapport with (Lynda, Wendy, Helen, Aaron, F&E therapists, Mark, Jason) | Professional but warm, brief, friendly close. Light structure if needed. |
 | **External-warm** | Ambassadors she knows (Luke, Katie), regular suppliers, known agencies | Friendly but business-y. Specific. Includes deadlines and clear next step. |
 | **Cold outreach** | New potential ambassadors, partner brands, content collabs, suppliers she hasn't worked with | Hook (specific to them), credibility (one sentence), value, single low-friction ask. Polished, not casual. |
 | **Sensitive / Difficult** | Hard messages, declines, pushback to Tom or Harry, dropping an ambassador, telling a supplier the work isn't right | Direct opener (no burying the lead), the message, next steps, availability for questions. Tone calibrated to relationship: a familiar recipient still gets directness, just wrapped warmer. **Use [[Difficult Conversation Prep]] for stakes-high cases.** |

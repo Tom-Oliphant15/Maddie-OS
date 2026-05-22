@@ -58,6 +58,39 @@ Full schema and step list: [[install-state-file-schema]].
 
 ## Process
 
+### Day Zero preamble (read this to Maddie BEFORE Step 0)
+
+Before any commands run, spend 3 to 5 minutes walking Maddie through what's about to happen, what she's getting, and why each step matters. The install is the orientation. Don't skip this.
+
+**Script (adapt to the room, don't read verbatim):**
+
+> Here's what we're doing today. By the end, you'll have your own OS running on this MacBook with everything connected: Gmail and Calendar and Drive, Slack, the GitHub mirror Tom uses to manage things remotely from Australia, and Metricool (next week, that one's not ready today). Plus a Brain that already knows the three brands, your tone of voice, your audience for each service, what works on which channel, all of it. The form you filled in is now living inside the OS.
+>
+> The install takes about an hour. It's mostly waiting for connections to authorise. Here's the rough shape:
+>
+> 1. **Small command-line bits.** Homebrew + jq + Claude Code. These are tools the OS uses behind the scenes. One-time install, then they're done forever.
+> 2. **The GitHub link.** Your laptop generates a unique key, Tom adds it to the repo on his side. After that, your OS syncs with GitHub every morning when you say "morning", and again when you say "done" at night. If anything ever breaks, Tom can pull it down on his Mac, fix it, push it back, and the next morning your OS pulls the fix automatically.
+> 3. **Google sign-in.** You'll be asked to sign in once as `marketing@fadegroup.uk`. That connects Gmail, Calendar, and Drive in one shot.
+> 4. **Slack sign-in.** Same thing for Fade Group Slack. You'll OAuth once, the token's stored securely on your Mac, never written into any file.
+> 5. **First push.** Your OS commits its current state to GitHub so Tom can see install progress live.
+> 6. **Diagnostics.** I run a full health check on everything that just got set up. Anything that's not healthy, we fix before declaring done.
+> 7. **Learning.** I walk you through the parts of the Brain that need a final pass — most of it's already filled in from your bootstrap form, this is just the gaps. About 15 to 30 minutes.
+> 8. **Day One tour.** I show you the Cheat Sheet (lives in your Brain so you can read it any time, also printed for your desk), your First Week guide, and the `/help` skill (Teach) for anything else.
+>
+> A few things to know going in:
+>
+> - **You're on Claude Code.** Different from Claude Desktop and from the Claude website. Claude Code is the app the OS runs inside. You're talking to it now.
+> - **Claude Max plan.** Tom has confirmed this is paid for / will be paid for shortly. The OS works on the standard plan but you'll hit rate limits during longer skills. Max gives you headroom.
+> - **You don't need a GitHub account.** Your laptop talks to the repo via a deploy key. Tom owns the GitHub side end-to-end. If your laptop's ever lost or stolen, Tom deactivates the key in 10 seconds and your access is gone, no breach.
+> - **The OS lives at `~/Documents/Maddie OS/`.** You can open it in Finder any time. Everything's just markdown files. You can edit them by hand if you want, the OS reads from those files live.
+> - **If anything breaks during install, I tell you what happened and offer three ways forward.** Never a black-box failure. If it's something Tom needs to look at, I draft a Slack message for you to send him.
+>
+> Any questions before we start?
+
+Wait for Maddie to confirm. Then move to Step 0.
+
+---
+
 ### 0. Read state and confirm with Maddie
 
 ```bash
@@ -76,16 +109,16 @@ If file does not exist, create it with all steps `pending` and move on.
 
 ---
 
-### 1. Homebrew installed
+### 1. Homebrew and small utilities installed
 
-**Plain English:** "Homebrew is a tool that lets us install command-line apps on your Mac. We need it for `gh` and a couple of small utilities. One-time install, never has to be done again."
+**Plain English:** "Homebrew is a tool that lets us install small command-line utilities on your Mac. We need it for `jq`, which the OS uses to read and write its own state files. One-time install, never has to be done again. (We're NOT installing GitHub's `gh` tool on your Mac, you don't need it. Your laptop talks to GitHub via the deploy key we set up in Step 3. Tom uses `gh` on his side to manage the repo.)"
 
 **Test:**
 ```bash
-which brew && brew --version
+which brew && brew --version && which jq && jq --version
 ```
 
-**If missing:**
+**If brew missing:**
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
@@ -95,31 +128,20 @@ echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
-**Re-test.** Pass when `brew --version` returns a version string.
+**Then install jq:**
+```bash
+brew install jq
+```
+
+**Re-test.** Pass when `brew --version` AND `jq --version` both return a version string.
 
 **Failure (L3):** Use the standard three-way escalation. Most common cause: macOS prompted for password and Maddie missed it. Option A walkthrough re-runs the command and prompts her to enter her Mac password.
 
----
-
-### 2. `gh` CLI installed
-
-**Plain English:** "The `gh` command is the official GitHub command-line tool. The OS uses it for everything except pushing files (the deploy key handles push and pull)."
-
-**Test:**
-```bash
-gh --version
-```
-
-**If missing:**
-```bash
-brew install gh
-```
-
-**Re-test.** Pass when `gh --version` returns.
+**Note:** Homebrew install requires Maddie to be physically at her laptop for the sudo password prompt. This step cannot be run remotely.
 
 ---
 
-### 3. Claude Code installed
+### 2. Claude Code installed
 
 **Plain English:** "Claude Code is the app this OS runs inside. If you are talking to me, this is already done."
 
@@ -132,9 +154,11 @@ which claude
 
 Pass when `claude --version` returns.
 
+**Note on Claude plan:** the OS works best on Claude Max. Without it, Maddie will hit rate limits during longer skills (Campaign Brief Expander, Pre-publish Check on multi-asset inputs, Learning bootstrap). Tom to confirm Max is paid for **before** install fires, or budget for it on install day. Install does not block on plan tier, but skills will degrade gracefully if rate-limited.
+
 ---
 
-### 4. GitHub deploy key generated
+### 3. GitHub deploy key generated
 
 **Plain English:** "Your laptop needs a unique key the OS's GitHub repo will recognise. Think of it like a hotel key card for one specific room. If your laptop is lost, Tom can deactivate the card remotely in 10 seconds."
 
@@ -156,7 +180,7 @@ ssh-keygen -t ed25519 \
 
 ---
 
-### 5. GitHub deploy key authorised on the repo
+### 4. GitHub deploy key authorised on the repo
 
 **Plain English:** "Now the repo has to accept the key. Tom does this part. After this step, your laptop is on the repo's allow-list."
 
@@ -203,7 +227,7 @@ Expected output contains: `Hi Tom-Oliphant15/Maddie-OS!` (or similar repo acknow
 
 ---
 
-### 6. Git clone
+### 5. Git clone
 
 **Plain English:** "Now we copy the OS files from GitHub onto your laptop. Once this is done, the OS lives at `~/Documents/Maddie OS/`."
 
@@ -248,26 +272,7 @@ git clone git@github.com-maddie-os:Tom-Oliphant15/Maddie-OS.git "Maddie OS"
 
 ---
 
-### 7. `gh` CLI authenticated
-
-**Plain English:** "The `gh` tool needs to be logged in to read repo info, see issues, etc. Different from the deploy key in step 4. The deploy key handles file pushing. `gh` handles everything else."
-
-**Test:**
-```bash
-gh auth status 2>&1 | grep -q "Logged in to github.com"
-```
-
-**If missing:**
-```bash
-gh auth login --hostname github.com --git-protocol ssh --web
-```
-Walks Maddie through browser-based auth. She needs to use the GitHub account Tom has set up for her (machine account, no personal data).
-
-**If Maddie does not have credentials for the machine account:** L3 escalation to Tom.
-
----
-
-### 8. Google Workspace MCP
+### 6. Google Workspace MCP
 
 **Plain English:** "This is the OS's connection to Gmail, your calendar, and Google Drive. It is the most useful single connection. We are about to open a Google sign-in page in your browser. Sign in as `marketing@fadegroup.uk` and approve the permissions."
 
@@ -290,7 +295,7 @@ First call triggers the browser-based Google sign-in. Maddie completes it.
 
 ---
 
-### 9. Slack MCP
+### 7. Slack MCP
 
 **Plain English:** "This connection lets the OS read Slack messages and post to channels. You will be asked to sign in to the Fade Group Slack workspace."
 
@@ -306,7 +311,7 @@ First call triggers the browser-based Google sign-in. Maddie completes it.
 
 ---
 
-### 10. Metricool MCP
+### 8. Metricool MCP
 
 **Plain English:** "Metricool tracks your social media across the three brands (Fade Golf, Stride, Fire & Earth Leamington). This is set up the same day we set up your Metricool account, normally Wed 21 May. If we are pre-Wed, this step is deferred."
 
@@ -318,7 +323,7 @@ First call triggers the browser-based Google sign-in. Maddie completes it.
 
 ---
 
-### 11. First push to GitHub
+### 9. First push to GitHub
 
 **Plain English:** "Last connection step. We commit the current state of your OS and push it back to GitHub. After this, Tom can see your install on his side. Every session end after this happens automatically."
 
@@ -344,7 +349,7 @@ git push
 
 ---
 
-### 12. Run Diagnostics for the first time
+### 10. Run Diagnostics for the first time
 
 **Plain English:** "We just installed everything. Now let me run a full health check to confirm it all works end to end."
 
@@ -356,7 +361,7 @@ Mark `diagnostics_first_run` pass when Diagnostics completes.
 
 ---
 
-### 13. Run Learning for the first time (initial Brain bootstrap)
+### 11. Run Learning for the first time (initial Brain bootstrap)
 
 **Plain English:** "Last meaningful step. The Brain needs the starting facts about you, the group, and the three brands so the skills produce useful output rather than generic. I am going to ask you targeted questions one at a time. Takes 30 to 45 minutes. After this, the OS learns on the job, you will not need to run this again unless we ever do a full reinstall."
 
@@ -368,7 +373,7 @@ Pass `learning_first_run` when Learning returns (whether Maddie completed all P1
 
 ---
 
-### 13a. Measure the P1 minimum bar
+### 11a. Measure the P1 minimum bar
 
 Independent of how Learning exited, measure the Brain against the P1 bar before declaring install complete.
 
@@ -378,7 +383,7 @@ Write the resulting array of unmet items to `.install-state.json` under `onboard
 
 ---
 
-### 13b. Initialise monitoring state files
+### 11b. Initialise monitoring state files
 
 Write initial timestamps to the state files Daily Briefing checks, so first-morning briefing does not unnecessarily auto-fire Diagnostics or Trends Watch.
 
@@ -399,7 +404,7 @@ Mark `state_files_initialised` as pass.
 
 ---
 
-### 13c. Create Reviews + Information subfolders that downstream skills expect
+### 11c. Create Reviews + Information subfolders that downstream skills expect
 
 Multiple skills assume per-skill output folders exist before they can save their first run. They each have self-heal logic (create-if-missing) but doing it once here makes the first runs cleaner and lets the Brain Directory + git see the empty folders as intentional structure rather than skill-specific surprises.
 
@@ -438,7 +443,7 @@ This step exists because the cross-skill install gap was surfaced during cold-te
 
 ---
 
-### 14. Mark install complete (or complete-with-onboarding-in-progress)
+### 12. Mark install complete (or complete-with-onboarding-in-progress)
 
 ```bash
 # Determine final status
@@ -482,6 +487,32 @@ git push
 
 ---
 
+### 13. Day One Tour (orientation walkthrough)
+
+After install reports complete (or complete-with-onboarding-in-progress), do not just end the conversation. Walk Maddie through the four artifacts she needs to know about, with one concrete demonstration of each. This is the moment the OS becomes hers.
+
+**Script:**
+
+> Last bit. Four things you need to know about, then we're done.
+>
+> **1. Your Cheat Sheet.** Lives at `Brain/Onboarding/Daily Cheat Sheet.md`. Every trigger phrase the OS responds to, grouped by job. You can read it any time by saying "cheat sheet". It's also printed for your desk in `Assets/Maddie OS Daily Cheat Sheet.pdf` if you want a paper version. Try it now: say "cheat sheet" and I'll show you the section on drafting content.
+>
+> **2. Your First Week guide.** Lives at `Brain/Onboarding/Your First Week.md`. Mon-to-Fri task list, one job per day, end-to-end coverage by Friday. You can read it any time by saying "first week" or "what should I do this week". For tomorrow morning, just say "morning" — that's Monday's task.
+>
+> **3. The `/help` skill (Teach).** When you don't know what to say, say `/help` and describe the job. The OS will find the right skill or walk you through it. Also kicks in if you say things like "how do I draft an email" or "I'm not sure what to say". Try it now: say "/help" and tell me one job you've got on your plate this week — I'll show you which skill to use.
+>
+> **4. Daily Briefing and Session End.** Tomorrow morning, say `morning` (or `hey`, `hi`). That fires your Daily Briefing — diary, top three, the lot. At the end of any working session, say `done` (or `that's it`, `wrap up`). That fires Session End — saves Brain updates, pushes to GitHub. Two phrases, bookend the day.
+>
+> Anything else, just describe what you want in plain English. The OS routes itself most of the time. When it doesn't, `/help` does.
+
+**Demo at least one** (whichever Maddie engages with first). The point is muscle-memory: the first time she says "/help" is the install, not three days later when she's stuck.
+
+**Optional fifth thing (if there's energy in the room):** show her the Brain. Open `Brain/Brain Directory.md` in Finder and walk her through what's in there. "This is the knowledge that makes every skill produce useful output instead of generic. The form you filled in is now living in these files. As you work, the OS keeps it current — you don't have to come back and update it." Reinforces the Live Brain Update concept from Instructions.md.
+
+Mark `day_one_tour_completed` as pass in `.install-state.json` so we know orientation happened (not just connections wired up).
+
+---
+
 ## L4 Freeze Handling
 
 If any step encounters an L4 condition (destructive action requested, git conflict on push, integrity violation), Install:
@@ -518,6 +549,7 @@ When option B is chosen on an L3 failure, draft using the templates in [[install
 
 | Date | Change |
 |---|---|
+| 2026-05-22 | **Stripped Maddie-side `gh`. Added Day Zero preamble + Day One Tour. Added `jq` to Step 1.** Tom flagged on 2026-05-22 that Maddie doesn't need her own GitHub account or `gh` on her Mac. File sync happens via the deploy key (her keypair, Tom authorises on his Mac). `gh` is Tom-side only (for `gh repo deploy-key add` in Step 4). Edits: (a) Step 2 (`gh` install on Maddie's Mac) **removed**. (b) Step 7 (`gh auth login` on Maddie's Mac) **removed**. (c) Step 1 (Homebrew) reframed: explanation now says "we are NOT installing gh on your Mac", and adds `brew install jq` because `jq` is required by Step 12 but was previously never installed. (d) Step 2 (Claude Code) gained explicit note on Claude Max plan being required for headroom on longer skills — Install doesn't block on plan tier but flags it. (e) Remaining steps renumbered (was 1 to 14 with 13a/13b/13c; now 1 to 12 with 11a/11b/11c). (f) State file schema updated: `gh_cli_installed` + `gh_cli_authenticated` removed; `homebrew_installed` renamed to `homebrew_and_jq_installed`; `output_folders_initialised` + `day_one_tour_completed` added as explicit state rows. (g) **New Day Zero preamble** added BEFORE Step 0: 3 to 5 minute orientation script that walks Maddie through the rough shape of the install + what each tool is for + how the OS works + key things to know (Claude Code vs Desktop, Max plan, no GitHub account needed, OS location on disk, failure handling). The install IS the orientation; this preamble is mandatory. (h) **New Step 13 Day One Tour** added at the end (between Step 12 and L4 freeze handling): walks Maddie through the four artifacts she needs to know about (Cheat Sheet at `Brain/Onboarding/Daily Cheat Sheet.md`, First Week guide at `Brain/Onboarding/Your First Week.md`, the `/help` Teach skill, and the morning/done bookend phrases) with one live demo of each. Optional fifth: open the Brain in Finder and reinforce Live Brain Update. Mark `day_one_tour_completed` as pass so we know orientation happened, not just connections. Companion change: onboarding artifacts converted from `Assets/*.docx + *.pdf` only to also live as `.md` inside `Brain/Onboarding/` so Maddie can read them mid-conversation any time. Teach skill triggers + new Mode 4b ("Onboarding artifact lookup") route to those files. |
 | 2026-05-18 | Skill stub created during scaffold. Process outline, state file schema, three-way L3 escalation pattern. |
 | 2026-05-20 | **Added P1 minimum-bar gate to install completion.** Install no longer declares plain "complete" if the Brain is too sparse for skills to produce useful output. New Step 13a measures the P1 bar (Maddie.md + Fade Group.md + 3 brand Brain files + 3 voice Tone sections + 3 guidelines colour palettes + Tech Stack). New Step 13b writes initial monitoring state files (`.last-diagnostics-run`, `.last-learning-run`, `.last-trends-run`) so first-morning briefing does not unnecessarily fire Diagnostics/Trends. Step 14 branches on P1 status: `complete` if bar met, `complete-with-onboarding-in-progress` if not (install still proceeds, but Daily Briefing nags daily until cleared). After this initial bootstrap, ongoing Brain updates happen via the Live Brain Update rule in Instructions.md, not via periodic Learning runs. Learning is now bootstrap + complete-reinstall only. |
 | 2026-05-19 | Full implementation: exact bash commands per step, MCP config blocks inline, wrapper script patterns, OAuth flows, Keychain token storage, Slack escalation templates, L4 freeze handling. Ready for use on Mon 19 May. |

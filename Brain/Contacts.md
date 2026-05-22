@@ -1,6 +1,6 @@
 # Contacts
 
-*Last updated: 2026-05-21*
+*Last updated: 2026-05-22 (Olivia promoted from low-frequency therapist row to Clinical Lead F&E with potential Practice Manager move; Manny moved into new External Business Partners subsection — owner of Padel and Play in Stratford, F&E partnership; Nick moved into new Tenants and Facility Renters subsection — PT renting gym space at Stride and Fade Golf; Lynda role clarified to Area Manager across Stride + F&E. All confirmed by Tom 22 May.)*
 
 Canonical contact list for Fade Group people Maddie communicates with. Two sections:
 
@@ -118,18 +118,29 @@ Canonical contact list for Fade Group people Maddie communicates with. Two secti
 | Phone | TBC |
 | Notes | Joined Stride 24 March 2026. Relocated from Nottingham, originally from Goa. |
 
-## Fire & Earth Leamington, therapists
+## Fire & Earth Leamington, team
 
 ### Lynda Parnell
 
 | Field | Value |
 |---|---|
-| Aliases | Lynda. (Spelling note: F&E team list shows "Lynda", earlier Maddie OS Brain referred to her as "Linda". Treat "Lynda" as canonical pending confirmation.) |
-| Role | Operations lead, F&E Leamington. Also therapist. |
+| Aliases | Lynda |
+| Role | **Area Manager** covering both Stride and F&E Leamington. Sits above Practice Managers, Clinical Leads, and Therapists at each clinic. Reports to Tom and Harry. Maddie runs marketing across the area Lynda manages. |
 | Email | TBC |
 | Slack | TBC (not in Fade Group workspace currently) |
 | Phone | TBC |
 | Notes | Primary operational touchpoint for Maddie on F&E side. Confirms timelines that bridge Stride (e.g. Wendy's orthotic cert). |
+
+### Olivia May
+
+| Field | Value |
+|---|---|
+| Aliases | Olivia |
+| Role | **Clinical Lead, F&E Leamington** (current). Potentially moving to **Practice Manager** at F&E. Sits between Therapists and the Area Manager in the clinic hierarchy. |
+| Email | TBC |
+| Slack | TBC |
+| Phone | TBC |
+| Notes | Maddie also references Olivia as a typography / design source for F&E ("see Canva and leaflets or Olivia"). She handles visual / brand work alongside her clinical-lead role; treat her as the F&E-side design touchpoint as well as clinical lead. |
 
 ### Other F&E therapists
 
@@ -137,7 +148,6 @@ Clinical staff Maddie has lower-frequency contact with. Fill rows in as direct c
 
 | Name | Role | Email | Slack | Phone | Notes |
 |---|---|---|---|---|---|
-| Olivia May | Therapist | TBC | TBC | TBC | |
 | Ben Collins | Therapist | TBC | TBC | TBC | |
 | Katie Plank | Therapist | TBC | TBC | TBC | Disambiguate from any other "Katie" who turns up. |
 | Caroline Thompson | Therapist | TBC | TBC | TBC | |
@@ -212,6 +222,35 @@ Aaron Pereira is covered above under Stride (works across both clinics).
 | Email | TBC |
 | Phone | TBC |
 | Notes | Tom and Harry own the Leamington franchise only, Tanya owns the wider network. Maddie's marketing scope is Leamington only, do not push F&E marketing materials into the wider network without Tanya's sign-off via Harry. |
+
+## External Business Partners
+
+Other businesses Fade Group is actively working with. Distinct from contractors (who deliver work for Fade Group) and from ambassadors (who represent a Fade Group brand). Partners run their own business and we work with them on shared activity.
+
+### Manny, Padel and Play
+
+| Field | Value |
+|---|---|
+| Aliases | Manny |
+| Role | Owner of **Padel and Play** — independent business based in **Stratford-upon-Avon**. |
+| Email | TBC |
+| Phone | TBC |
+| Status | Fire & Earth Leamington is actively working with Padel and Play (partnership activity). |
+| Notes | Cross-business partner relationship. Any Padel and Play activity Maddie picks up sits under F&E marketing. Confirm specifics of the partnership scope in next F&E or Harry conversation. |
+
+## Tenants and Facility Renters
+
+People who rent space at Fade Group facilities (e.g. PTs using the gym at Stride or Fade Golf). Not employees, not contractors. They pay rent, use our facilities, and operate their own client books. Worth tracking because they share our space and can be cross-promotion candidates if it suits both sides.
+
+### Nick
+
+| Field | Value |
+|---|---|
+| Aliases | Nick |
+| Role | **Personal Trainer (PT)**. Rents gym space at both Stride and Fade Golf. Runs his own client book. |
+| Email | TBC |
+| Phone | TBC |
+| Notes | Tenant relationship: he's a paying renter of Fade Group facilities, not on the books. Any marketing implication (cross-promotion, member referrals, content) should be a deliberate decision agreed with Harry first. |
 
 ---
 

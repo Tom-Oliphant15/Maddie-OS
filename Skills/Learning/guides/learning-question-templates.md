@@ -162,3 +162,90 @@ These are the templates the skill uses when asking Maddie to fill a gap. Each is
 > - Still deferred, same reason
 > - Now relevant, want to add it
 > - No longer deferred, no longer needed, remove from list
+
+---
+
+## For Fade Group, Organisational Structure
+
+> Walk me through the org structure of the clinics.
+>
+> Specifically:
+> - Who are the **Therapists** (treatment / clinical staff at each location)?
+> - Who are the **Clinical Leads** (senior clinician at each clinic)?
+> - Who are the **Practice Managers** (operational lead at each clinic)?
+> - Is there an **Area Manager** sitting above the clinics? Who?
+> - Above that, who are the **Directors**?
+> - Where does **Marketing** (you) sit in this picture?
+>
+> I will write it into Brain/Fade Group.md so Draft Text and Meeting Prep route messages through the right layer.
+>
+> Fade Golf is structured differently — we'll handle that separately if it has its own hierarchy.
+
+---
+
+## For Fade Group, External Business Partners
+
+> Are there independent businesses Fade Group is **actively partnering with** right now?
+>
+> By partners I mean other businesses Fade Group runs **shared activity** with — not contractors who deliver work for us, and not ambassadors who represent a brand. Partners have their own business and we work together on something joint.
+>
+> For each partner, give me one or two lines:
+> - Name of the partner business and the owner / lead contact
+> - Where they're based
+> - Which Fade Group brand they're partnering with
+> - What the partnership covers (cross-promotion, joint events, shared content, etc.)
+>
+> Examples of what counts: another local business F&E runs an event with, a tournament Fade Golf co-hosts, a wellness brand Stride cross-refers patients to.
+>
+> "None right now" is a valid answer.
+
+---
+
+## For Fade Group, Tenants and Facility Renters
+
+> Does anyone **rent space** at any of the Fade Group facilities?
+>
+> Most common pattern: Personal Trainers renting gym space at Stride or Fade Golf and running their own client books. Could also be therapists renting a treatment room, classes hiring the studio space, anything similar.
+>
+> For each tenant, give me one or two lines:
+> - Name and role (PT, therapist, instructor, etc.)
+> - Which facility they rent at (Stride / Fade Golf / F&E / multiple)
+> - Whether there is any marketing crossover (cross-promotion, shared social, member referrals) or it's a pure rent relationship
+>
+> Why I'm asking: tenants share our space with patients and members, so they affect customer experience and could be cross-promotion candidates. But that's always a deliberate Harry decision, not a default — I just need to know they exist.
+>
+> "Just us, no tenants" is a valid answer.
+
+---
+
+## For stub-state skill
+
+Used when a skill file is flagged as stub-state (e.g. Voice Notes, Cross-Platform Repurposer, Data Pull). The goal is NOT to fill in the skill — that's impossible while the upstream blocker is unresolved. The goal is to make the blocker concrete enough that Tom + Maddie can move it through to resolution rather than letting it sit indefinitely.
+
+> The **[skill name]** skill is currently a stub. The changelog says it's blocked on **[blocker as written in the skill file]**.
+>
+> Three quick questions so we can log this properly in your Open Questions registry:
+>
+> - **Who owns the decision** that unblocks this? (You, Tom, both of you, a third party?)
+> - **What concretely needs to happen** before the skill can be built out? (A software pick, an account setup, a contract, a meeting with someone, an external tool launch?)
+> - **When could it realistically land?** (This week, this month, this quarter, "no current view"?)
+>
+> I'll write the answers into `Information/Open Questions.md` with status "Blocked". Each morning your Daily Briefing will surface it as one of the open items until it gets resolved or the ETA passes. That way the stub stops being invisible and starts being a thing we can actually move.
+
+After Maddie answers, write a row to `Information/Open Questions.md` and confirm with her in one sentence: "Logged. Daily Briefing will surface this each morning until [Owner] confirms it's resolved."
+
+---
+
+## For Key People, role-level verification
+
+> When you mentioned [Name] earlier, you described their role as "[role]". I want to make sure I'm recording their **actual level** in the hierarchy, not just a generic title.
+>
+> Are they a:
+> - Therapist (clinical / treatment staff)
+> - Clinical Lead (senior clinician at a clinic)
+> - Practice Manager (operational lead at a clinic)
+> - Area Manager (covers more than one clinic)
+> - Director (above Area Manager)
+> - Something else (PT tenant, ambassador, contractor, partner — different category entirely)
+>
+> The reason this matters: a Clinical Lead recorded as "Therapist" will get the wrong tone in any draft the OS produces for them, and the wrong routing in meeting prep.

@@ -1,37 +1,61 @@
 # Stride Clinics — Voice
 
-*STATUS: Stub. Locked during Master Marketing Document work, target Wed 28 May 2026.*
+*STATUS: Live. Populated from Maddie OS Bootstrap Form (Maddie, 21 May 2026). Reviewed in-person 22 May.*
 
-## Tone (placeholder)
+## Tone
 
-Clinical and warm. Trustworthy, plain-English. Service-specific:
+Trustworthy, warm, expert, clinical, professional. Plain English for non-medical readers. Service-specific shading:
+
 - **Podiatry / nail surgery:** reassuring, older demographic, no jargon
 - **Sports massage / deep tissue:** active, recovery-focused, professional
-- **Orthotics:** medical-credible, performance-aware (when relaunched)
-- **Run Club:** community-driven, inclusive
+- **Orthotics:** medical-credible, performance-aware (relaunch July)
+- **Run Club:** community-driven, beginner and post-injury inclusive
 
 ## Vocabulary
 
-- **Use:**
-- **Avoid:** medical jargon when speaking to non-medical readers
+**Use:**
+- Professional nail treatment
+- Treating the cause, not just the symptoms
+- Getting you moving again
+- Private podiatry
+- Expert foot care
+- Back on your feet
+- Pain that won't go away
+- Mobility
+- Podiatrist
+- Nail surgery
+
+**Avoid:**
+- Budget
+- Free consultation
+- Simple procedure
+- Basic treatment
+- Cut price
+- Guaranteed results
+- "Just an ingrown toenail"
+- Medical jargon when speaking to non-medical readers
 
 ## Sentence Rhythm
 
-- (Examples to be added)
+Plain, clinical, reassuring. No exclamation pile-ons. No casual "fam"/"guys" openers. Lead with the patient problem, follow with the clinical answer.
 
 ## Reference Posts (locked good examples)
 
-- (To be filled with 3 to 5 anchor posts per service once Master Marketing Document is locked)
+- [360 Podiatry account](https://www.instagram.com/360podiatry/) — good tone benchmark overall. Important caveat: stay away from "feet videos" / anything gross. Stay professional.
+- [Foot scan + cyclists post](https://www.instagram.com/p/Ci0gDYhDv1z/) — used the foot scan equipment, relevant for cyclists who are prominent in summer.
+- [Footscan Centre Newcastle](https://www.instagram.com/footscan_centre_newcastle/) — another professional benchmark.
 
 ## Bad Examples (drift catchers)
 
-- (To be filled with 2 to 3 examples of what NOT to sound like)
+- [Off-voice post 1](https://www.instagram.com/p/DFLg4-zqQ--/)
+- [Off-voice post 2](https://www.instagram.com/p/DOEaiXbDBnH/?img_index=1) — goes off brand
 
 ## Cross-Brand Drift Check
 
 - Compared to Fade Golf: more service-explanatory, less club-cultural
 - Compared to F&E: more clinical/credible, less sensory/wellness-vague
 
----
+## Linked
 
-*This file is a stub. Skills that depend on a locked voice (Cross-Platform Repurposer, Campaign Brief Expander) will flag missing voice content rather than guess. Update this file as the Master Marketing Document work surfaces the locked voice.*
+- [[Stride Clinics]] for brand context
+- [[Stride guidelines]] for visual identity (sister file)

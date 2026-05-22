@@ -70,7 +70,7 @@ Two things to flag: Fire & Earth at zero posts in a 7-day window is the lowest I
 ### 3. Top 3 today
 1. **Read Tom's Luke pitch v3 and reply by 13:30.** Hard deadline before his Luke meeting.
 2. **Stride orthotic holding message goes live today.** Wendy confirmed certification timeline yesterday, July relaunch unlocked.
-3. **Fire & Earth website refresh content shotlist.** Filming Sat with Linda, no shotlist yet.
+3. **Fire & Earth website refresh content shotlist.** Filming Sat with Lynda, no shotlist yet.
 
 [continues...]
 ```

@@ -8,7 +8,7 @@ This stage produces the actual release / consent documents as Word files, ready 
 
 ## Step 9a - List every person needing a signed document
 
-- All on-camera talent (Luke, Linda, Katie, ambassadors, etc.), need a Talent Release
+- All on-camera talent (Luke, Lynda, Katie, ambassadors, etc.), need a Talent Release
 - Stride patients featured in clinical content, need a Stride Patient Consent (NOT the Talent Release)
 - Identifiable customers / members in non-incidental shots, need a Talent Release
 - Skip: people in genuinely incidental background where the venue has signage covering filming, OR who will be blurred / cropped out in post

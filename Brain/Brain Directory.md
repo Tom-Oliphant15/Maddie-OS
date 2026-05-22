@@ -1,6 +1,6 @@
 # Brain Directory
 
-*Last updated: 2026-05-21 (Teach skill added under new Learning the OS group. Interactive `/help` skill that reads skill files at runtime, five modes for first-week onboarding through to steady-state lookup. Earlier today: Seven master skills imported and adapted for Maddie OS: Grill Me, Critique, Quick Research, Slack Search, Continuation Note, Difficult Conversation Prep, Draft Text. Slack Workspace.md Brain file added under Tech Stack section to support Slack Search. Earlier: Contacts.md added under new Contacts section, Fade Group employees only. Mirrored subset of Tom OS Contacts. Earlier still: Onboarding model changed: Learning is now install-bootstrap + complete-reinstall only, no longer periodic. After install clears the P1 minimum bar, the OS adapts on the job via the Live Brain Update rule in Instructions.md. Document Linking Convention added to Instructions.md to make the propagation mechanism explicit: canonical source per fact, transclusion via `![[file#heading]]`, edit at source. Skills updated: Install gained Step 13a (P1 bar measurement) + Step 13b (initial state files), Daily Briefing Step 1b repurposed as onboarding-gap nag, Learning scoped down to bootstrap/reinstall. Identity Locks layer added to Instructions.md: identity-level Brain content (colours, voice tone, strategic positioning, etc.) requires drift-detection + binary permanent/one-off question before any write; operational content stays friction-free; adds to locked lists run freely, only replacements/removals fire the flag.)*
+*Last updated: 2026-05-22 (Pre-install readiness sweep. New Brain/Onboarding/ section added with Daily Cheat Sheet and Your First Week as living .md files so they're accessible mid-conversation, not just as printed PDFs. Install skill stripped of Maddie-side gh dependency, added Day Zero preamble + Day One Tour, added jq install. New Information/Open Questions.md is the durable registry for unanswered questions / stub-state decisions / deferred follow-ups; Learning writes to it on park, Daily Briefing surfaces unresolved rows each morning post-install. Teach skill gained onboarding-artifact triggers + Mode 4b. Earlier today: Brain bootstrapped from Maddie's returned Bootstrap Form. 9 files populated: 3 brand voice files now Live with tone, vocab use/avoid, references, drift catchers; 3 brand guidelines now Live with colour palette — Fade Golf #41873c, Stride #204f7f, F&E #b01227 — logo background rules, and imagery style; 3 business pages now have audience + channels filled per Maddie's words; Maddie.md gained working-week pattern, brief format preferences and push-back style; Fade Group.md Key People table rewritten with per-person relationship context; Contacts.md gained Olivia marketing flag and stub rows for Manny + Nick. Same-day resolution from Tom on all three parked items: Lynda confirmed canonical (and is Area Manager across Stride + F&E, not just F&E operations); Olivia is Clinical Lead F&E (potentially moving to Practice Manager); Manny owns Padel and Play in Stratford (F&E partnership); Nick is a PT renting gym space at Stride + Fade Golf. Org hierarchy added to Fade Group.md (Therapists → Clinical Leads → Practice Managers → Area Manager (Lynda) → Directors → Marketing Lead across all). Earlier: Teach skill added under new Learning the OS group. Interactive `/help` skill that reads skill files at runtime, five modes for first-week onboarding through to steady-state lookup. Earlier today: Seven master skills imported and adapted for Maddie OS: Grill Me, Critique, Quick Research, Slack Search, Continuation Note, Difficult Conversation Prep, Draft Text. Slack Workspace.md Brain file added under Tech Stack section to support Slack Search. Earlier: Contacts.md added under new Contacts section, Fade Group employees only. Mirrored subset of Tom OS Contacts. Earlier still: Onboarding model changed: Learning is now install-bootstrap + complete-reinstall only, no longer periodic. After install clears the P1 minimum bar, the OS adapts on the job via the Live Brain Update rule in Instructions.md. Document Linking Convention added to Instructions.md to make the propagation mechanism explicit: canonical source per fact, transclusion via `![[file#heading]]`, edit at source. Skills updated: Install gained Step 13a (P1 bar measurement) + Step 13b (initial state files), Daily Briefing Step 1b repurposed as onboarding-gap nag, Learning scoped down to bootstrap/reinstall. Identity Locks layer added to Instructions.md: identity-level Brain content (colours, voice tone, strategic positioning, etc.) requires drift-detection + binary permanent/one-off question before any write; operational content stays friction-free; adds to locked lists run freely, only replacements/removals fire the flag.)*
 
 ## Purpose
 
@@ -40,11 +40,20 @@ Do NOT read all Brain files. Only pull what the current task requires. Skills by
 
 ---
 
+## Onboarding (always available, especially first week)
+
+*Load when: Maddie asks "what do I say for X", "cheat sheet", "first week", "what should I do today". The canonical reference for OS triggers and first-week tasks. The Teach skill routes here for phrase-lookup and orientation questions.*
+
+- [[Daily Cheat Sheet]] — the cheat sheet of all OS triggers grouped by job-to-be-done. Living .md version of `Assets/Maddie OS Daily Cheat Sheet.docx` (also printed as PDF for desk pinning). Edit this file as triggers evolve; the printable artifact regenerates from here.
+- [[Your First Week]] — Mon-to-Fri task list for Maddie's first week using the OS. One job per day, each ~5 to 20 minutes, end-to-end coverage by Friday. Living .md version of `Assets/Maddie OS Your First Week.docx`.
+
+---
+
 ## Fade Group
 
 *Load when: any group-level work, cross-brand strategy, ownership questions.*
 
-- [[Fade Group]] — group overview, businesses, key people (Tom, Harry, Maddie, Linda, Mark, Luke, Jason, Katie)
+- [[Fade Group]] — group overview, businesses, key people (Tom, Harry, Maddie, Lynda, Mark, Luke, Jason, Katie)
 
 ---
 
@@ -171,7 +180,7 @@ For deeper context, load the relevant Brand Brain file.
 
 - **Fade Golf** — premium golf brand. Luke = new face-of-Fade angle. Filming with Jason on swing/membership. AI-built website live.
 - **Stride Clinics** — clinical/health. Multi-service (podiatry, sports massage, orthotics). Mark on technical (Google tag, WordPress). Per-service Google Ads restructure incoming.
-- **Fire & Earth Leamington** — wellness/retreat-feel coworking. Linda operational. Smaller marketing footprint.
+- **Fire & Earth Leamington** — wellness/retreat-feel coworking. Lynda operational. Smaller marketing footprint.
 
 ---
 

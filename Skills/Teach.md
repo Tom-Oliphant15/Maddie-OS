@@ -16,12 +16,27 @@ triggers:
   - "show me what the OS can do"
   - "what can you do"
   - "is there a way to"
+  - "cheat sheet"
+  - "what do I say"
+  - "what do I say for"
+  - "first week"
+  - "what should I do this week"
+  - "what's my first week"
+  - "what am I meant to do today"
 type: Interactive Help
 ---
 
 **Purpose:** Help Maddie learn and use her OS. Answers questions about how things work, suggests the right skill for a job-to-be-done, offers live demos rather than long descriptions, and routes to Tom when escalation is the right call.
 
 Reads the actual skill files and Brain Directory at runtime. Never duplicates content; always points at canonical sources. Stays in sync with the OS as it evolves because it reads the OS, it doesn't memorise it.
+
+---
+
+## Changelog
+
+| Date | Change |
+|---|---|
+| 2026-05-22 | **Onboarding-artifact triggers + Mode 4b added.** Tom's directive on 2026-05-22 was to have the Cheat Sheet and First Week guide accessible from inside the OS at any time, not just printed/PDF in Assets/. Companion change: both artifacts converted to `.md` in `Brain/Onboarding/` so Claude Code can read them mid-conversation. Teach skill gained: (a) new triggers ("cheat sheet", "what do I say", "what do I say for", "first week", "what should I do this week", "what's my first week", "what am I meant to do today"); (b) Context section now loads the two onboarding files on demand; (c) **new Mode 4b: Onboarding artifact lookup** — for cheat-sheet questions, reads `Daily Cheat Sheet.md`, finds the section that matches Maddie's job, quotes the exact trigger verbatim, offers to run the skill; for first-week questions, reads `Your First Week.md` and points at the right day's task; always ends with the next concrete action, not a description. The artifacts are the canonical reference; Teach surfaces them with one-line tailoring rather than reinventing the answer. |
 
 ---
 
@@ -38,6 +53,8 @@ Reads the actual skill files and Brain Directory at runtime. Never duplicates co
 - The specific skill file Maddie asks about (e.g. `Skills/Campaign Brief Expander.md`)
 - The relevant brand Brain file if the question is about a specific brand
 - [[Tech Stack]] if the question is about tools, MCPs, or CLIs
+- `Brain/Onboarding/Daily Cheat Sheet.md` if the question is "cheat sheet", "what do I say", or any phrase-lookup question best answered by the canonical reference
+- `Brain/Onboarding/Your First Week.md` if the question is "first week", "what should I do this week", or any orientation question during the first 7 days post-install
 
 ---
 
@@ -164,6 +181,32 @@ The skill operates in five modes. Detect mode from the question; switch mode if 
    - Generic / stale output (e.g. campaign brief feels off-brand): probably a Brain gap, suggest checking the brand voice file or running [[Audience Persona Builder]]
    - "I don't know which skill" generic confusion: switch to Mode 2 (Phrase Lookup)
 3. If still stuck after 2 turns: route to Mode 5 (Escalate).
+
+### Mode 4b: Onboarding artifact lookup ("cheat sheet" / "first week")
+
+**Trigger phrases:** "cheat sheet", "what do I say", "what do I say for [job]", "first week", "what should I do this week", "what am I meant to do today" (especially during the first 7 days post-install).
+
+**Behaviour:**
+
+- For cheat-sheet questions ("what do I say for X"): read `Brain/Onboarding/Daily Cheat Sheet.md`, find the section that matches Maddie's job-to-be-done, quote the exact trigger phrase verbatim, offer to run the skill now.
+- For first-week questions ("what should I do this week"): read `Brain/Onboarding/Your First Week.md`. If she's mid-week, point at the right day's task. If she's done that day's task already, point at tomorrow's. If she's lost the thread, route to Monday and start there.
+- Always end with the next concrete action ("want me to run that for you?" / "ready for Wednesday's task?"), not a description.
+
+**Example — cheat-sheet question:**
+
+> Maddie: "what do I say to brief a shoot"
+>
+> Teach: "For a filming brief, you say `filming brief for [talent] [content type]`. So for Luke's swing reels, that's `filming brief for Luke swing reels`. Want me to run it now?"
+
+**Example — first-week question on a Thursday:**
+
+> Maddie: "what should I do today"
+>
+> Teach: "Today's Thursday — that's pressure-testing day in your First Week guide. You say `grill me on this` against something you're about to commit to (a shoot, an ambassador ask, a campaign direction). Takes about 15 minutes. Got something you'd like to grill?"
+
+The point of this mode is that the artifacts already exist as the canonical reference — Teach surfaces them with one-line tailoring rather than reinventing the answer.
+
+---
 
 ### Mode 5: Escalate ("I need Tom")
 

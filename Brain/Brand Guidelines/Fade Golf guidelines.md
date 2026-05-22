@@ -1,72 +1,76 @@
 # Fade Golf — Brand Guidelines
 
-*STATUS: Stub. Target lock: 28 May 2026 (alongside Master Marketing Document).*
+*STATUS: Live (colours, typography, logo, imagery). Populated from Maddie OS Bootstrap Form (Maddie, 21 May 2026). Asset-type specifics + composition rules still to lock with Master Marketing Document, target 28 May.*
 
-This file is the visual + brand identity reference. Used by [[Visual Brand Check]] to verify any design asset matches the brand. Sister file to [[Fade Golf voice]] (which handles text tone). Both lock together during the Master Marketing Document work.
+This file is the visual + brand identity reference. Used by [[Visual Brand Check]] to verify any design asset matches the brand. Sister file to [[Fade Golf voice]] (which handles text tone).
 
 ---
 
 ## Colour palette
 
-**Primary:**
-**Secondary:**
-**Accent (sparingly):**
-**Backgrounds:**
-**Avoid:**
-
-*(To be filled. Run /learning when ready.)*
+**Primary:** `#41873c` (green), `#000000` (black)
+**Secondary:** `#ffffff` (white)
+**Accent (sparingly):** to be defined
+**Backgrounds:** black is the default for logo placement; green and white used for content blocks
+**Avoid:** red (Fire & Earth), blue (Stride), gold. Mixing shades of green within the same grid — all greens should match or be very close.
 
 ## Typography
 
-**Headlines:**
-**Body:**
-**Display / decorative (if any):**
-**Avoid:**
+**Headlines:** Anton (used in most recent leaflets)
+**Body:** Glacial Indifference (used in most recent leaflets)
+**Display / decorative:** see Canva and existing leaflets for previously used fonts
+**Avoid:** mixing fonts across the grid — designs that drift to a different headline font throw the grid off
 
 ## Logo
 
-**Where required:**
-**Where optional:**
-**Where forbidden:**
-**Clear space:**
-**Minimum size:**
-**Colour variants and when to use each:**
+**Where required:** all content Fade Golf produces
+**Background rule:** logo always sits on a black background
+**Clear space / minimum size:** to be confirmed (see Canva brand kit)
 
 ## Imagery style
 
-**Use:**
-**Avoid:**
-**Composition preferences:**
+**Use:** premium golf photography. Real photography over stock where possible.
+**Avoid:** stock images. The "laddy" / social side of golf. Anything that drifts away from the premium positioning.
+**Composition preferences:** keep it fun while staying premium. Movement and skill in frame, not posed social shots.
 
 ## Composition
 
-**Headline alignment:**
-**CTA placement:**
-**Margin discipline:**
+**Headline alignment:** TBC (lock with Master Marketing Document)
+**CTA placement:** TBC
+**Margin discipline:** TBC
 
 ## Asset-type specifics
 
 ### Instagram feed (1080x1080)
 
+Static posts are not performing — reels and short videos with a scroll-stopping cover are the priority format.
+
 ### Instagram story / reel (1080x1920)
+
+Reels with strong covers — primary format.
 
 ### Facebook (various)
 
+Copy adapts from Instagram; static posts also underperforming on Facebook. Less static, more reel-style content.
+
 ### Email / website
 
+TBC
+
 ### Leaflet / print
+
+Anton + Glacial Indifference pairing as established. Personal leaflet drops in motion.
 
 ## Reference assets
 
 **Locked good examples:**
-- (3 to 5 designs that nailed the Fade Golf visual)
+- [Design that nailed it](https://www.instagram.com/p/DVeTWjziLEe/) — informative, easy to read.
 
 **Bad examples (drift catchers):**
-- (2 to 3 designs that drifted off-brand, with why)
+- [Off-brand design](https://www.instagram.com/p/DJLh89Rt5wd/?img_index=1) — font and colour went off-brand, throws the grid off.
+- Recurring drift across the feed: posts using different fonts or different shades of green. Should all match or be very close.
 
 ---
-
-*This file is a stub. Visual Brand Check Group B (brand adherence) requires this file locked. Until then, Visual Brand Check runs Group A (visual layout) only. Update this file via /learning when Maddie is ready, or as part of Master Marketing Document work.*
 
 ## Linked
 

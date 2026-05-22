@@ -12,7 +12,7 @@ type: Workflow
 
 **Purpose:** Given a content shoot (talent, location, goal, deadline), produce a complete platform-native filming brief: hook, script architecture, shotlist for 9:16 first, sequence with retention pacing, talking points, B-roll grouped by use case, captions and post direction, UK consent and usage rights, mini call sheet, deliverables matrix. Maddie hands the brief to the talent and crew. They film. She edits.
 
-Recurring need: Luke and Jason swing / membership reels (filming within 2 weeks), Linda F&E shoot, Run Club content with Katie, future ambassador filming, Stride patient content.
+Recurring need: Luke and Jason swing / membership reels (filming within 2 weeks), Lynda F&E shoot, Run Club content with Katie, future ambassador filming, Stride patient content.
 
 ---
 

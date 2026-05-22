@@ -17,13 +17,11 @@ Reference for `.install-state.json`, the source of truth for Install progress.
   "last_run_completed": null,
   "machine_hostname": "Maddies-MacBook-Pro.local",
   "steps": {
-    "homebrew_installed":           { "status": "pending", "tested_at": null, "error": null },
-    "gh_cli_installed":             { "status": "pending", "tested_at": null, "error": null },
+    "homebrew_and_jq_installed":    { "status": "pending", "tested_at": null, "error": null },
     "claude_code_installed":        { "status": "pending", "tested_at": null, "error": null },
     "github_deploy_key_generated":  { "status": "pending", "tested_at": null, "error": null },
     "github_deploy_key_authorised": { "status": "pending", "tested_at": null, "error": null },
     "git_clone":                    { "status": "pending", "tested_at": null, "error": null },
-    "gh_cli_authenticated":         { "status": "pending", "tested_at": null, "error": null },
     "google_workspace_mcp":         { "status": "pending", "tested_at": null, "error": null },
     "slack_mcp":                    { "status": "pending", "tested_at": null, "error": null },
     "metricool_mcp":                { "status": "pending", "tested_at": null, "error": null },
@@ -31,7 +29,9 @@ Reference for `.install-state.json`, the source of truth for Install progress.
     "diagnostics_first_run":        { "status": "pending", "tested_at": null, "error": null },
     "learning_first_run":           { "status": "pending", "tested_at": null, "error": null },
     "onboarding_p1_bar":            { "status": "pending", "tested_at": null, "p1_remaining": null, "error": null },
-    "state_files_initialised":      { "status": "pending", "tested_at": null, "error": null }
+    "state_files_initialised":      { "status": "pending", "tested_at": null, "error": null },
+    "output_folders_initialised":   { "status": "pending", "tested_at": null, "error": null },
+    "day_one_tour_completed":       { "status": "pending", "tested_at": null, "error": null }
   }
 }
 ```

@@ -149,6 +149,10 @@ Two to four sharp recommendations. Each one specific, actionable, with reasoning
 
 **If Step 1b held an onboarding-P1 gap list, that is recommendation #1, every morning, until cleared.** Full wording for the P1 nag is in the template.
 
+**Open Questions surface (always, post-install).** Read `Information/Open Questions.md`. Pull rows where status is **Open**, **Blocked**, or **Parked** AND the ETA has passed OR is "TBC" AND the row was discovered more than 7 days ago. Surface up to 3 in priority order (older first), as a separate "Open questions worth resolving this week" recommendation block. One row per line: `[Question] — [Owner] — [Blocker]`. Skip silently if Open Questions.md doesn't exist (pre-install) or has no qualifying rows.
+
+This is the durable companion to the bootstrap `gap_list` surfacer: even after install completes, Open Questions keeps surfacing follow-ups Maddie needs to chase to resolution. Stops stub-state skills from becoming invisible.
+
 Critical persona: do not pad to 4 if there are only 2 real recommendations. Quality over quantity. If Diagnostics surfaced L3 issues in Section 0, do NOT re-surface them as recommendations. They are already there with their three-way choice.
 
 ### 11. Write to file

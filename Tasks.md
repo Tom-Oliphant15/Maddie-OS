@@ -60,7 +60,7 @@
 |---|---|---|---|
 | Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May) | Harry |
 | Architecture for Britt influencer monitoring tooling (Apify MCP) | Cross | Britt influencer campaign template not yet arrived | Britt |
-| Wendy's orthotic certification | Stride | ~4-week training window, sets real July launch date | Linda confirms |
+| Wendy's orthotic certification | Stride | ~4-week training window, sets real July launch date | Lynda confirms |
 
 ---
 
