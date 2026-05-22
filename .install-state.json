@@ -25,9 +25,9 @@
       "timestamp": "2026-05-22T13:25:15Z"
     },
     "google_workspace_mcp": {
-      "status": "deferred",
-      "note": "Blocked on permissions arg fix (duplicate gmail:drafts + gmail:readonly). Tom to resolve. Re-run install to pick up.",
-      "timestamp": "2026-05-22T14:55:00Z"
+      "status": "partial",
+      "note": "Gmail MCP connected and confirmed live (marketing@fadegroup.uk). Calendar + Drive still pending — Google Workspace MCP blocked on permissions arg fix (duplicate gmail:drafts + gmail:readonly). Tom to resolve.",
+      "timestamp": "2026-05-22T15:15:00Z"
     },
     "slack_mcp": {
       "status": "pass",
@@ -39,7 +39,9 @@
       "note": "Metricool OAuth not yet set up for 3 brands. Defer until Metricool Advanced trial is live."
     },
     "first_push": {
-      "status": "pending"
+      "status": "pass",
+      "note": "State file committed and pushed to origin/main.",
+      "timestamp": "2026-05-22T15:10:00Z"
     },
     "diagnostics_first_run": {
       "status": "pending"
