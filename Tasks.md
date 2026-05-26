@@ -38,7 +38,7 @@
 | Scope corporate golf day with Harry — put a date in the diary | June/July TBC | Maddie + Harry |
 | Design pro-am tie-in campaign once Luke confirms pro-am pricing | TBC | Maddie |
 | Monthly free assessment giveaway: draft recurring campaign brief | TBC | Maddie |
-| Confirm Fade Golf combined Jason + Luke filming date | This week | Maddie (organising) |
+| Send proposed filming dates to Jason, Harry + Luke | Next week (Luke wedding this week) | Maddie |
 | Filming with Luke + Jason for swing / membership reels | Within 2 weeks | Maddie + Luke + Jason |
 | Fade Golf AI website walkthrough with Tom | Fri 30 May | Tom + Maddie |
 
@@ -46,10 +46,9 @@
 | Task | Deadline | Owner |
 |---|---|---|
 | Stride Google Ads restructure (per-service campaigns) | Once Google tag fixed | Maddie + Tom (sense-check) |
-| Orthotics: remove from booking + holding message | This week | Maddie |
 | Orthotics: July relaunch campaign | July | Maddie |
 | Stride website refresh (new headshots, bios, videos) | This month | Maddie |
-| Run Club content with Katie, edit and post | Ongoing (filmed 13 May) | Maddie |
+| Run Club content with Katie, edit and post | Ongoing | Maddie |
 | Leaflet distribution (GPs, physio clinics, gyms, lampposts) | Next week | Maddie |
 
 ### Fire & Earth Leamington
@@ -74,6 +73,7 @@
 
 | Task | Completed | Notes |
 |---|---|---|
+| Run Club content with Katie posted | 2026-05-26 | Filmed 13 May, edited and posted. |
 | Slack upgraded to paid plan | 2026-05-26 | Tom approved. #fire-and-earth-management channel reconnected. Workflows restored. |
 | Claridges printing quote approved + printing collected | 2026-05-26 | F&E leaflets, 500x A5 double-sided 170gsm. Quote accepted, print collected. |
 |---|---|---|

@@ -36,6 +36,19 @@ When Tom runs `/admin report` on his Mac and decides to roll up, the current con
 
 *(Append-only below this line. Most recent at the top.)*
 
+### 2026-05-26, Session End
+
+**Goal status:** met
+**Duration:** from 10:05 morning briefing
+**Skills fired:** Session End, Continuation Note (reviewed)
+**Tasks completed:** Run Club content posted (1). Tasks updated: orthotics booking-removal task removed, filming date task updated, half marathon content task added.
+**Brain files changed:** Fade Golf.md, Fire & Earth Leamington.md, Stride Clinics.md, Fade Group.md, Tech Stack.md (5 files)
+**New files:** Information/Campaigns/F&E Leamington Half Marathon 2026-06-14.md
+**Connection state change:** Google Workspace Calendar/Drive MCP confirmed live (Tom fix applied 2026-05-26)
+**Git:** pushing to origin/main
+
+---
+
 ### 2026-05-22, Session End — install day
 
 **Goal status:** met

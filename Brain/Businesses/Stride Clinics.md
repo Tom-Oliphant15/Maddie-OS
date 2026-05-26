@@ -9,7 +9,7 @@ Multi-service clinical health under Fade Group. Podiatry, sports massage (to be 
 ## Strategic Direction
 
 - Per-service Google Ads restructure once Mark's Google tag / conversion tracking fix lands (in progress this week, hard blocker on measurement)
-- Orthotics paused (booking removed, holding message live), relaunch in July when Wendy's certification lands (~4-week training window, Lynda confirms exact date)
+- Orthotics: not being actively marketed while Wendy completes training. Still available via Stride (not removed from booking), no holding message needed. Relaunch July once Wendy's certification lands (~4-week training window, Lynda confirms exact date).
 - Nail surgery flagged as a high-revenue focus area for ad spend
 - Website refresh in motion (new headshots, bios, videos)
 - **Sports massage to "deep tissue" rebrand:** when launching, make it clear *why* the rebrand happened. Explain what deep tissue massage actually is and address common misconceptions (it's not just-for-athletes, it serves a broader / older demographic too).

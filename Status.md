@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-05-26 (Maddie OS Wishlist 2026-05-18 transcript processed into [[Information/Maddie OS Wishlist 2026-05-18]] for historical record + cross-reference against Phase 2 Plan. Two gaps surfaced for Tom decision: Cross-Platform Repurposer + Data Pull stubs blocked on Metricool OAuth; cross-system credential search and auto-update-master-doc-from-conversations not on Phase 2 plan. Prior: 2026-05-22 install complete on Maddie's MacBook, Slack + Gmail live, Calendar / Drive / Metricool deferred.)*
+*Last updated: 2026-05-26 (Afternoon session: Jason met, Brain updated. Orthotics approach clarified -- not removing from booking, pausing active marketing until Wendy's training complete. Calendar/Drive MCP confirmed live (Tom fix applied). Harry back 3 June afternoon. Run Club content posted. F&E Leamington Half Marathon (14 June) -- lead-up content sequence and campaign file created. Prior morning: Luke proposal revised + sent to Tom. Slack upgraded. Printing done.)*
 
 ---
 
@@ -44,9 +44,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Brand | Status | Current Marketing Focus |
 |---|---|---|
-| Fade Golf | Active | Luke sponsorship/ambassador pitch (Tom + Maddie + Harry, four-way Fri 23 May). Filming with Luke + Jason for swing/membership reels. |
-| Stride Clinics | Active | Google tag/conversion tracking fix with Mark (this week). Per-service Google Ads restructure once tag is fixed. Orthotic relaunch July. Run Club content with Katie (filmed 13 May). |
-| Fire & Earth Leamington | Active | Marketing canvas setup. Incentive scheme decision parked with Harry. Run Club content with Katie Plank (F&E therapist, filmed 13 May). |
+| Fade Golf | Active | Luke deal confirmed (2026 lower-tier, 2027 step-up). Jason met 26 May -- happy with direction, will feed coaching videos + feedback. Filming with Luke + Jason + Harry being scheduled (next week, Luke at wedding this week). |
+| Stride Clinics | Active | Google tag/conversion tracking fix with Mark -- blocked until Harry back 3 June. Orthotics available to book but not actively marketed until Wendy's training complete. Run Club content posted. |
+| Fire & Earth Leamington | Active | Leamington Half Marathon pop-up (14 June) -- lead-up content sequence ready, campaign file created. Padel and Play pop-up TBC. Incentive scheme parked until Harry back. |
 
 ---
 
@@ -56,12 +56,12 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Action | Brand | Owner | Status | Deadline |
 |---|---|---|---|---|
-| Send WordPress admin login from Harry (Jetpack blocked Mark's invite) | Stride | Harry to Maddie | Blocked | This week |
+| Send WordPress admin login from Harry (Jetpack blocked Mark's invite) | Stride | Harry | Blocked until 3 June | w/c 1 June |
 | Read Metricool deep research drop (delivered 14 May), gut-check feedback | Cross | Maddie | To Do | This week |
-| Confirm Fade Golf combined Jason + Luke meeting date | Fade Golf | Maddie | To Do | This week |
+| Send proposed filming dates to Jason + Harry + Luke | Fade Golf | Maddie | To Do | Next week (Luke wedding this week) |
 | Master marketing document draft (per-service positioning) | Cross | Maddie (lead) | In Progress | Wed 28 May |
 | Slack-based weekly reporting template | Cross | Maddie | To Do | This week |
-| Monthly performance report cadence locks | Cross | Maddie | To Do | From ~30 May |
+| Post F&E half marathon lead-up content (4 posts + stories) | F&E | Maddie | To Do | From 4 June |
 
 ---
 

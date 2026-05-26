@@ -10,7 +10,7 @@ Premium golf brand under Fade Group. Membership + simulator + retail + content. 
 
 Luke is the face of pro-side Fade. His swing is the scroll-stopper. The funnel runs from free assessments into memberships. Content needs to feel expert and aspirational: "we know what we are talking about, and that is why you need to learn from Luke." Confirmed by Harry 23 May — same framing Maddie pitched, same framing Harry put to Luke directly.
 
-**Deal structure (confirmed 23 May):** Harry in for 2026, lower-tier range. Fade-funded 2027 step-up conditional on Luke delivering. This year is the proving ground. Marketing activity in 2026 must generate the evidence for the 2027 case.
+**Deal structure (confirmed 23 May):** Harry in for 2026, lower-tier range. Fade-funded 2027 step-up conditional on Luke delivering. This year is the proving ground. Marketing activity in 2026 must generate the evidence for the 2027 case. **Note:** this is not a formal brand sponsorship — the arrangement sits under Tom/Fade Golf rather than being labelled as a named sponsorship externally. Jason confirmed 26 May he is happy with the Luke angle.
 
 **Content shading by product line:**
 - **Membership content** — needs to sell. Luke built into the membership pitch explicitly, not just social. He is part of the "dream" alongside Jason and Harry.
@@ -20,7 +20,7 @@ Luke is the face of pro-side Fade. His swing is the scroll-stopper. The funnel r
 ## Key People
 
 - **Luke** — new ambassador. Face-of-Fade angle. Filming brief covers content side. Maddie has not met him yet but understands she will work closely with him.
-- **Jason** — filming partner. Swing-focused and membership content reels. Maddie has not met him yet but understands he will own the visual and practical side of Fade Golf.
+- **Jason** — PGA Pro, 30% shareholder. Met Maddie for the first time 26 May. Happy with all marketing direction and the Luke angle. Will be a presence on Fade Golf content rather than leading it — feeds ideas, gives feedback, sends coaching videos for Maddie to use. No significant personal social following. Good source of raw coaching content material.
 
 ## Gym Tenants
 
@@ -29,7 +29,7 @@ Luke is the face of pro-side Fade. His swing is the scroll-stopper. The funnel r
 ## Active Campaigns / Content Streams
 
 - **Tom membership promo Reel** — filmed Fri 22 May. Edit due 25 May (overdue). Tone-check + schedule due 27 May.
-- **Filming with Luke + Jason** — swing and membership reels. Stays on list from 13 May meeting. Date TBC.
+- **Filming with Luke + Jason (+ Harry)** — swing and membership reels. Luke is getting married this week so earliest realistic date is next week. Could do Jason + Harry without Luke in the meantime but preference is to get everyone together for a big content day. Maddie sending dates to all parties.
 - **Monthly free assessment giveaway** — Luke delivers the assessment. Recurring campaign, not one-off. Convert into Luke-led coaching upsells. Design the upsell conversion mechanism before launch so 2027 step-up case is evidenced.
 - **Pro-am tie-in** — sim-based monthly mini-challenge, quarterly leaderboard, winners get a pro-am spot with Luke at a Clutch or Albatross event. Design once Luke confirms pro-am pricing. Do not plan content around this until pricing is confirmed.
 - **Cross-business shoot day** — recovery, biomech, and physio content shot in a single day with Luke being treated on camera by the team. Stride and F&E both get content. Plan as a proper production day once Luke filming date is set.
@@ -93,7 +93,7 @@ See [[Fade Golf voice]] — populated 21 May from the Bootstrap Form. Trustworth
 - Luke Instagram: not posted since February. Needs rebuilding before ambassador campaigns can rely on his reach. Harry building a holding one-pager this week; full Instagram rebuild is a longer thread.
 - Corporate golf day scoping — needs a specific date in diary with Harry or it will not happen.
 - Pro-am pricing from Luke — gating item for pro-am tie-in campaign design.
-- Confirm Fade Golf Jason + Luke filming date (Maddie organising).
+- Confirm Jason + Luke + Harry filming date — Maddie sending proposed dates next week (Luke's wedding this week).
 - Fade Golf AI website walkthrough with Tom (Fri 30 May).
 - Maddie to gain Google Ads access (confirm what's running).
 - Confirm Email / newsletter state (does one exist, who owns).

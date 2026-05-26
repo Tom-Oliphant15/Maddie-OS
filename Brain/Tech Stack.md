@@ -12,7 +12,7 @@ Minimal stack. Fewer MCPs means fewer failure modes for Maddie to diagnose. Add 
 
 | MCP | Status | Connected on | Used by | Notes |
 |---|---|---|---|---|
-| Google Workspace | Day 0 (Mon 19 May) | marketing@fadegroup.uk | Daily Briefing, Voice Notes, Campaign Brief Expander, Session End | Single MCP covers Gmail + Calendar + Drive. Launched via port-collision wrapper (`workspace-mcp-launch.sh`) to avoid clashing with Tom's instance. |
+| Google Workspace | Live (fix applied by Tom 2026-05-26) | marketing@fadegroup.uk | Daily Briefing, Voice Notes, Campaign Brief Expander, Session End | Single MCP covers Gmail + Calendar + Drive. Launched via port-collision wrapper (`workspace-mcp-launch.sh`) to avoid clashing with Tom's instance. |
 | Slack | Day 0 (Mon 19 May) | Fade Group workspace | Daily Briefing, Session End, weekly marketing reports | Maddie's primary written channel. Read + post. |
 | Metricool | Day 3 (Wed 21 May) | 3 brands OAuth (Fade Golf, Stride, Fire & Earth Leamington) | Data Pull | Added when Metricool Advanced trial is set up. Phase 2 plan deliverable Wed 21 May. |
 

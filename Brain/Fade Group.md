@@ -26,13 +26,13 @@ Relationship context per person, written from Maddie's perspective (Bootstrap Fo
 | Person | Role | Maddie's working relationship |
 |---|---|---|
 | **Tom Oliphant** | Director, co-founder | Australia-based. Maddie works with Tom mostly on **Fade Golf and Stride**: direction the business is going, long-term plans, how to get there, what needs to be put in place. Weekly 30-min Zoom. Manages OS remotely via GitHub sync. |
-| **Harry Sherlock** | Director, co-founder | Leamington-based, Maddie's daily in-person. Works with Harry across **all three businesses**, with the **biggest focus on Fire & Earth**. Conversation centres on how the business should progress and expand, which services to focus on, and how marketing gets the business there. Also treating clinician at Stride. **Currently on holiday as of 26 May 2026. Back w/c 1 June 2026 (exact day unknown).** |
+| **Harry Sherlock** | Director, co-founder | Leamington-based, Maddie's daily in-person. Works with Harry across **all three businesses**, with the **biggest focus on Fire & Earth**. Conversation centres on how the business should progress and expand, which services to focus on, and how marketing gets the business there. Also treating clinician at Stride. **Currently on holiday. Back 3 June 2026 (afternoon).** |
 | **Claire** | Outgoing director | One-year sell-out. Settlement in progress. Marketing comms route through Tom/Harry only during settlement period. |
 | **Maddie** | Marketing Lead | This OS belongs to her. |
 | **Lynda Parnell** | Area Manager (across Stride + F&E) | Lynda is the Area Manager covering both Stride and F&E — sitting above Practice Managers, Clinical Leads, and Therapists at each clinic. Maddie works with her closely on both sides. Lynda has first-hand visibility of what both teams want, what they're struggling with, and what they want more of. Strong source for Maddie's planning. |
 | **Mark Hudson** | Technical contractor, Stride | Maddie feeds Mark website information for Stride — any photos or info she needs updated, any data she wants linked to the website or pulled from the site. WordPress, Google tags, conversion tracking sit with him. |
 | **Luke** | Fade Golf ambassador (pending) | Maddie hasn't met Luke yet, but understands she'll be working with him closely on Fade Golf — making him the face of the brand and pushing his assessments and memberships. |
-| **Jason** | Fade Golf (PGA Pro, 30% shareholder) | Maddie hasn't met Jason yet. Will be working with him more on the **visual and practical side** of Fade Golf — filming content and discussing what he would want to see from Fade. |
+| **Jason** | Fade Golf (PGA Pro, 30% shareholder) | Met for the first time 26 May. Happy with all marketing direction and the Luke angle. His role is a **presence on Fade Golf** rather than driving content decisions — he will feed ideas, give feedback, and send coaching videos for Maddie to use as content. No significant personal social following. Works well alongside Maddie's direction. |
 | **Katie** | Stride Run Club | Marketing the Run Club with her. Discussions cover what Katie wants from the club and how she wants it marketed. If it becomes a membership, develop the marketing from there. |
 | **Wendy** | Senior podiatrist, Stride | Wendy does biomechanics and foot scans. Maddie will be working closely with Wendy to get content and to build a better understanding of the service before marketing it. |
 | **James (JDF)** | Group-level accountant | Maddie has not yet met James. Defer to his professional judgement on anything financial. |
@@ -88,7 +88,7 @@ All four categories live in [[Contacts]] under "Clients & External".
 
 - **Master Marketing Document** is in draft, target lock Wed 28 May 2026. Three-way sign-off (Tom + Harry + Maddie). Will become the canonical positioning doc per service across the three brands. Lives in Google Drive, referenced from this Brain.
 - **Phase 2 build window** (19 May to 3 June 2026) is the bridge between Maddie joining and her running solo while Tom returns to Australia.
-- **Stride orthotics** is paused (booking removed, holding message), relaunch in July when Wendy's certification lands.
+- **Stride orthotics** — available to book but not being actively marketed while Wendy completes training. Relaunch July when certification lands.
 - **Luke ambassador angle** is the strategic shift for Fade Golf. Pitch redesign in progress, four-way meeting Fri 23 May to lock terms.
 
 ---

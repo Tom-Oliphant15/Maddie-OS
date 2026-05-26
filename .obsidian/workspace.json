@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "09b58f098b4a1299",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac212e7185aecc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d3be063339fe004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information/Filming Briefs/2026-05-22 Fade Golf Tom Membership Promo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-22 Fade Golf Tom Membership Promo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "052b08952b26acec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd0118fd44e3ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae968b33a0891e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6dc97a5249c9b408",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e79ed243f718d60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e488602c38c6ae23",
+    "type": "split",
+    "children": [
+      {
+        "id": "93a36731dabc2354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac06e9c0305bcb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information/Filming Briefs/2026-05-22 Fade Golf Tom Membership Promo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-05-22 Fade Golf Tom Membership Promo"
+            }
+          },
+          {
+            "id": "1f72c4db8124b892",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information/Filming Briefs/2026-05-22 Fade Golf Tom Membership Promo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-05-22 Fade Golf Tom Membership Promo"
+            }
+          },
+          {
+            "id": "fa00226d4261ff4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95b0854d5fc3871a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "60f46578b03ec000",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information/Filming Briefs/2026-05-22 Fade Golf Tom Membership Promo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-05-22 Fade Golf Tom Membership Promo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1d3be063339fe004",
+  "lastOpenFiles": [
+    "Information/Fade Golf Luke Marketing - Revised 2026-05-26.docx",
+    "Reviews/Daily/2026-05-26.md",
+    "Information/Talent Releases/Drafts/2026-05-22 Fade Golf Tom - Talent Release.docx",
+    "Information/Filming Briefs/2026-05-22 Fade Golf Tom Membership Promo.docx"
+  ]
+}

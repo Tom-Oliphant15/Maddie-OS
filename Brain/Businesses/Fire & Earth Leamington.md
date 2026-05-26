@@ -35,6 +35,8 @@ Other live strategic threads:
 - Run Club launch (cross-Stride)
 - Marketing canvas setup
 - Website refresh assets
+- **Leamington Half Marathon (14 June)** — F&E will have a presence at the event. Announcement content + filming brief needed. Content to go out before the day; filming on the day.
+- **Padel and Play pop-up** — F&E x Padel and Play (Manny) event. Dates TBC.
 
 ## Audience
 
@@ -112,6 +114,8 @@ See [[Fire & Earth voice]] — populated 21 May from the Bootstrap Form. Premium
 - F&E website refresh
 - Rebrand rollout sequencing (new hires, Run Club, services)
 - Maddie to gain Google Ads access
+- Leamington Half Marathon (14 June) — announcement content + filming brief in progress
+- Padel and Play pop-up — dates TBC
 
 ---
 
