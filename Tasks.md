@@ -31,8 +31,14 @@
 ### Fade Golf
 | Task | Deadline | Owner |
 |---|---|---|
-| Four-way Luke meeting (Tom + Harry + Maddie + Luke) | Fri 23 May | All |
-| Confirm Fade Golf combined Jason + Luke meeting date | This week | Maddie (organising) |
+| Watch for Luke's costed proposal to Harry — chase if not received | Fri 29 May | Maddie |
+| Four-way meeting (Tom + Maddie + Harry + Luke) — schedule once proposal lands | After Fri 29 May | Maddie (organising) |
+| Set up tournament-week cross-posting flow with Luke (before his next event) | Before Luke's next tournament | Maddie + Luke |
+| Meet Luke post-wedding: audit his socials, agree improvement plan, pull inspiration accounts | TBC (post-wedding) | Maddie |
+| Scope corporate golf day with Harry — put a date in the diary | June/July TBC | Maddie + Harry |
+| Design pro-am tie-in campaign once Luke confirms pro-am pricing | TBC | Maddie |
+| Monthly free assessment giveaway: draft recurring campaign brief | TBC | Maddie |
+| Confirm Fade Golf combined Jason + Luke filming date | This week | Maddie (organising) |
 | Filming with Luke + Jason for swing / membership reels | Within 2 weeks | Maddie + Luke + Jason |
 | Fade Golf AI website walkthrough with Tom | Fri 30 May | Tom + Maddie |
 
@@ -58,7 +64,7 @@
 
 | Task | Brand | Blocker | Owner |
 |---|---|---|---|
-| Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May) | Harry |
+| Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May). Tom does not have credentials. Harry on holiday until w/c 1 June — earliest resolution 1 June. | Harry |
 | Architecture for Britt influencer monitoring tooling (Apify MCP) | Cross | Britt influencer campaign template not yet arrived | Britt |
 | Wendy's orthotic certification | Stride | ~4-week training window, sets real July launch date | Lynda confirms |
 
@@ -67,6 +73,9 @@
 ## Done
 
 | Task | Completed | Notes |
+|---|---|---|
+| Slack upgraded to paid plan | 2026-05-26 | Tom approved. #fire-and-earth-management channel reconnected. Workflows restored. |
+| Claridges printing quote approved + printing collected | 2026-05-26 | F&E leaflets, 500x A5 double-sided 170gsm. Quote accepted, print collected. |
 |---|---|---|
 | OS prototype scaffold + folder structure | 2026-05-18 | 23 files initial, expanded to 42+ during build |
 | Install + Session End + Daily Briefing fully fleshed | 2026-05-19 | Foundation trio |

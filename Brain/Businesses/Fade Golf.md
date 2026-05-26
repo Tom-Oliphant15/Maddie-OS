@@ -8,12 +8,12 @@ Premium golf brand under Fade Group. Membership + simulator + retail + content. 
 
 ## Strategic Direction
 
-Pivoting Luke's sponsorship from "him-him-him" framing to **face-of-Fade ambassador** angle. Pitch redesign in progress. Four-way meeting Fri 23 May with Tom, Harry, Maddie, Luke to lock terms.
+Luke is the face of pro-side Fade. His swing is the scroll-stopper. The funnel runs from free assessments into memberships. Content needs to feel expert and aspirational: "we know what we are talking about, and that is why you need to learn from Luke." Confirmed by Harry 23 May — same framing Maddie pitched, same framing Harry put to Luke directly.
 
-Luke as face: feels like the strongest available brand angle. He is a professional with a show-stopper swing that golfers aspire to. Content needs to feel expert and professional — "we know what we are on about, and that's why you need to learn from Luke."
+**Deal structure (confirmed 23 May):** Harry in for 2026, lower-tier range. Fade-funded 2027 step-up conditional on Luke delivering. This year is the proving ground. Marketing activity in 2026 must generate the evidence for the 2027 case.
 
 **Content shading by product line:**
-- **Membership content** — needs to sell. Show the money is going towards genuine improvement in swing and ability.
+- **Membership content** — needs to sell. Luke built into the membership pitch explicitly, not just social. He is part of the "dream" alongside Jason and Harry.
 - **Simulator content** — visual-led, the experience itself.
 - **Retail content** — TBC, shade differently from membership / sim.
 
@@ -28,9 +28,14 @@ Luke as face: feels like the strongest available brand angle. He is a profession
 
 ## Active Campaigns / Content Streams
 
-- Luke ambassador rollout (pending pitch lock)
-- Filming with Luke + Jason on swing and membership reels (within 2 weeks)
-- AI-built website walkthrough scheduled Fri 30 May (for Maddie + Tom)
+- **Tom membership promo Reel** — filmed Fri 22 May. Edit due 25 May (overdue). Tone-check + schedule due 27 May.
+- **Filming with Luke + Jason** — swing and membership reels. Stays on list from 13 May meeting. Date TBC.
+- **Monthly free assessment giveaway** — Luke delivers the assessment. Recurring campaign, not one-off. Convert into Luke-led coaching upsells. Design the upsell conversion mechanism before launch so 2027 step-up case is evidenced.
+- **Pro-am tie-in** — sim-based monthly mini-challenge, quarterly leaderboard, winners get a pro-am spot with Luke at a Clutch or Albatross event. Design once Luke confirms pro-am pricing. Do not plan content around this until pricing is confirmed.
+- **Cross-business shoot day** — recovery, biomech, and physio content shot in a single day with Luke being treated on camera by the team. Stride and F&E both get content. Plan as a proper production day once Luke filming date is set.
+- **Tournament-week workflow** — Luke posting during tournaments and tagging Fade. Cross-posting flow to be set up before his next event. Luke is adding Maddie to his tournament photo distribution. Need: date of next tournament.
+- **Corporate golf day fronted by Luke** — Fade corporate network, Luke fronts and advertises. Scope with Harry when headspace allows. Needs a specific scoping date or it will not happen.
+- **AI-built website walkthrough** — scheduled Fri 30 May (Maddie + Tom).
 
 ## Audience
 
@@ -81,12 +86,18 @@ See [[Fade Golf voice]] — populated 21 May from the Bootstrap Form. Trustworth
 
 ## Open Threads
 
-- Luke pitch redesign (Tom solo, evenings before Thu 22 May)
-- Confirm Fade Golf combined Jason + Luke meeting date (Maddie organising)
-- Fade Golf AI website walkthrough with Tom (Fri 30 May)
-- Maddie to gain Google Ads access (confirm what's running)
-- Confirm Email / newsletter state (does one exist, who owns)
-- Decide TikTok pivot if short-form is the route forward
+- Luke's costed proposal to Harry — due Fri 29 May. Gating item for four-way meeting and deliverables lock.
+- Four-way meeting (Tom + Maddie + Harry + Luke) — schedule once proposal lands.
+- Luke's next tournament date — needed to plan cross-posting workflow setup.
+- Luke back from wedding — coffee with Maddie re Instagram rebuild (advising on business page migration).
+- Luke Instagram: not posted since February. Needs rebuilding before ambassador campaigns can rely on his reach. Harry building a holding one-pager this week; full Instagram rebuild is a longer thread.
+- Corporate golf day scoping — needs a specific date in diary with Harry or it will not happen.
+- Pro-am pricing from Luke — gating item for pro-am tie-in campaign design.
+- Confirm Fade Golf Jason + Luke filming date (Maddie organising).
+- Fade Golf AI website walkthrough with Tom (Fri 30 May).
+- Maddie to gain Google Ads access (confirm what's running).
+- Confirm Email / newsletter state (does one exist, who owns).
+- Decide TikTok pivot if short-form is the route forward.
 
 ---
 

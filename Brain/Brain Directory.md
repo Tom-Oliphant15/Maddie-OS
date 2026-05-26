@@ -133,7 +133,7 @@ For external comms: use [[Pre-publish Check]]. For in-flight drafting: use indiv
 - [[Cross-Platform Repurposer]] — take one post, get platform-appropriate variants for Facebook, Instagram, TikTok, and Google Ads. *(Stub, waiting on scheduling software decision.)*
 
 **Production briefs:**
-- [[Filming Brief Generator]] — for any shoot (Luke + Jason, Run Club, F&E). Shotlist, sequence, talking points (not scripts), B-roll, sound notes, post-production direction.
+- [[Filming Brief Generator]] — for any shoot (Luke + Jason, Run Club, F&E). Shotlist, sequence, talking points (not scripts), B-roll, sound notes, post-production direction. Output saved to `Information/Filming Briefs/`. Talent release drafts saved to `Information/Talent Releases/Drafts/`, signed copies to `/Signed/`.
 - [[Talent Ambassador Brief]] — when talent posts from their own account on the brand's behalf. Plain-language one-pager with example caption, hashtag direction, things-to-avoid.
 
 **Paid media:**
