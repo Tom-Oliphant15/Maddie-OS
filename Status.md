@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-05-22 (Install complete on Maddie's MacBook. Slack MCP live, Gmail MCP live. Calendar + Drive deferred pending Google Workspace fix. Metricool deferred pending OAuth. Diagnostics: 0 issues. Learning bootstrap: P1 bar fully met. Katie Plank corrected to F&E therapist + F&E Run Club lead. Brand identity sweep (typography, accent colours, composition) parked for dedicated session. Install status: complete.)*
+*Last updated: 2026-05-26 (Maddie OS Wishlist 2026-05-18 transcript processed into [[Information/Maddie OS Wishlist 2026-05-18]] for historical record + cross-reference against Phase 2 Plan. Two gaps surfaced for Tom decision: Cross-Platform Repurposer + Data Pull stubs blocked on Metricool OAuth; cross-system credential search and auto-update-master-doc-from-conversations not on Phase 2 plan. Prior: 2026-05-22 install complete on Maddie's MacBook, Slack + Gmail live, Calendar / Drive / Metricool deferred.)*
 
 ---
 

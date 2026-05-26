@@ -45,3 +45,12 @@ node_modules/
 # OS Health log DOES sync (committed):
 #   Reviews/OS Health/    → admin tier, Tom reads on pull
 # Intentionally NOT in gitignore.
+
+# CLAUDE.md symlink (Maddie-side only).
+# Canonical master ruleset lives at Instructions.md (matches Tom OS sub-project naming).
+# On Maddie's MacBook, install creates a symlink: CLAUDE.md → Instructions.md
+# so Claude Code auto-loads the ruleset from her project root. The symlink is
+# local-only and must not sync back to the repo; otherwise the repo would carry
+# a CLAUDE.md and conflict with Tom OS's master CLAUDE.md when Tom works on the
+# sub-folder. See [[Install]] Step 5 for the symlink-creation step.
+CLAUDE.md

@@ -1,6 +1,6 @@
 # Maddie OS - Master Ruleset
 
-*Renamed from `Instructions.md` to `CLAUDE.md` on 2026-05-22 when Maddie OS became a standalone project at its own root on her MacBook. Historical changelog entries (in Status.md, Tasks.md, Skills changelogs) still reference "Instructions.md" because that's what the file was called when those entries were written. The file content is the same; only the filename changed so Claude Code on Maddie's Mac picks it up automatically as the project's master ruleset.*
+*Canonical filename: `Instructions.md` (matches the Tom OS sub-project naming convention per Tom OS CLAUDE.md → Project Conventions). On Maddie's MacBook, a gitignored `CLAUDE.md` symlink at the project root points at this file so Claude Code auto-loads it as the project ruleset on her side. The symlink is created during install (see [[Install]] Step 5) and self-maintains across `git pull` because it's a pointer, not a copy. The file you're reading now is the single source of truth; edits flow through `Instructions.md` and propagate to Maddie's `CLAUDE.md` symlink transparently.*
 
 This is Maddie's operating system. Claude acts as her personal assistant across her marketing work for Fade Group: Fade Golf, Stride Clinics, Fire & Earth Leamington.
 

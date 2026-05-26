@@ -155,7 +155,7 @@ For external comms: use [[Pre-publish Check]]. For in-flight drafting: use indiv
 **Setup and self-care (mostly autonomous):**
 - [[Install]] — first-time setup and repair tool. Idempotent. Walks through every connection step by step. Re-run any time something is broken.
 - [[Diagnostics]] — weekly health check (auto-triggered by Daily Briefing). Tests every connection and every skill, self-fixes what it can, surfaces what it cannot with three-way choice (try yourself / escalate / defer).
-- [[Learning]] — one-off Brain bootstrap. Fires once on install (clears P1 minimum bar), or on a complete reinstall. NOT periodic. After install, Brain grows via the Live Brain Update rule in [[CLAUDE]] — facts captured live during conversations.
+- [[Learning]] — one-off Brain bootstrap. Fires once on install (clears P1 minimum bar), or on a complete reinstall. NOT periodic. After install, Brain grows via the Live Brain Update rule in [[Instructions]] — facts captured live during conversations.
 
 **Session lifecycle:**
 - [[Session End]] — updates Status.md, Tasks.md, daily log, pushes to GitHub.

@@ -236,7 +236,7 @@ Expected output contains: `Hi Tom-Oliphant15/Maddie-OS!` (or similar repo acknow
 ```bash
 if [ -d "$HOME/Documents/Maddie OS" ] && [ -n "$(ls -A "$HOME/Documents/Maddie OS" 2>/dev/null)" ]; then
   # Folder exists and non-empty
-  if [ ! -f "$HOME/Documents/Maddie OS/CLAUDE.md" ]; then
+  if [ ! -f "$HOME/Documents/Maddie OS/Instructions.md" ]; then
     echo "L4: $HOME/Documents/Maddie OS exists and has content but is not our OS, refusing to clobber"
     # Fire L4 freeze handling
   fi
@@ -245,7 +245,7 @@ fi
 
 **Test:**
 ```bash
-ls "$HOME/Documents/Maddie OS/CLAUDE.md" 2>/dev/null
+ls "$HOME/Documents/Maddie OS/Instructions.md" 2>/dev/null
 ```
 
 **If missing, configure SSH to use the deploy key for this repo:**
@@ -268,7 +268,27 @@ cd "$HOME/Documents"
 git clone git@github.com-maddie-os:Tom-Oliphant15/Maddie-OS.git "Maddie OS"
 ```
 
-**Pass when** `CLAUDE.md` exists in the cloned folder.
+**Pass when** `Instructions.md` exists in the cloned folder.
+
+### 5a. Create the CLAUDE.md symlink so Claude Code auto-loads the master ruleset
+
+**Plain English:** "Your master ruleset is in a file called `Instructions.md` (to match the Tom OS naming convention). But Claude Code on your Mac looks for a file called `CLAUDE.md` at the project root to auto-load as instructions on every session. We create a symlink, basically a pointer, called `CLAUDE.md` that always reflects the latest `Instructions.md` content. Every time Tom updates `Instructions.md` and you pull, the symlink still points at the live file, so the content is always current. The symlink is gitignored so it doesn't sync back to the repo."
+
+**Setup:**
+```bash
+cd "$HOME/Documents/Maddie OS"
+ln -sf Instructions.md CLAUDE.md
+```
+
+**Test:**
+```bash
+# The symlink should exist and resolve to Instructions.md
+[ -L CLAUDE.md ] && readlink CLAUDE.md
+```
+
+**Pass when** `CLAUDE.md` exists as a symbolic link and `readlink` returns `Instructions.md`.
+
+**Idempotency:** `ln -sf` is safe to re-run. If `CLAUDE.md` already exists as a regular file or wrong-target symlink, the `-f` flag overwrites it cleanly.
 
 ---
 
@@ -367,7 +387,7 @@ Mark `diagnostics_first_run` pass when Diagnostics completes.
 
 Check `.last-learning-run`. If empty, fire `/learning` in **install-bootstrap mode** (Learning's first-run path).
 
-Learning runs through P1 + P2 gaps with Maddie. She can say "park the rest" at any time, but the install does not declare complete until the P1 bar is met. P2 and beyond is captured live on the job after install (see CLAUDE.md → Live Brain Update).
+Learning runs through P1 + P2 gaps with Maddie. She can say "park the rest" at any time, but the install does not declare complete until the P1 bar is met. P2 and beyond is captured live on the job after install (see Instructions.md → Live Brain Update).
 
 Pass `learning_first_run` when Learning returns (whether Maddie completed all P1+P2 or parked).
 
@@ -507,7 +527,7 @@ After install reports complete (or complete-with-onboarding-in-progress), do not
 
 **Demo at least one** (whichever Maddie engages with first). The point is muscle-memory: the first time she says "/help" is the install, not three days later when she's stuck.
 
-**Optional fifth thing (if there's energy in the room):** show her the Brain. Open `Brain/Brain Directory.md` in Finder and walk her through what's in there. "This is the knowledge that makes every skill produce useful output instead of generic. The form you filled in is now living in these files. As you work, the OS keeps it current — you don't have to come back and update it." Reinforces the Live Brain Update concept from CLAUDE.md.
+**Optional fifth thing (if there's energy in the room):** show her the Brain. Open `Brain/Brain Directory.md` in Finder and walk her through what's in there. "This is the knowledge that makes every skill produce useful output instead of generic. The form you filled in is now living in these files. As you work, the OS keeps it current — you don't have to come back and update it." Reinforces the Live Brain Update concept from Instructions.md.
 
 Mark `day_one_tour_completed` as pass in `.install-state.json` so we know orientation happened (not just connections wired up).
 
@@ -549,6 +569,7 @@ When option B is chosen on an L3 failure, draft using the templates in [[install
 
 | Date | Change |
 |---|---|
+| 2026-05-23 | **Step 5a added: CLAUDE.md symlink architecture.** Maddie OS file naming diverged across environments: repo + Tom's working copy keeps `Instructions.md` (matches Tom OS sub-project naming convention per Tom OS CLAUDE.md → Project Conventions), while Maddie's Mac needs `CLAUDE.md` at her project root for Claude Code to auto-load the master ruleset. Yesterday's straight rename caused the wrong-shape state. Today's fix: canonical `Instructions.md` in repo, gitignored `CLAUDE.md` symlink on Maddie's side pointing at it. Symlink self-maintains across `git pull` (pointer, not copy). New Step 5a after git clone runs `ln -sf Instructions.md CLAUDE.md`. Idempotent. .gitignore extended with `CLAUDE.md` + an explanatory comment block. All active references in Brain/Brain Directory.md, Brain/How Your OS Works.md, Skills/Learning.md, Skills/Daily Briefing guides, and Install.md reverted from `CLAUDE.md` / `[[CLAUDE]]` back to `Instructions.md` / `[[Instructions]]`. Historical changelog entries unchanged (they describe what was true at each point in time, which now flows: Instructions.md → briefly CLAUDE.md on 2026-05-22 → Instructions.md from 2026-05-23). |
 | 2026-05-22 | **Stripped Maddie-side `gh`. Added Day Zero preamble + Day One Tour. Added `jq` to Step 1.** Tom flagged on 2026-05-22 that Maddie doesn't need her own GitHub account or `gh` on her Mac. File sync happens via the deploy key (her keypair, Tom authorises on his Mac). `gh` is Tom-side only (for `gh repo deploy-key add` in Step 4). Edits: (a) Step 2 (`gh` install on Maddie's Mac) **removed**. (b) Step 7 (`gh auth login` on Maddie's Mac) **removed**. (c) Step 1 (Homebrew) reframed: explanation now says "we are NOT installing gh on your Mac", and adds `brew install jq` because `jq` is required by Step 12 but was previously never installed. (d) Step 2 (Claude Code) gained explicit note on Claude Max plan being required for headroom on longer skills — Install doesn't block on plan tier but flags it. (e) Remaining steps renumbered (was 1 to 14 with 13a/13b/13c; now 1 to 12 with 11a/11b/11c). (f) State file schema updated: `gh_cli_installed` + `gh_cli_authenticated` removed; `homebrew_installed` renamed to `homebrew_and_jq_installed`; `output_folders_initialised` + `day_one_tour_completed` added as explicit state rows. (g) **New Day Zero preamble** added BEFORE Step 0: 3 to 5 minute orientation script that walks Maddie through the rough shape of the install + what each tool is for + how the OS works + key things to know (Claude Code vs Desktop, Max plan, no GitHub account needed, OS location on disk, failure handling). The install IS the orientation; this preamble is mandatory. (h) **New Step 13 Day One Tour** added at the end (between Step 12 and L4 freeze handling): walks Maddie through the four artifacts she needs to know about (Cheat Sheet at `Brain/Onboarding/Daily Cheat Sheet.md`, First Week guide at `Brain/Onboarding/Your First Week.md`, the `/help` Teach skill, and the morning/done bookend phrases) with one live demo of each. Optional fifth: open the Brain in Finder and reinforce Live Brain Update. Mark `day_one_tour_completed` as pass so we know orientation happened, not just connections. Companion change: onboarding artifacts converted from `Assets/*.docx + *.pdf` only to also live as `.md` inside `Brain/Onboarding/` so Maddie can read them mid-conversation any time. Teach skill triggers + new Mode 4b ("Onboarding artifact lookup") route to those files. |
 | 2026-05-18 | Skill stub created during scaffold. Process outline, state file schema, three-way L3 escalation pattern. |
 | 2026-05-20 | **Added P1 minimum-bar gate to install completion.** Install no longer declares plain "complete" if the Brain is too sparse for skills to produce useful output. New Step 13a measures the P1 bar (Maddie.md + Fade Group.md + 3 brand Brain files + 3 voice Tone sections + 3 guidelines colour palettes + Tech Stack). New Step 13b writes initial monitoring state files (`.last-diagnostics-run`, `.last-learning-run`, `.last-trends-run`) so first-morning briefing does not unnecessarily fire Diagnostics/Trends. Step 14 branches on P1 status: `complete` if bar met, `complete-with-onboarding-in-progress` if not (install still proceeds, but Daily Briefing nags daily until cleared). After this initial bootstrap, ongoing Brain updates happen via the Live Brain Update rule in Instructions.md, not via periodic Learning runs. Learning is now bootstrap + complete-reinstall only. |

@@ -13,7 +13,7 @@ type: Audit
 
 **Purpose:** One-off Brain bootstrap. Reads every Brain file AND every skill file, identifies what is missing (empty sections, stubs, TBC markers, blocked dependencies), asks Maddie targeted questions to fill the gaps, updates the Brain in real time. Anything she can't answer in the moment gets written to [[Open Questions]] (`Information/Open Questions.md`) with owner + blocker + ETA so the follow-up is concrete, not lost. Runs once on install (initial bootstrap to clear the P1 minimum bar) and only re-runs if the OS is fully reinstalled or if Maddie chooses to re-audit the whole Brain manually.
 
-**This is NOT a periodic skill.** Ongoing Brain updates happen on the job via the Live Brain Update rule in [[CLAUDE]]. Any time Maddie tells the OS a Brain-level fact during normal work (a new colour, a new reference post, an audience insight, a tool change), the relevant Brain file is updated immediately. The big-audit format here is for the install-cold-start case only, where the Brain is mostly empty and a structured pass is faster than catching gaps one by one.
+**This is NOT a periodic skill.** Ongoing Brain updates happen on the job via the Live Brain Update rule in [[Instructions]]. Any time Maddie tells the OS a Brain-level fact during normal work (a new colour, a new reference post, an audience insight, a tool change), the relevant Brain file is updated immediately. The big-audit format here is for the install-cold-start case only, where the Brain is mostly empty and a structured pass is faster than catching gaps one by one.
 
 **Educational by design:** every question explains what it is asking and why, so Maddie understands the Brain's structure as it grows and could maintain it herself if she wanted to.
 
@@ -38,7 +38,7 @@ Two legitimate entry paths:
 
 1. **Install bootstrap.** Install Step 13 fires `/learning` on first run. Goal here is to clear the P1 minimum bar (see [[Install]] Step 13a for the bar definition) so skills produce useful output rather than generic. Maddie can park items beyond P1, those get filled live on the job after install.
 
-2. **Complete reinstall or manual full audit.** Maddie can call `/learning` directly any time she wants a structured pass over the whole Brain, but this is rare. Day to day, the OS picks up Brain changes via the Live Brain Update rule in [[CLAUDE]].
+2. **Complete reinstall or manual full audit.** Maddie can call `/learning` directly any time she wants a structured pass over the whole Brain, but this is rare. Day to day, the OS picks up Brain changes via the Live Brain Update rule in [[Instructions]].
 
 **Not entered via:** monthly cadence, Daily Briefing recommendation, time-based auto-trigger. Those were removed.
 
