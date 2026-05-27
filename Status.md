@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-05-26 (Afternoon session: Jason met, Brain updated. Orthotics approach clarified -- not removing from booking, pausing active marketing until Wendy's training complete. Calendar/Drive MCP confirmed live (Tom fix applied). Harry back 3 June afternoon. Run Club content posted. F&E Leamington Half Marathon (14 June) -- lead-up content sequence and campaign file created. Prior morning: Luke proposal revised + sent to Tom. Slack upgraded. Printing done.)*
+*Last updated: 2026-05-27 (Full day session: leaflet drops across Leamington. Three posts out across all brands. Half marathon date corrected to 7 June, campaign file updated. Padel + Play 12 June confirmed and campaign file created. Run Club launch 15 June confirmed. Filming session booked at Stride Mon 1 June. Google Ads update: F&E physio campaign built by Google rep, 2FA blocker until Harry back. Master Marketing Document paused by Tom. Slack update sent to Tom.)*
 
 ---
 
@@ -44,9 +44,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Brand | Status | Current Marketing Focus |
 |---|---|---|
-| Fade Golf | Active | Luke deal confirmed (2026 lower-tier, 2027 step-up). Jason met 26 May -- happy with direction, will feed coaching videos + feedback. Filming with Luke + Jason + Harry being scheduled (next week, Luke at wedding this week). |
-| Stride Clinics | Active | Google tag/conversion tracking fix with Mark -- blocked until Harry back 3 June. Orthotics available to book but not actively marketed until Wendy's training complete. Run Club content posted. |
-| Fire & Earth Leamington | Active | Leamington Half Marathon pop-up (14 June) -- lead-up content sequence ready, campaign file created. Padel and Play pop-up TBC. Incentive scheme parked until Harry back. |
+| Fade Golf | Active | Free assessment post live 27 May. Luke at wedding this week -- filming dates being sent next week. AI website walkthrough with Tom Fri 30 May. Luke proposal due from Harry by Fri 29 May. |
+| Stride Clinics | Active | Google tag fix blocked until Harry back 3 June. Filming session booked Mon 1 June 11:30-12:00 (Helen + Wendy). Nail surgery post live 27 May. Google Ads 2FA blocked until Harry back. |
+| Fire & Earth Leamington | Active | Half Marathon pop-up 7 June -- campaign live, announcement posted 27 May. Padel + Play pop-up 12 June 3pm-7pm -- campaign live, Post 1 built, scheduling tomorrow. Run Club launching 15 June -- story posted. Incentive scheme parked until Harry back. |
 
 ---
 
@@ -57,11 +57,14 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 | Action | Brand | Owner | Status | Deadline |
 |---|---|---|---|---|
 | Send WordPress admin login from Harry (Jetpack blocked Mark's invite) | Stride | Harry | Blocked until 3 June | w/c 1 June |
-| Read Metricool deep research drop (delivered 14 May), gut-check feedback | Cross | Maddie | To Do | This week |
-| Send proposed filming dates to Jason + Harry + Luke | Fade Golf | Maddie | To Do | Next week (Luke wedding this week) |
-| Master marketing document draft (per-service positioning) | Cross | Maddie (lead) | In Progress | Wed 28 May |
-| Slack-based weekly reporting template | Cross | Maddie | To Do | This week |
-| Post F&E half marathon lead-up content (4 posts + stories) | F&E | Maddie | To Do | From 4 June |
+| Google Ads 2FA access (F&E + Stride) | Cross | Harry | Blocked until 3 June | w/c 1 June |
+| Google Ads budget sign-off (F&E physio campaign + existing £10/day) | Cross | Tom + Harry | Awaiting Tom response | This week |
+| Read Metricool deep research drop, gut-check feedback | Cross | Maddie | To Do | Thu 28 May |
+| Send proposed filming dates to Jason + Harry + Luke | Fade Golf | Maddie | To Do | Next week |
+| Master marketing document draft | Cross | Tom (direction) | Blocked -- Tom paused 26 May | TBC |
+| Slack-based weekly reporting template | Cross | Maddie | To Do | Thu 28 May |
+| Post F&E half marathon lead-up content (4 posts + stories) | F&E | Maddie | To Do | From 1 June |
+| Schedule Padel + Play Post 1 graphic | F&E | Maddie | To Do | Tomorrow |
 
 ---
 
@@ -69,6 +72,13 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Item | Completed | Notes |
 |---|---|---|
+| Leaflet drops -- Leamington (all 3 brands) | 2026-05-27 | GPs, gyms, coffee shops, golf clubs, community spots. Warwick + villages remaining this week. |
+| Half marathon announcement post (F&E) | 2026-05-27 | 7 June confirmed. Campaign file corrected and live. |
+| Free assessment post (Fade Golf) | 2026-05-27 | Simulator photo, clean. Caption live on Instagram + Facebook. |
+| Nail surgery post (Stride) | 2026-05-27 | Stock image + caption. Instagram + Facebook. |
+| Run Club story (F&E) | 2026-05-27 | Spaces available nudge linking to booking. |
+| Filming session booked at Stride | 2026-05-27 | Mon 1 June 11:30-12:00 with Helen + Wendy. |
+| Google Ads call (F&E) | 2026-05-27 | Two calls with Google rep. Physio campaign built. 2FA + budget sign-off needed from Harry + Tom. |
 | Brain bootstrapped from returned form | 2026-05-22 | Maddie returned the Bootstrap Form (84 pages, attachment saved to Information/Maddie OS Bootstrap Form.pages). Answers populated into 9 Brain files: 3 brand voice files (Live), 3 brand guidelines files (Live: colours, logo, imagery), 3 business pages (audience + channels), Maddie.md (working preferences), Fade Group.md (Key People relationship context), Contacts.md (Olivia marketing flag + Manny/Nick stub rows). All three parked items resolved same-day by Tom: Lynda confirmed (and clarified as Area Manager across Stride + F&E), Olivia is Clinical Lead F&E (potentially moving to Practice Manager), Manny owns Padel and Play (Stratford, F&E partnership), Nick is a PT renting gym space at Stride and Fade Golf. |
 | Onboarding documentation built | 2026-05-21 | 8 master skills adapted into Maddie OS (Grill Me, Critique, Quick Research, Slack Search, Continuation Note, Difficult Conversation Prep, Draft Text, Teach). 3 onboarding artifacts shipped (Cheat Sheet, First Week checklist, Teach skill). 1 new Brain file (Slack Workspace). All single-page A4 docx + pdf for the printable artifacts. |
 | Project scaffold | 2026-05-18 | Folder structure, 6 skills stubbed, Brain skeleton, OS Health log, Tom OS-side admin tier (Admin Report + fix-library) |

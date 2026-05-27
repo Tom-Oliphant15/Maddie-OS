@@ -8,8 +8,8 @@
 
 | Task | Brand | Deadline | Owner |
 |---|---|---|---|
-| Master marketing document draft (per-service positioning) | Cross | Wed 28 May | Maddie (lead), Tom + Harry sign-off |
 | Stride Google tag / conversion tracking fix with Mark | Stride | This week | Maddie + Mark |
+| Leaflet distribution -- Warwick + surrounding villages | This week | Maddie |
 | OS prototype testing (P1 skills) | OS | Through May | Tom (fresh chat per [[Continue - Maddie OS Skill Testing]]) |
 | Research-first skill retrofits (P1 across both OSs) | OS | Through May | Tom (fresh chat per [[Projects/Continue - Research-First Skill Retrofits]]) |
 
@@ -20,8 +20,8 @@
 ### Cross-business
 | Task | Deadline | Owner |
 |---|---|---|
-| Read Metricool deep research drop, give gut-check feedback to Tom | This week | Maddie |
-| Slack-based weekly reporting template draft | This week | Maddie |
+| Read Metricool deep research drop, give gut-check feedback to Tom | Thu 28 May | Maddie |
+| Slack-based weekly reporting template draft | Thu 28 May | Maddie |
 | First weekly Slack marketing report goes live | Wk of 1 June | Maddie |
 | First monthly written report | From ~30 May | Maddie |
 | Marketing canvases walkthrough + Slack working pattern lock with Tom | Tue 20 May | Tom + Maddie |
@@ -45,15 +45,20 @@
 ### Stride Clinics
 | Task | Deadline | Owner |
 |---|---|---|
+| Print desk sign for Stride | TBC | Maddie |
 | Stride Google Ads restructure (per-service campaigns) | Once Google tag fixed | Maddie + Tom (sense-check) |
 | Orthotics: July relaunch campaign | July | Maddie |
 | Stride website refresh (new headshots, bios, videos) | This month | Maddie |
 | Run Club content with Katie, edit and post | Ongoing | Maddie |
-| Leaflet distribution (GPs, physio clinics, gyms, lampposts) | Next week | Maddie |
+| Film content at Stride — Helen + Wendy | Mon 1 June, 11:30-12:00 | Maddie |
+| Clinic photography session at Stride (real treatment shots for future content) | When Harry back 3 June | Maddie + Harry |
+| Leaflet distribution -- Warwick + villages remaining | Today | Maddie |
 
 ### Fire & Earth Leamington
 | Task | Deadline | Owner |
 |---|---|---|
+| Get banner made for Padel + Play pop-up (12 June) | By 6 June (allow print lead time) | Maddie |
+| Get Aaron's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie |
 | F&E website refresh | This month | Maddie |
 | F&E incentive scheme decision (parked with Harry) | At next Harry meeting | Tom (raise), Harry (decide) |
 
@@ -63,7 +68,9 @@
 
 | Task | Brand | Blocker | Owner |
 |---|---|---|---|
-| Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May). Tom does not have credentials. Harry on holiday until w/c 1 June — earliest resolution 1 June. | Harry |
+| Google Ads 2FA access -- F&E + Stride campaigns (Maddie cannot edit without Harry's authentication) | Cross | Harry away until 3 June | Harry |
+| Master marketing document draft | Cross | Tom paused 26 May -- reviewing reporting structure and wants to streamline. Will come back with direction. | Tom |
+| Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May). Tom does not have credentials. Harry on holiday until w/c 1 June -- earliest resolution 1 June. | Harry |
 | Architecture for Britt influencer monitoring tooling (Apify MCP) | Cross | Britt influencer campaign template not yet arrived | Britt |
 | Wendy's orthotic certification | Stride | ~4-week training window, sets real July launch date | Lynda confirms |
 

@@ -35,8 +35,8 @@ Other live strategic threads:
 - Run Club launch (cross-Stride)
 - Marketing canvas setup
 - Website refresh assets
-- **Leamington Half Marathon (14 June)** — F&E will have a presence at the event. Announcement content + filming brief needed. Content to go out before the day; filming on the day.
-- **Padel and Play pop-up** — F&E x Padel and Play (Manny) event. Dates TBC.
+- **Leamington Half Marathon (7 June)** — F&E pop-up at the event. Campaign file live. Announcement post going out 27 May. Content sequence runs to race day.
+- **Padel and Play pop-up (12 June)** — F&E pop-up at Padel + Play's courts in Stratford. Teaser already posted on socials. Follow-up content in progress.
 
 ## Audience
 
