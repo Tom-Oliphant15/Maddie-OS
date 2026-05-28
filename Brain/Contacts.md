@@ -135,12 +135,12 @@ Canonical contact list for Fade Group people Maddie communicates with. Two secti
 
 | Field | Value |
 |---|---|
-| Aliases | Olivia |
+| Aliases | Olivia, Liv |
 | Role | **Clinical Lead, F&E Leamington** (current). Potentially moving to **Practice Manager** at F&E. Sits between Therapists and the Area Manager in the clinic hierarchy. |
 | Email | TBC |
 | Slack | TBC |
 | Phone | TBC |
-| Notes | Maddie also references Olivia as a typography / design source for F&E ("see Canva and leaflets or Olivia"). She handles visual / brand work alongside her clinical-lead role; treat her as the F&E-side design touchpoint as well as clinical lead. |
+| Notes | Maddie also references Olivia as a typography / design source for F&E ("see Canva and leaflets or Olivia"). She handles visual / brand work alongside her clinical-lead role; treat her as the F&E-side design touchpoint as well as clinical lead. Away until after Wed 3 June 2026. Maddie texted 28 May re F&E print needs -- meeting to follow w/c 4 June. |
 
 ### Katie Plank
 
@@ -152,6 +152,17 @@ Canonical contact list for Fade Group people Maddie communicates with. Two secti
 | Slack | TBC |
 | Phone | TBC |
 | Notes | Run Club content collaboration sits with Maddie. Filming done 13 May 2026, editing and posting cadence ongoing. Treat as internal staff for drafting purposes. |
+
+### Tracey
+
+| Field | Value |
+|---|---|
+| Aliases | Tracey |
+| Role | F&E Leamington team. Handles business cards and print materials for F&E. |
+| Email | TBC |
+| Slack | TBC |
+| Phone | TBC |
+| Notes | First contact 28 May 2026 re Aaron's business cards for Padel + Play pop-up 12 June. May already hold Aaron's details. |
 
 ### Other F&E therapists
 

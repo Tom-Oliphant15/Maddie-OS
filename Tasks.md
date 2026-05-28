@@ -20,8 +20,7 @@
 ### Cross-business
 | Task | Deadline | Owner |
 |---|---|---|
-| Read Metricool deep research drop, give gut-check feedback to Tom | Thu 28 May | Maddie |
-| Slack-based weekly reporting template draft | Thu 28 May | Maddie |
+| Connect Fade Golf to Metricool + report back to Tom Monday | Mon 1 June | Maddie |
 | First weekly Slack marketing report goes live | Wk of 1 June | Maddie |
 | First monthly written report | From ~30 May | Maddie |
 | Marketing canvases walkthrough + Slack working pattern lock with Tom | Tue 20 May | Tom + Maddie |
@@ -57,8 +56,8 @@
 ### Fire & Earth Leamington
 | Task | Deadline | Owner |
 |---|---|---|
-| Get banner made for Padel + Play pop-up (12 June) | By 6 June (allow print lead time) | Maddie |
-| Get Aaron's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie |
+| Order Padel + Play banner from Claridges (£68.39, banner only -- stand already owned) | This week | Maddie | Pending Tom + Harry approval via Slack report |
+| Get Aaron's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- contacted F&E business card supplier 28 May, awaiting quote/confirmation |
 | F&E website refresh | This month | Maddie |
 | F&E incentive scheme decision (parked with Harry) | At next Harry meeting | Tom (raise), Harry (decide) |
 
@@ -69,6 +68,7 @@
 | Task | Brand | Blocker | Owner |
 |---|---|---|---|
 | Google Ads 2FA access -- F&E + Stride campaigns (Maddie cannot edit without Harry's authentication) | Cross | Harry away until 3 June | Harry |
+| F&E Google Tag Manager implementation -- connecting tag to website code | F&E | Maddie has editor access only, not backend/code access. Google Support call 28 May could not proceed. Need whoever has F&E website backend access (Harry or original developer) to insert the GTM snippet. | Harry |
 | Master marketing document draft | Cross | Tom paused 26 May -- reviewing reporting structure and wants to streamline. Will come back with direction. | Tom |
 | Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May). Tom does not have credentials. Harry on holiday until w/c 1 June -- earliest resolution 1 June. | Harry |
 | Architecture for Britt influencer monitoring tooling (Apify MCP) | Cross | Britt influencer campaign template not yet arrived | Britt |
@@ -80,6 +80,12 @@
 
 | Task | Completed | Notes |
 |---|---|---|
+| Metricool research drop read, feedback given to Tom | 2026-05-28 | Metricool Advanced trial agreed. Slack message sent to Tom. |
+| First weekly Slack marketing report sent | 2026-05-28 | Sent to #fade-group-marketing. Saved to Reviews/Weekly Reports/2026-05-28 Weekly Report.md. |
+| Fade Golf free assessment rewritten as giveaway + reposted | 2026-05-28 | Like/Comment/Follow/Tag mechanic. Draw 25 June. |
+| Harry Back brief created | 2026-05-28 | Information/Harry Back - w/c 1 June 2026.md. All blockers consolidated for Harry's return 3 June. |
+| Padel + Play banner reviewed + Claridges quote obtained | 2026-05-28 | £68.39 banner only. Awaiting Tom/Harry approval. |
+| F&E Google Tag call attended | 2026-05-28 | Blocked -- Maddie has editor access only, backend access needed. Logged in Tasks.md blocked. |
 | Run Club content with Katie posted | 2026-05-26 | Filmed 13 May, edited and posted. |
 | Slack upgraded to paid plan | 2026-05-26 | Tom approved. #fire-and-earth-management channel reconnected. Workflows restored. |
 | Claridges printing quote approved + printing collected | 2026-05-26 | F&E leaflets, 500x A5 double-sided 170gsm. Quote accepted, print collected. |

@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-05-27 (Full day session: leaflet drops across Leamington. Three posts out across all brands. Half marathon date corrected to 7 June, campaign file updated. Padel + Play 12 June confirmed and campaign file created. Run Club launch 15 June confirmed. Filming session booked at Stride Mon 1 June. Google Ads update: F&E physio campaign built by Google rep, 2FA blocker until Harry back. Master Marketing Document paused by Tom. Slack update sent to Tom.)*
+*Last updated: 2026-05-28 (Full day session: Fade Golf free assessment rewritten as giveaway and reposted (draw 25 June). Google Support tag call attended -- blocked on F&E website backend access, documented in Information/Harry Back. Metricool Advanced trial agreed and started -- Fade Golf account connection in progress. Padel + Play banner designed, reviewed, Claridges quote £68.39 obtained. First weekly Slack report sent to #fade-group-marketing. Harry Back brief created covering all blockers for w/c 1 June. Tracey (F&E print contact) and Olivia meeting w/c 4 June both logged.)*
 
 ---
 
@@ -44,9 +44,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Brand | Status | Current Marketing Focus |
 |---|---|---|
-| Fade Golf | Active | Free assessment post live 27 May. Luke at wedding this week -- filming dates being sent next week. AI website walkthrough with Tom Fri 30 May. Luke proposal due from Harry by Fri 29 May. |
-| Stride Clinics | Active | Google tag fix blocked until Harry back 3 June. Filming session booked Mon 1 June 11:30-12:00 (Helen + Wendy). Nail surgery post live 27 May. Google Ads 2FA blocked until Harry back. |
-| Fire & Earth Leamington | Active | Half Marathon pop-up 7 June -- campaign live, announcement posted 27 May. Padel + Play pop-up 12 June 3pm-7pm -- campaign live, Post 1 built, scheduling tomorrow. Run Club launching 15 June -- story posted. Incentive scheme parked until Harry back. |
+| Fade Golf | Active | Free assessment giveaway live (reposted 28 May, draw 25 June, Like/Comment/Follow/Tag mechanic). Luke at wedding -- filming dates next week. AI website walkthrough with Tom Fri 30 May. Luke proposal due from Harry Fri 29 May. |
+| Stride Clinics | Active | Google tag fix blocked until Harry back 3 June. Filming session Mon 1 June 11:30-12:00 (Helen + Wendy). Google Ads 2FA blocked until Harry back. |
+| Fire & Earth Leamington | Active | Half Marathon 7 June -- lead-up content started 27 May, 4 posts + stories to run. Padel + Play 12 June -- Post 2 reminder scheduled for 1 June (pending Manny photo clearance). Banner designed, quote £68.39 from Claridges, pending Tom/Harry approval. Aaron's business cards in progress (Tracey contacted). Run Club 15 June. |
 
 ---
 
@@ -59,12 +59,13 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 | Send WordPress admin login from Harry (Jetpack blocked Mark's invite) | Stride | Harry | Blocked until 3 June | w/c 1 June |
 | Google Ads 2FA access (F&E + Stride) | Cross | Harry | Blocked until 3 June | w/c 1 June |
 | Google Ads budget sign-off (F&E physio campaign + existing £10/day) | Cross | Tom + Harry | Awaiting Tom response | This week |
-| Read Metricool deep research drop, gut-check feedback | Cross | Maddie | To Do | Thu 28 May |
 | Send proposed filming dates to Jason + Harry + Luke | Fade Golf | Maddie | To Do | Next week |
 | Master marketing document draft | Cross | Tom (direction) | Blocked -- Tom paused 26 May | TBC |
-| Slack-based weekly reporting template | Cross | Maddie | To Do | Thu 28 May |
 | Post F&E half marathon lead-up content (4 posts + stories) | F&E | Maddie | To Do | From 1 June |
-| Schedule Padel + Play Post 1 graphic | F&E | Maddie | To Do | Tomorrow |
+| Schedule Padel + Play Post 2 reminder graphic | F&E | Maddie | Pending Manny photo clearance | 1 June |
+| Order Padel + Play banner from Claridges (£68.39) | F&E | Maddie | Pending Tom + Harry approval | This week |
+| Connect Fade Golf to Metricool + report back to Tom | Cross | Maddie | In Progress | Monday 1 June |
+| F&E Google Tag implementation -- website backend access needed | F&E | Harry | Blocked until 3 June | w/c 1 June |
 
 ---
 

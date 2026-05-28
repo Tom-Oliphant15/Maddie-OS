@@ -1,6 +1,6 @@
 # Tech Stack
 
-*Last updated: 2026-05-18 (scaffold, pre-build Mon 19 May)*
+*Last updated: 2026-05-28*
 
 ## Principle
 
@@ -14,7 +14,7 @@ Minimal stack. Fewer MCPs means fewer failure modes for Maddie to diagnose. Add 
 |---|---|---|---|---|
 | Google Workspace | Live (fix applied by Tom 2026-05-26) | marketing@fadegroup.uk | Daily Briefing, Voice Notes, Campaign Brief Expander, Session End | Single MCP covers Gmail + Calendar + Drive. Launched via port-collision wrapper (`workspace-mcp-launch.sh`) to avoid clashing with Tom's instance. |
 | Slack | Day 0 (Mon 19 May) | Fade Group workspace | Daily Briefing, Session End, weekly marketing reports | Maddie's primary written channel. Read + post. |
-| Metricool | Day 3 (Wed 21 May) | 3 brands OAuth (Fade Golf, Stride, Fire & Earth Leamington) | Data Pull | Added when Metricool Advanced trial is set up. Phase 2 plan deliverable Wed 21 May. |
+| Metricool | Trial agreed 28 May. OAuth setup pending (3 brands: Fade Golf, Stride, Fire & Earth Leamington) | Data Pull, Cross-Platform Repurposer | Maddie trialling Advanced plan to evaluate scheduling vs Meta native. MCP integration follows once trial confirms fit. Tom to set up OAuth when ready. |
 
 ## CLIs (zero passive cost, invoked via Bash when needed)
 
@@ -47,6 +47,14 @@ Minimal stack. Fewer MCPs means fewer failure modes for Maddie to diagnose. Add 
 ## OS Self-Healing
 
 This OS is mirrored to GitHub. If something breaks Maddie cannot fix, she pings Tom on Slack. Tom pulls the repo, fixes, pushes. Next Daily Briefing pulls the fix automatically.
+
+---
+
+## Slack Channels
+
+| Purpose | Channel |
+|---|---|
+| Weekly marketing report | #fade-group-marketing |
 
 ---
 

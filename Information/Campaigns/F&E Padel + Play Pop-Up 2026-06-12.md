@@ -20,17 +20,18 @@ Fire & Earth Leamington will have a pop-up table at Padel + Play's courts in Str
 
 ## Teaser status
 
-Teaser already posted on socials (27 May). Announcement done.
+Announcement post (Post 1) live 27 May. Done.
 
 ---
 
 ## Content Schedule
 
-| Date | Post | Format |
-|---|---|---|
-| 6-8 June | What we're bringing + why players should care | Feed post |
-| 10-11 June | Countdown / direct invite | Feed post |
-| 12 June (morning) | Day-of story | Story |
+| Date | Post | Format | Status |
+|---|---|---|---|
+| 27 May | Announcement -- event confirmed, save the date | Feed post | Done |
+| 1 June | Reminder -- what we're bringing + why players should care | Feed post | Pending Manny photo clearance, schedule once confirmed |
+| 10-11 June | Countdown / direct invite | Feed post | To Do |
+| 12 June (morning) | Day-of story | Story | To Do |
 
 ---
 
