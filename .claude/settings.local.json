@@ -1,7 +1,29 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git clone *)"
+      "Bash(git clone *)",
+      "mcp__7b9ea98b-b86a-41ed-a348-b17bf3abec2e__slack_search_channels",
+      "mcp__7b9ea98b-b86a-41ed-a348-b17bf3abec2e__slack_read_channel",
+      "mcp__7b9ea98b-b86a-41ed-a348-b17bf3abec2e__slack_search_public_and_private",
+      "mcp__7b9ea98b-b86a-41ed-a348-b17bf3abec2e__slack_read_thread",
+      "mcp__7b9ea98b-b86a-41ed-a348-b17bf3abec2e__slack_send_message",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "mcp__mcp-ical__list_events",
+      "mcp__25e99f1a-b1aa-4b72-9ff0-a8c418793ff8__search_threads",
+      "mcp__25e99f1a-b1aa-4b72-9ff0-a8c418793ff8__get_thread",
+      "Bash(brew install *)",
+      "Bash(pdftoppm -r 150 -png -f 1 -l 1 \"/Users/fadegroup/Desktop/Padel banner.pdf\" /tmp/padel_banner)",
+      "Read(//private/tmp/**)",
+      "WebSearch",
+      "Read(//Users/fadegroup/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/48839127-22aa-4cc4-99e9-ee2ceef0d8c2/7e1720af-35e9-49d0-a4c1-86de9700fa29/skills/docx/**)",
+      "Bash(node -e \"require\\('docx'\\); console.log\\('docx ok'\\)\")",
+      "Bash(npm install *)",
+      "Bash(node /tmp/stride-releases.js)",
+      "Bash(git commit *)"
     ]
   }
 }

@@ -22,6 +22,7 @@ Multi-service clinical health under Fade Group. Podiatry, sports massage (to be 
 - **Harry Sherlock** — treating clinician, director
 - **Mark Hudson** — technical (WordPress, Google tags, conversion tracking). Maddie feeds Mark website info — photos, updates, any data she wants linked to the site or pulled from it.
 - **Katie Plank** — F&E therapist who runs the F&E Run Club. Run Club is F&E-based, not Stride. Filming done 13 May. Treat any Run Club comms as F&E, not Stride.
+- **Helen** — podiatrist at Stride. helen@strideclinics.co.uk.
 - **Wendy** — senior podiatrist, orthotic certification in progress. Wendy does biomechanics and foot scans. Maddie will work closely with her on content and on understanding the service properly when those services start being marketed.
 - **Lynda** — confirms Wendy's certification timeline (overlap with F&E role). Lynda has first-hand visibility of what both Stride and F&E teams want, and what they're struggling with. Strong source for Maddie when planning content.
 
@@ -130,6 +131,20 @@ See [[Stride voice]] — populated 21 May from the Bootstrap Form. Trustworthy, 
 - Maddie to gain Google Ads access (confirm what's running)
 - Build before/after + testimonial pipeline (consent-first)
 - Sports massage → deep tissue rebrand messaging (lock with Master Marketing Document)
+
+---
+
+## Release form facts
+
+*Cached 29 May 2026. Used by Filming Brief Generator to populate Talent Release documents.*
+
+| Field | Value |
+|---|---|
+| Legal entity | Stride Clinics |
+| Brand handle | @strideclinic |
+| Withdrawal contact email | admin@strideclinics.co.uk |
+| Privacy notice URL | strideclinics.co.uk/privacy (confirm with Tom -- not yet verified) |
+| Brand signatory | Maddie Charpentier (Marketing Executive) |
 
 ---
 

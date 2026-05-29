@@ -20,7 +20,7 @@
 ### Cross-business
 | Task | Deadline | Owner |
 |---|---|---|
-| Connect Fade Golf to Metricool + report back to Tom Monday | Mon 1 June | Maddie |
+| Connect Fade Golf to Metricool + report back to Tom Monday (account verified 29 May) | Mon 1 June | Maddie |
 | First weekly Slack marketing report goes live | Wk of 1 June | Maddie |
 | First monthly written report | From ~30 May | Maddie |
 | Marketing canvases walkthrough + Slack working pattern lock with Tom | Tue 20 May | Tom + Maddie |
@@ -39,7 +39,7 @@
 | Monthly free assessment giveaway: draft recurring campaign brief | TBC | Maddie |
 | Send proposed filming dates to Jason, Harry + Luke | Next week (Luke wedding this week) | Maddie |
 | Filming with Luke + Jason for swing / membership reels | Within 2 weeks | Maddie + Luke + Jason |
-| Fade Golf AI website walkthrough with Tom | Fri 30 May | Tom + Maddie |
+| Fade Golf AI website walkthrough with Tom | Mon 1 June (afternoon) | Tom + Maddie |
 
 ### Stride Clinics
 | Task | Deadline | Owner |
@@ -56,6 +56,8 @@
 ### Fire & Earth Leamington
 | Task | Deadline | Owner |
 |---|---|---|
+| Chase Manny re Padel + Play photo clearance (needed for Post 2, due 1 June) | Fri 29 May | Maddie |
+| Move Helen + Wendy talent releases from Drafts/ to Signed/ once received | Mon 1 June, before 11:30 | Maddie |
 | Order Padel + Play banner from Claridges (£68.39, banner only -- stand already owned) | This week | Maddie | Pending Tom + Harry approval via Slack report |
 | Get Aaron's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- contacted F&E business card supplier 28 May, awaiting quote/confirmation |
 | F&E website refresh | This month | Maddie |
