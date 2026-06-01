@@ -20,7 +20,7 @@
 ### Cross-business
 | Task | Deadline | Owner |
 |---|---|---|
-| Connect Fade Golf to Metricool + report back to Tom Monday (account verified 29 May) | Mon 1 June | Maddie |
+| Connect Fade Golf to Metricool (Stride connected 1 June; Fade Golf blocked -- likely free plan cap or linked account auth issue) | Mon 1 June | Maddie | In Progress -- raise with Tom this afternoon. Advanced trial agreed 28 May, check if activated. |
 | First weekly Slack marketing report goes live | Wk of 1 June | Maddie |
 | First monthly written report | From ~30 May | Maddie |
 | Marketing canvases walkthrough + Slack working pattern lock with Tom | Tue 20 May | Tom + Maddie |
@@ -37,6 +37,8 @@
 | Scope corporate golf day with Harry — put a date in the diary | June/July TBC | Maddie + Harry |
 | Design pro-am tie-in campaign once Luke confirms pro-am pricing | TBC | Maddie |
 | Monthly free assessment giveaway: draft recurring campaign brief | TBC | Maddie |
+| Shorten current free assessment giveaway duration -- draw currently set for 25 June, consider bringing forward | Fade Golf | ASAP | Maddie -- raise with Tom today + run past Harry Wed 3 June |
+| Father & Son giveaway -- plan and create post. Tone: cheeky, playful language (different to standard Fade Golf tone -- Father's Day warrants it) | Fade Golf | Before 15 June | Maddie -- run past Harry Wed 3 June |
 | Send proposed filming dates to Jason, Harry + Luke | Next week (Luke wedding this week) | Maddie |
 | Filming with Luke + Jason for swing / membership reels | Within 2 weeks | Maddie + Luke + Jason |
 | Fade Golf AI website walkthrough with Tom | Mon 1 June (afternoon) | Tom + Maddie |
@@ -44,20 +46,22 @@
 ### Stride Clinics
 | Task | Deadline | Owner |
 |---|---|---|
+| Design waiting area advertisements for Stride treatments (for display in waiting room) -- 5 ads planned: Nail Surgery, Fungal Nail/Routine Podiatry, Biomechanics/Gait Analysis, Orthotics, Verrutop Verruca Treatment. Photos ready for first 4 -- Verrutop photo needed in Wendy top-up session | TBC | Maddie |
 | Print desk sign for Stride | TBC | Maddie |
 | Stride Google Ads restructure (per-service campaigns) | Once Google tag fixed | Maddie + Tom (sense-check) |
 | Orthotics: July relaunch campaign | July | Maddie |
 | Stride website refresh (new headshots, bios, videos) | This month | Maddie |
+| Book Wendy top-up photo session -- need closer shots of Wendy, orthotic close-up, gait screen, tight gait plate shot before sending anything to Mark | Stride | ASAP | Maddie |
 | Run Club content with Katie, edit and post | Ongoing | Maddie |
-| Film content at Stride — Helen + Wendy | Mon 1 June, 11:30-12:00 | Maddie |
+| Photo shoot at Stride — Helen, Wendy + Lynda (foot model) | Mon 1 June, 11:30-12:00 | Maddie | Changed from video to photos -- 30 mins, focus on website-quality shots: podiatry/assessment, biomechanics, treatment room. Good camera. |
 | Clinic photography session at Stride (real treatment shots for future content) | When Harry back 3 June | Maddie + Harry |
 | Leaflet distribution -- Warwick + villages remaining | Today | Maddie |
 
 ### Fire & Earth Leamington
 | Task | Deadline | Owner |
 |---|---|---|
-| Chase Manny re Padel + Play photo clearance (needed for Post 2, due 1 June) | Fri 29 May | Maddie |
-| Move Helen + Wendy talent releases from Drafts/ to Signed/ once received | Mon 1 June, before 11:30 | Maddie |
+| Reschedule Padel + Play Post 2 -- pulled 1 June due to incorrect F&E logo. Redesign graphic with correct logo once confirmed with Harry Wed 3 June, then reschedule. | F&E | Maddie | On hold until correct logo confirmed |
+| Move Helen + Wendy talent releases from Drafts/ to Signed/ once received | Mon 1 June, before 11:30 | Maddie | Done -- signed copies received 1 June |
 | Order Padel + Play banner from Claridges (£68.39, banner only -- stand already owned) | This week | Maddie | Pending Tom + Harry approval via Slack report |
 | Get Aaron's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- contacted F&E business card supplier 28 May, awaiting quote/confirmation |
 | F&E website refresh | This month | Maddie |
@@ -70,6 +74,8 @@
 | Task | Brand | Blocker | Owner |
 |---|---|---|---|
 | Google Ads 2FA access -- F&E + Stride campaigns (Maddie cannot edit without Harry's authentication) | Cross | Harry away until 3 June | Harry |
+| Ask Harry about F&E website backend access (needed for Google Tag implementation + any backend coding work) | Cross | Wed 3 June | Maddie |
+| Confirm correct F&E logo with Harry -- owner flagged incorrect logo in use (rebrand in progress, Maddie was given old logo in first week). Padel + Play post scheduled 6pm tonight needs pulling/updating before it goes live. Run Club graphic on hold until confirmed. | F&E | Wed 3 June | Maddie + Harry |
 | F&E Google Tag Manager implementation -- connecting tag to website code | F&E | Maddie has editor access only, not backend/code access. Google Support call 28 May could not proceed. Need whoever has F&E website backend access (Harry or original developer) to insert the GTM snippet. | Harry |
 | Master marketing document draft | Cross | Tom paused 26 May -- reviewing reporting structure and wants to streamline. Will come back with direction. | Tom |
 | Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May). Tom does not have credentials. Harry on holiday until w/c 1 June -- earliest resolution 1 June. | Harry |

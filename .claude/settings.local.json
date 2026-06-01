@@ -23,7 +23,14 @@
       "Bash(node -e \"require\\('docx'\\); console.log\\('docx ok'\\)\")",
       "Bash(npm install *)",
       "Bash(node /tmp/stride-releases.js)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(python3 -c \"import qrcode\")",
+      "Bash(pip3 install *)",
+      "Bash(python3 -m venv /tmp/qrenv)",
+      "Bash(/tmp/qrenv/bin/pip install *)",
+      "Bash(/tmp/qrenv/bin/python3 -c ' *)",
+      "Bash(ls \"/Users/fadegroup/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/48839127-22aa-4cc4-99e9-ee2ceef0d8c2/7e1720af-35e9-49d0-a4c1-86de9700fa29/skills/consolidate-memory\")",
+      "Bash(git -C \"/Users/fadegroup/Documents/Maddie OS\" status --porcelain)"
     ]
   }
 }

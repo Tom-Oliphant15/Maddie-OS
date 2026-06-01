@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-05-29 (Full day session: Metricool email verified. Replied to Nikka Jane (Google) re Stride + Fade Golf Ads accounts. F&E Performance Review (11 June) accepted. Tom confirmed AI website walkthrough moved to Mon 1 June afternoon. Stride filming brief + shoot day doc created. Talent releases generated and sent to Helen + Wendy. Helen added to Stride Brain. F&E half marathon content plan locked -- Sunday 31 May story scheduled, Wed 3 June feed post drafted. Open Questions updated -- Metricool scheduling resolved.)*
+*Last updated: 2026-06-01 (Full day session: Stride photo shoot completed (Helen + Wendy + Lynda foot model) -- website-quality podiatry, biomechanics, orthotics photos captured. Padel + Play Post 2 scheduled then pulled -- incorrect F&E logo flagged by owner, all F&E graphic content on hold until correct logo confirmed with Harry Wed 3 June. Stride connected to Metricool; Fade Golf connection blocked (likely free plan cap/linked account -- raise with Tom). Manny confirmed cleared to use Padel + Play Instagram content. 5 Stride waiting area ads planned (Nail Surgery, Fungal Nail, Biomechanics, Orthotics, Verrutop). Verrutop added to Stride Brain. Stride viral content series (5 ideas) created and saved to Campaigns. Father and Son giveaway + current giveaway shortening added to Fade Golf tasks. QR code generated for Stride biomechanics page. Tom website walkthrough pending (Tom in meeting with Lynda).)*
 
 ---
 
@@ -44,9 +44,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Brand | Status | Current Marketing Focus |
 |---|---|---|
-| Fade Golf | Active | Free assessment giveaway live (reposted 28 May, draw 25 June, Like/Comment/Follow/Tag mechanic). Luke at wedding -- filming dates next week. AI website walkthrough with Tom Mon 1 June (afternoon). Luke proposal blocked until Harry back 3 June. Nikka Jane (Google) asked to take on Stride + Fade Golf Ads -- replied 29 May. |
-| Stride Clinics | Active | Google tag fix blocked until Harry back 3 June. Filming session Mon 1 June 11:30-12:00 (Helen + Wendy) -- brief + shoot day doc ready, talent releases sent 29 May awaiting signed copies. Google Ads 2FA blocked until Harry back. |
-| Fire & Earth Leamington | Active | Half Marathon 7 June -- content plan locked (Sun 31 May story scheduled, Wed 3 June feed post drafted, Fri 5 June story, Sun 7 June feed post). Padel + Play 12 June -- Post 2 pending Manny photo clearance. Banner pending Tom + Harry approval. Aaron's business cards in progress (Tracey contacted). Run Club 15 June. |
+| Fade Golf | Active | Free assessment giveaway live (draw 25 June -- shortening under review). AI website walkthrough with Tom today (pending, Tom in meeting). Luke filming dates to send once Harry back. Father + Son giveaway to plan (before 15 June). Nikka Jane (Google) ads accounts in progress. |
+| Stride Clinics | Active | Photo shoot done 1 June (Helen + Wendy + Lynda). Website photos ready for review -- Wendy top-up session needed before sending to Mark. 5 waiting area ads in progress (Nail Surgery, Fungal Nail, Biomechanics, Orthotics, Verrutop). Stride connected to Metricool. Google tag + Google Ads 2FA blocked until Harry back 3 June. Viral content series planned (5 ideas, see Campaigns). |
+| Fire & Earth Leamington | Active | ALL GRAPHIC CONTENT ON HOLD -- incorrect logo flagged by owner 1 June. Correct logo to confirm with Harry Wed 3 June. Padel + Play Post 2 pulled + rescheduled pending logo. Banner on hold (logo + Harry approval needed). Run Club post ready (caption + image) -- on hold for logo. Half Marathon 7 June -- Wed 3 June feed post drafted. |
 
 ---
 
@@ -62,9 +62,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 | Send proposed filming dates to Jason + Harry + Luke | Fade Golf | Maddie | To Do | Next week |
 | Master marketing document draft | Cross | Tom (direction) | Blocked -- Tom paused 26 May | TBC |
 | Post F&E half marathon lead-up content (Sun 31 May story scheduled, Wed 3 June post drafted) | F&E | Maddie | In Progress | From 1 June |
-| Schedule Padel + Play Post 2 reminder graphic | F&E | Maddie | Pending Manny photo clearance | 1 June |
+| Schedule Padel + Play Post 2 reminder graphic | F&E | Maddie | Ready to go -- Manny confirmed 1 June, cleared to use Instagram content | ASAP |
 | Order Padel + Play banner from Claridges (£68.39) | F&E | Maddie | Pending Tom + Harry approval | This week |
-| Connect Fade Golf to Metricool + report back to Tom (email verified 29 May) | Cross | Maddie | In Progress | Monday 1 June |
+| Connect Fade Golf to Metricool (Stride connected 1 June; Fade Golf having technical issues -- outstanding) | Cross | Maddie | In Progress | ASAP |
 | F&E Google Tag implementation -- website backend access needed | F&E | Harry | Blocked until 3 June | w/c 1 June |
 
 ---

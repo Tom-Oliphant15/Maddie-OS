@@ -30,6 +30,17 @@ Multi-service clinical health under Fade Group. Podiatry, sports massage (to be 
 
 - **Nick (PT)** — rents gym space at Stride. Also rents at Fade Golf. Runs his own client book. Tenant relationship, not employee or contractor. Worth knowing about because he shares the space with patients and members; any cross-promotion (referrals, content, social mentions) is a deliberate Harry decision, not a default. See [[Contacts]] under Tenants and Facility Renters.
 
+## Services (key marketing notes)
+
+- **Nail Surgery** — high-revenue focus area for ad spend. Patients need reassurance on pain, embarrassment, and whether they've left it too long.
+- **Routine Podiatry / Fungal Nail** — broad audience, wide age range.
+- **Biomechanics / Gait Analysis** — Wendy's specialism. Foot scan + gait plate. Links to orthotics.
+- **Orthotics** — relaunch July once Wendy's certification complete. Angle: name the pains people have accepted as normal (heel pain, aching feet, knee pain running).
+- **Verrutop Verruca Treatment** — clinically proven, non-invasive verruca treatment. 90% efficacy rate after up to 6 applications (every 10-14 days). No freezing or burning — uses Nitrizinc complex to desiccate the wart. Pain free for most. Applied by podiatrist only. Good waiting area / social content angle — many patients won't know Stride offers this.
+- **Deep tissue massage** (formerly sports massage) — rebrand messaging to be locked with Master Marketing Document.
+
+---
+
 ## Active Campaigns / Content Streams
 
 - Run Club content from Katie (filming done 13 May, editing + posting ongoing)
