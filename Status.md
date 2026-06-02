@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-06-01 (Full day session: Stride photo shoot completed (Helen + Wendy + Lynda foot model) -- website-quality podiatry, biomechanics, orthotics photos captured. Padel + Play Post 2 scheduled then pulled -- incorrect F&E logo flagged by owner, all F&E graphic content on hold until correct logo confirmed with Harry Wed 3 June. Stride connected to Metricool; Fade Golf connection blocked (likely free plan cap/linked account -- raise with Tom). Manny confirmed cleared to use Padel + Play Instagram content. 5 Stride waiting area ads planned (Nail Surgery, Fungal Nail, Biomechanics, Orthotics, Verrutop). Verrutop added to Stride Brain. Stride viral content series (5 ideas) created and saved to Campaigns. Father and Son giveaway + current giveaway shortening added to Fade Golf tasks. QR code generated for Stride biomechanics page. Tom website walkthrough pending (Tom in meeting with Lynda).)*
+*Last updated: 2026-06-02 (Full day session: Daily briefing run. Viral Instagram content plans created and saved for all 3 brands (Fade Golf, Stride, F&E). Stride "Rate Your Foot Health" carousel built and scheduled (Instagram 6:30pm + Facebook 7:00pm Wed 3 June). Fade Golf giveaway draw updated to 14 June. Father and Son giveaway: post live before 15 June, winner announced on Father's Day 21 June. WhatsApp sent to Luke + Jason group chat re filming dates. Metricool session with Tom (Fade Golf connection in progress). Google Ads access partial -- admin upgrade needed from Harry. Fade Group Marketing Master Document drafted Parts 1-4 and shared with Tom + Harry via Google Docs. Stride Brain corrected -- sports massage and Run Club removed, Stride is podiatry only. Stride fonts confirmed: Raleway (Titles), Glacial Indifference (Subheadings). Harry's role corrected to treating clinician at Fire & Earth. Aaron business cards chased. Wendy top-up session + Harry as foot model to confirm tomorrow.)*
 
 ---
 
@@ -44,9 +44,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Brand | Status | Current Marketing Focus |
 |---|---|---|
-| Fade Golf | Active | Free assessment giveaway live (draw 25 June -- shortening under review). AI website walkthrough with Tom today (pending, Tom in meeting). Luke filming dates to send once Harry back. Father + Son giveaway to plan (before 15 June). Nikka Jane (Google) ads accounts in progress. |
-| Stride Clinics | Active | Photo shoot done 1 June (Helen + Wendy + Lynda). Website photos ready for review -- Wendy top-up session needed before sending to Mark. 5 waiting area ads in progress (Nail Surgery, Fungal Nail, Biomechanics, Orthotics, Verrutop). Stride connected to Metricool. Google tag + Google Ads 2FA blocked until Harry back 3 June. Viral content series planned (5 ideas, see Campaigns). |
-| Fire & Earth Leamington | Active | ALL GRAPHIC CONTENT ON HOLD -- incorrect logo flagged by owner 1 June. Correct logo to confirm with Harry Wed 3 June. Padel + Play Post 2 pulled + rescheduled pending logo. Banner on hold (logo + Harry approval needed). Run Club post ready (caption + image) -- on hold for logo. Half Marathon 7 June -- Wed 3 June feed post drafted. |
+| Fade Golf | Active | Free assessment giveaway live (draw 14 June). Father + Son giveaway post before 15 June, winner announced 21 June (Father's Day). WhatsApp sent to Luke + Jason re filming content day -- awaiting reply. Metricool connection in progress with Tom. Google Ads admin upgrade needed from Harry. |
+| Stride Clinics | Active | Photo shoot done 1 June. Wendy top-up session needed (book tomorrow) + confirm Harry as foot model. 5 waiting area ads in progress. Stride connected to Metricool. Viral content series planned (5 ideas). "Rate Your Foot Health" carousel scheduled Instagram 6:30pm + Facebook 7:00pm Wed 3 June. Google Ads admin upgrade + WordPress login -- Harry tomorrow. |
+| Fire & Earth Leamington | Active | ALL GRAPHIC CONTENT ON HOLD -- incorrect logo. Confirm correct logo with Harry Wed 3 June. Half Marathon 7 June -- feed post ready to schedule once logo confirmed. Padel + Play post + banner on hold pending logo + Harry approval. Viral content plan saved (5 ideas, see Campaigns). |
 
 ---
 
@@ -57,7 +57,7 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 | Action | Brand | Owner | Status | Deadline |
 |---|---|---|---|---|
 | Send WordPress admin login from Harry (Jetpack blocked Mark's invite) | Stride | Harry | Blocked until 3 June | w/c 1 June |
-| Google Ads 2FA access (F&E + Stride) | Cross | Harry | Blocked until 3 June | w/c 1 June |
+| Google Ads access level upgrade (F&E + Stride) | Cross | Harry | Maddie has account access but editing restricted -- likely Standard not Admin. Ask Harry to upgrade to Admin: Google Ads → Admin → Access and Security → change role. Do both accounts separately. | 3 June |
 | Google Ads budget sign-off (F&E physio campaign + existing £10/day) | Cross | Tom + Harry | Awaiting Tom response | This week |
 | Send proposed filming dates to Jason + Harry + Luke | Fade Golf | Maddie | To Do | Next week |
 | Master marketing document draft | Cross | Tom (direction) | Blocked -- Tom paused 26 May | TBC |

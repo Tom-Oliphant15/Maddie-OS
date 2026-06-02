@@ -115,7 +115,7 @@ When booking any future Stride shoot, capture the following alongside the main b
 | 2 — Gait plate reveal | To Do | Capture in Wendy top-up session |
 | 3 — "Stop doing this" series | To Do | Batch film all 5 in one session |
 | 4 — Before/after | To Do | Need to build consent + capture pipeline first |
-| 5 — Rate your foot health carousel | Ready | Can be built from today's photos now |
+| 5 — Rate your foot health carousel | Done | Scheduled Instagram 6:30pm + Facebook 7:00pm Wed 3 June 2026 |
 
 ---
 

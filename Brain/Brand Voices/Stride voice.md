@@ -7,9 +7,9 @@
 Trustworthy, warm, expert, clinical, professional. Plain English for non-medical readers. Service-specific shading:
 
 - **Podiatry / nail surgery:** reassuring, older demographic, no jargon
-- **Sports massage / deep tissue:** active, recovery-focused, professional
+- **Biomechanics / gait analysis:** performance-aware, active adults, visual and data-led
 - **Orthotics:** medical-credible, performance-aware (relaunch July)
-- **Run Club:** community-driven, beginner and post-injury inclusive
+- **Verrutop verruca treatment:** plain, matter-of-fact, reassuring
 
 ## Vocabulary
 

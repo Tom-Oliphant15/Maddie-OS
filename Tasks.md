@@ -20,7 +20,7 @@
 ### Cross-business
 | Task | Deadline | Owner |
 |---|---|---|
-| Connect Fade Golf to Metricool (Stride connected 1 June; Fade Golf blocked -- likely free plan cap or linked account auth issue) | Mon 1 June | Maddie | In Progress -- raise with Tom this afternoon. Advanced trial agreed 28 May, check if activated. |
+| Connect Fade Golf to Metricool (Stride connected 1 June; Fade Golf blocked -- likely free plan cap or linked account auth issue) | 2 June | Maddie + Tom | In Progress -- Tom in meeting, going through Metricool together when he's done. |
 | First weekly Slack marketing report goes live | Wk of 1 June | Maddie |
 | First monthly written report | From ~30 May | Maddie |
 | Marketing canvases walkthrough + Slack working pattern lock with Tom | Tue 20 May | Tom + Maddie |
@@ -37,9 +37,9 @@
 | Scope corporate golf day with Harry — put a date in the diary | June/July TBC | Maddie + Harry |
 | Design pro-am tie-in campaign once Luke confirms pro-am pricing | TBC | Maddie |
 | Monthly free assessment giveaway: draft recurring campaign brief | TBC | Maddie |
-| Shorten current free assessment giveaway duration -- draw currently set for 25 June, consider bringing forward | Fade Golf | ASAP | Maddie -- raise with Tom today + run past Harry Wed 3 June |
-| Father & Son giveaway -- plan and create post. Tone: cheeky, playful language (different to standard Fade Golf tone -- Father's Day warrants it) | Fade Golf | Before 15 June | Maddie -- run past Harry Wed 3 June |
-| Send proposed filming dates to Jason, Harry + Luke | Next week (Luke wedding this week) | Maddie |
+| Free assessment giveaway draw -- updated to 14 June (was 25 June) | Fade Golf | Done | Maddie |
+| Father & Son giveaway -- plan and create post. Tone: cheeky, playful language (different to standard Fade Golf tone -- Father's Day warrants it). Winner announced live on Father's Day 21 June. | Fade Golf | Post live before 15 June, winner announced 21 June | Maddie -- run past Harry Wed 3 June |
+| Send proposed filming dates to Jason, Harry + Luke | In Progress -- WhatsApp sent to Luke + Jason group chat 2 June asking for availability. Awaiting response. | Maddie |
 | Filming with Luke + Jason for swing / membership reels | Within 2 weeks | Maddie + Luke + Jason |
 | Fade Golf AI website walkthrough with Tom | Mon 1 June (afternoon) | Tom + Maddie |
 
@@ -51,7 +51,7 @@
 | Stride Google Ads restructure (per-service campaigns) | Once Google tag fixed | Maddie + Tom (sense-check) |
 | Orthotics: July relaunch campaign | July | Maddie |
 | Stride website refresh (new headshots, bios, videos) | This month | Maddie |
-| Book Wendy top-up photo session -- need closer shots of Wendy, orthotic close-up, gait screen, tight gait plate shot before sending anything to Mark | Stride | ASAP | Maddie |
+| Book Wendy top-up photo session -- need closer shots of Wendy, orthotic close-up, gait screen, tight gait plate shot before sending anything to Mark. Confirm Harry as foot model. | Stride | 3 June -- speak to Wendy + confirm Harry tomorrow | Maddie |
 | Run Club content with Katie, edit and post | Ongoing | Maddie |
 | Photo shoot at Stride — Helen, Wendy + Lynda (foot model) | Mon 1 June, 11:30-12:00 | Maddie | Changed from video to photos -- 30 mins, focus on website-quality shots: podiatry/assessment, biomechanics, treatment room. Good camera. |
 | Clinic photography session at Stride (real treatment shots for future content) | When Harry back 3 June | Maddie + Harry |

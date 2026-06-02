@@ -4,7 +4,7 @@
 
 ## Overview
 
-Multi-service clinical health under Fade Group. Podiatry, sports massage (to be rebranded "deep tissue" for broader/older demographic per Tom's positioning call), orthotics. Harry treats. Mark handles technical.
+Podiatry-only clinical health brand under Fade Group. Services: podiatry, biomechanics/gait analysis, orthotics, nail surgery, Verrutop verruca treatment. Harry treats. Mark handles technical.
 
 ## Strategic Direction
 
@@ -12,7 +12,6 @@ Multi-service clinical health under Fade Group. Podiatry, sports massage (to be 
 - Orthotics: not being actively marketed while Wendy completes training. Still available via Stride (not removed from booking), no holding message needed. Relaunch July once Wendy's certification lands (~4-week training window, Lynda confirms exact date).
 - Nail surgery flagged as a high-revenue focus area for ad spend
 - Website refresh in motion (new headshots, bios, videos)
-- **Sports massage to "deep tissue" rebrand:** when launching, make it clear *why* the rebrand happened. Explain what deep tissue massage actually is and address common misconceptions (it's not just-for-athletes, it serves a broader / older demographic too).
 - **Orthotics relaunch (July) angle:** name the pains people have accepted as normal — heel pain when getting up in the morning, feet aching after a day on your feet, knee pain when running. People don't realise these pains can be fixed. Position orthotics as a proper clinical solution, not an insole from Boots.
 - **Nail surgery positioning (sensitive procedure):** patients want to hear answers to "Will it hurt?", "Am I embarrassed about the state of my feet?", "Have I left it too long?", "Is it worth the cost?" before they will book.
 - **Run Club content (with Katie):** beginner and injured angle. Example archetype: someone who has had to stop running because of something like an ingrown toenail and is in pain. Resonates with the audience Stride wants.
@@ -37,13 +36,11 @@ Multi-service clinical health under Fade Group. Podiatry, sports massage (to be 
 - **Biomechanics / Gait Analysis** — Wendy's specialism. Foot scan + gait plate. Links to orthotics.
 - **Orthotics** — relaunch July once Wendy's certification complete. Angle: name the pains people have accepted as normal (heel pain, aching feet, knee pain running).
 - **Verrutop Verruca Treatment** — clinically proven, non-invasive verruca treatment. 90% efficacy rate after up to 6 applications (every 10-14 days). No freezing or burning — uses Nitrizinc complex to desiccate the wart. Pain free for most. Applied by podiatrist only. Good waiting area / social content angle — many patients won't know Stride offers this.
-- **Deep tissue massage** (formerly sports massage) — rebrand messaging to be locked with Master Marketing Document.
 
 ---
 
 ## Active Campaigns / Content Streams
 
-- Run Club content from Katie (filming done 13 May, editing + posting ongoing)
 - Leaflet distribution to GPs, physio clinics, gyms, lampposts (next week)
 - Orthotic holding-message + July relaunch campaign
 - Nail surgery posts and Google Ads focus (ramping up)
@@ -136,12 +133,10 @@ See [[Stride voice]] — populated 21 May from the Bootstrap Form. Trustworthy, 
 - Google tag / conversion tracking fix with Mark (this week, hard blocker)
 - Per-service Google Ads restructure (once tag fixed)
 - Orthotic relaunch July (depends on Wendy's certification)
-- Run Club editing and posting cadence
 - Website refresh
 - Leaflet distribution (track distribution zones, scan-back where possible)
 - Maddie to gain Google Ads access (confirm what's running)
 - Build before/after + testimonial pipeline (consent-first)
-- Sports massage → deep tissue rebrand messaging (lock with Master Marketing Document)
 
 ---
 

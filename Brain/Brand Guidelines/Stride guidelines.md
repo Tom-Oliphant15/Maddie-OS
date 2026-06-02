@@ -16,8 +16,8 @@ This file is the visual + brand identity reference for Stride Clinics. Used by [
 
 ## Typography
 
-**Headlines:** see Canva and existing leaflets (lock with Master Marketing Document)
-**Body:** see Canva and existing leaflets
+**Headlines/Titles:** Raleway
+**Subheadings:** Glacial Indifference. Adjust caps and bold for subtext and titles.
 **Display / decorative:** see Canva
 **Avoid:** TBC
 

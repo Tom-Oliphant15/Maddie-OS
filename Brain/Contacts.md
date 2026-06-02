@@ -40,7 +40,7 @@ Canonical contact list for Fade Group people Maddie communicates with. Two secti
 | Field | Value |
 |---|---|
 | Aliases | Harry |
-| Role | Director, Fade Group. Day-to-day operations across all three brands. Sports Therapist + S&C Coach. Treating clinician at Stride. |
+| Role | Director, Fade Group. Day-to-day operations across all three brands. Sports Therapist + S&C Coach. Treating clinician at Fire & Earth. |
 | Email | harry@fadegroup.uk |
 | Slack | U0AV0EBHTDG (Fade Group workspace) |
 | Phone | TBC |
