@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-06-02 (Full day session: Daily briefing run. Viral Instagram content plans created and saved for all 3 brands (Fade Golf, Stride, F&E). Stride "Rate Your Foot Health" carousel built and scheduled (Instagram 6:30pm + Facebook 7:00pm Wed 3 June). Fade Golf giveaway draw updated to 14 June. Father and Son giveaway: post live before 15 June, winner announced on Father's Day 21 June. WhatsApp sent to Luke + Jason group chat re filming dates. Metricool session with Tom (Fade Golf connection in progress). Google Ads access partial -- admin upgrade needed from Harry. Fade Group Marketing Master Document drafted Parts 1-4 and shared with Tom + Harry via Google Docs. Stride Brain corrected -- sports massage and Run Club removed, Stride is podiatry only. Stride fonts confirmed: Raleway (Titles), Glacial Indifference (Subheadings). Harry's role corrected to treating clinician at Fire & Earth. Aaron business cards chased. Wendy top-up session + Harry as foot model to confirm tomorrow.)*
+*Last updated: 2026-06-03 (Full day session: Metricool connected for all 3 brands (Stride already done, Fade Golf + F&E connected via Harry's personal Facebook). F&E logo confirmed by Harry -- current logo approved, proceed as normal. A-board designed (both sides: therapist messaging + Run Club), printed. Run Club leaflets designed and sent to print (20 copies). Half Marathon feed post scheduled tonight 6:30pm. Padel + Play Post 2 caption written, scheduled 5 June + 11 June 6:30pm. Aaron + Kate business card details sent to Tracy. Stride logo confirmed showing on Cliniko invoice PDFs. Wendy top-up session to book tomorrow. Harry Google Ads admin upgrade + WordPress login deferred to tomorrow or Friday.)*
 
 ---
 
@@ -44,9 +44,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Brand | Status | Current Marketing Focus |
 |---|---|---|
-| Fade Golf | Active | Free assessment giveaway live (draw 14 June). Father + Son giveaway post before 15 June, winner announced 21 June (Father's Day). WhatsApp sent to Luke + Jason re filming content day -- awaiting reply. Metricool connection in progress with Tom. Google Ads admin upgrade needed from Harry. |
-| Stride Clinics | Active | Photo shoot done 1 June. Wendy top-up session needed (book tomorrow) + confirm Harry as foot model. 5 waiting area ads in progress. Stride connected to Metricool. Viral content series planned (5 ideas). "Rate Your Foot Health" carousel scheduled Instagram 6:30pm + Facebook 7:00pm Wed 3 June. Google Ads admin upgrade + WordPress login -- Harry tomorrow. |
-| Fire & Earth Leamington | Active | ALL GRAPHIC CONTENT ON HOLD -- incorrect logo. Confirm correct logo with Harry Wed 3 June. Half Marathon 7 June -- feed post ready to schedule once logo confirmed. Padel + Play post + banner on hold pending logo + Harry approval. Viral content plan saved (5 ideas, see Campaigns). |
+| Fade Golf | Active | Metricool connected. Free assessment giveaway live (draw 14 June). Father + Son giveaway post needed before 15 June, winner announced 21 June. Meeting with Luke Mon 9 June 9am-12pm, Harry joining from 10am for content filming. Google Ads admin upgrade still needed from Harry. |
+| Stride Clinics | Active | Metricool connected. "Rate Your Foot Health" carousel live tonight. Wendy top-up session to book tomorrow. 5 waiting area ads in progress. Google Ads admin upgrade + WordPress login -- Harry tomorrow or Friday. |
+| Fire & Earth Leamington | Active | Metricool connected. Logo confirmed. Half Marathon 7 June -- feed post scheduled tonight. A-board done, Run Club leaflets printed (20 copies). Padel + Play Post 2 scheduled 5 + 11 June. Run Club launching Mon 15 June, 6:30pm. Padel + Play banner still pending approval. |
 
 ---
 

@@ -158,11 +158,11 @@ Canonical contact list for Fade Group people Maddie communicates with. Two secti
 | Field | Value |
 |---|---|
 | Aliases | Tracey |
-| Role | F&E Leamington team. Handles business cards and print materials for F&E. |
+| Role | F&E Leamington team. Organises business card and print material designs, sends finished design files to Maddie who arranges print separately. |
 | Email | TBC |
 | Slack | TBC |
 | Phone | TBC |
-| Notes | First contact 28 May 2026 re Aaron's business cards for Padel + Play pop-up 12 June. May already hold Aaron's details. |
+| Notes | Aaron's + Kate's business card details sent to Tracy 3 June for Padel + Play 12 June. Tracy designs, Maddie orders print once design received. |
 
 ### Other F&E therapists
 

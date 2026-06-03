@@ -20,7 +20,7 @@
 ### Cross-business
 | Task | Deadline | Owner |
 |---|---|---|
-| Connect Fade Golf to Metricool (Stride connected 1 June; Fade Golf blocked -- likely free plan cap or linked account auth issue) | 2 June | Maddie + Tom | In Progress -- Tom in meeting, going through Metricool together when he's done. |
+| Connect all 3 brands to Metricool | 3 June | Maddie + Harry | Done -- Stride, Fade Golf + F&E all connected 3 June. Harry's personal Facebook used for Fade Golf + F&E. |
 | First weekly Slack marketing report goes live | Wk of 1 June | Maddie |
 | First monthly written report | From ~30 May | Maddie |
 | Marketing canvases walkthrough + Slack working pattern lock with Tom | Tue 20 May | Tom + Maddie |
@@ -40,7 +40,7 @@
 | Free assessment giveaway draw -- updated to 14 June (was 25 June) | Fade Golf | Done | Maddie |
 | Father & Son giveaway -- plan and create post. Tone: cheeky, playful language (different to standard Fade Golf tone -- Father's Day warrants it). Winner announced live on Father's Day 21 June. | Fade Golf | Post live before 15 June, winner announced 21 June | Maddie -- run past Harry Wed 3 June |
 | Send proposed filming dates to Jason, Harry + Luke | In Progress -- WhatsApp sent to Luke + Jason group chat 2 June asking for availability. Awaiting response. | Maddie |
-| Filming with Luke + Jason for swing / membership reels | Within 2 weeks | Maddie + Luke + Jason |
+| Meeting with Luke -- Mon 9 June, 9am-12pm. Harry joining from 10am for content filming. Run Filming Brief Generator Thu/Fri this week to prep shot list + talking points. | Mon 9 June | Maddie + Luke + Harry |
 | Fade Golf AI website walkthrough with Tom | Mon 1 June (afternoon) | Tom + Maddie |
 
 ### Stride Clinics
@@ -60,10 +60,14 @@
 ### Fire & Earth Leamington
 | Task | Deadline | Owner |
 |---|---|---|
+| Design large A-board sign for F&E for Half Marathon Sunday 7 June | ASAP -- needed by Sat 6 June | Maddie |
+| Design Run Club leaflets for Katie to hand out at Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie |
+| Design Run Club sign (run club is happening) for Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie |
+| Ask a therapist to attend / represent F&E at the Half Marathon 7 June | ASAP | Maddie | Done -- confirmed by Liv, most therapists attending. |
 | Reschedule Padel + Play Post 2 -- pulled 1 June due to incorrect F&E logo. Redesign graphic with correct logo once confirmed with Harry Wed 3 June, then reschedule. | F&E | Maddie | On hold until correct logo confirmed |
 | Move Helen + Wendy talent releases from Drafts/ to Signed/ once received | Mon 1 June, before 11:30 | Maddie | Done -- signed copies received 1 June |
 | Order Padel + Play banner from Claridges (£68.39, banner only -- stand already owned) | This week | Maddie | Pending Tom + Harry approval via Slack report |
-| Get Aaron's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- contacted F&E business card supplier 28 May, awaiting quote/confirmation |
+| Get Aaron's + Kate's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- details sent to Tracy 3 June. Awaiting confirmation + print. |
 | F&E website refresh | This month | Maddie |
 | F&E incentive scheme decision (parked with Harry) | At next Harry meeting | Tom (raise), Harry (decide) |
 
