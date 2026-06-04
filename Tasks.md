@@ -60,13 +60,16 @@
 ### Fire & Earth Leamington
 | Task | Deadline | Owner |
 |---|---|---|
+| Reply to Nikka re Google Ads meeting (from 10 June) — send Tanya timing details first so she is in the loop before the meeting goes ahead | This week | Maddie |
+| Confirm Caroline is aware of Padel + Play pop-up (12 June) and her role as one of the therapists | ASAP | Maddie |
+| Create gift vouchers — Stride initial assessment + Fade Golf performance assessment — for charity auction events in Leamington (requested by Lynda) | This week | Maddie |
 | Design large A-board sign for F&E for Half Marathon Sunday 7 June | ASAP -- needed by Sat 6 June | Maddie |
 | Design Run Club leaflets for Katie to hand out at Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie |
 | Design Run Club sign (run club is happening) for Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie |
 | Ask a therapist to attend / represent F&E at the Half Marathon 7 June | ASAP | Maddie | Done -- confirmed by Liv, most therapists attending. |
 | Reschedule Padel + Play Post 2 -- pulled 1 June due to incorrect F&E logo. Redesign graphic with correct logo once confirmed with Harry Wed 3 June, then reschedule. | F&E | Maddie | On hold until correct logo confirmed |
 | Move Helen + Wendy talent releases from Drafts/ to Signed/ once received | Mon 1 June, before 11:30 | Maddie | Done -- signed copies received 1 June |
-| Order Padel + Play banner from Claridges (£68.39, banner only -- stand already owned) | This week | Maddie | Pending Tom + Harry approval via Slack report |
+| Order Padel + Play banner from Claridges (£68.39, banner only -- stand already owned) | This week | Maddie | Done -- ordered 4 June |
 | Get Aaron's + Kate's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- details sent to Tracy 3 June. Awaiting confirmation + print. |
 | F&E website refresh | This month | Maddie |
 | F&E incentive scheme decision (parked with Harry) | At next Harry meeting | Tom (raise), Harry (decide) |

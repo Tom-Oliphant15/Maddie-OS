@@ -30,7 +30,24 @@
       "Bash(/tmp/qrenv/bin/pip install *)",
       "Bash(/tmp/qrenv/bin/python3 -c ' *)",
       "Bash(ls \"/Users/fadegroup/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/48839127-22aa-4cc4-99e9-ee2ceef0d8c2/7e1720af-35e9-49d0-a4c1-86de9700fa29/skills/consolidate-memory\")",
-      "Bash(git -C \"/Users/fadegroup/Documents/Maddie OS\" status --porcelain)"
+      "Bash(git -C \"/Users/fadegroup/Documents/Maddie OS\" status --porcelain)",
+      "Bash(ls \"/Users/fadegroup/Documents/Maddie OS/Skills/\" && echo \"---\" && ls \"/Users/fadegroup/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/48839127-22aa-4cc4-99e9-ee2ceef0d8c2/7e1720af-35e9-49d0-a4c1-86de9700fa29/skills/consolidate-memory/\")",
+      "Bash(find \"/Users/fadegroup/Documents/Maddie OS\" -name \"MEMORY.md\" 2>/dev/null; find \"/Users/fadegroup/Library/Application Support/Claude\" -name \"MEMORY.md\" 2>/dev/null | head -5)",
+      "mcp__25e99f1a-b1aa-4b72-9ff0-a8c418793ff8__create_draft",
+      "Bash(node -e \"require\\('docx'\\); console.log\\('ok'\\)\")",
+      "Bash(node create-monday-brief.js)",
+      "Bash(npm list *)",
+      "Bash(node -e \"require\\('/usr/local/lib/node_modules/docx'\\); console.log\\('ok'\\)\")",
+      "Bash(node -e \"require\\('/opt/homebrew/lib/node_modules/docx'\\); console.log\\('ok'\\)\")",
+      "Bash(npm root *)",
+      "Bash(NODE_PATH=/opt/homebrew/lib/node_modules node create-monday-brief.js)",
+      "Bash(python scripts/office/validate.py \"/Users/fadegroup/Documents/Maddie OS/Information/Filming Briefs/2026-06-08 Monday Prep.docx\")",
+      "Bash(python3 scripts/office/validate.py \"/Users/fadegroup/Documents/Maddie OS/Information/Filming Briefs/2026-06-08 Monday Prep.docx\")",
+      "Bash(python3 scripts/office/extract-text.py \"/Users/fadegroup/Documents/Maddie OS/Information/Fade Golf Luke Marketing - Revised 2026-05-26.docx\")",
+      "Bash(extract-text \"/Users/fadegroup/Documents/Maddie OS/Information/Fade Golf Luke Marketing - Revised 2026-05-26.docx\")",
+      "Bash(python3 scripts/office/unpack.py \"/Users/fadegroup/Documents/Maddie OS/Information/Fade Golf Luke Marketing - Revised 2026-05-26.docx\" /tmp/luke-unpacked/)",
+      "Bash(python3 -c ' *)",
+      "Bash(NODE_PATH=/opt/homebrew/lib/node_modules node create-vouchers.js)"
     ]
   }
 }

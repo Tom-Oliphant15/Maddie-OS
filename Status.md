@@ -1,6 +1,6 @@
 # Maddie OS — Status
 
-*Last updated: 2026-06-03 (Full day session: Metricool connected for all 3 brands (Stride already done, Fade Golf + F&E connected via Harry's personal Facebook). F&E logo confirmed by Harry -- current logo approved, proceed as normal. A-board designed (both sides: therapist messaging + Run Club), printed. Run Club leaflets designed and sent to print (20 copies). Half Marathon feed post scheduled tonight 6:30pm. Padel + Play Post 2 caption written, scheduled 5 June + 11 June 6:30pm. Aaron + Kate business card details sent to Tracy. Stride logo confirmed showing on Cliniko invoice PDFs. Wendy top-up session to book tomorrow. Harry Google Ads admin upgrade + WordPress login deferred to tomorrow or Friday.)*
+*Last updated: 2026-06-04 (Full day session: Daily briefing run. Claridges print order confirmed. Email sent to Mark re removing fitness classes + nutrition pages from Stride website. Half marathon prep complete -- therapist Q&A questions, Katie run club questions, post-race runner questions all written and sent to Harry on Slack. Note saved for the day. Padel + Play banner ordered. Monday prep document built (Luke meeting agenda + filming brief + Lynda footscan brief). Charity auction vouchers created (Stride initial assessment + Fade Golf performance assessment). Caroline WhatsApp drafted. Tanya intro deferred to Harry tomorrow. Nikka Google Ads reply on hold pending Tanya/Harry.)*
 
 ---
 
@@ -44,9 +44,9 @@ Target was: working OS by Fri 23 May with core skill loop running end to end. **
 
 | Brand | Status | Current Marketing Focus |
 |---|---|---|
-| Fade Golf | Active | Metricool connected. Free assessment giveaway live (draw 14 June). Father + Son giveaway post needed before 15 June, winner announced 21 June. Meeting with Luke Mon 9 June 9am-12pm, Harry joining from 10am for content filming. Google Ads admin upgrade still needed from Harry. |
-| Stride Clinics | Active | Metricool connected. "Rate Your Foot Health" carousel live tonight. Wendy top-up session to book tomorrow. 5 waiting area ads in progress. Google Ads admin upgrade + WordPress login -- Harry tomorrow or Friday. |
-| Fire & Earth Leamington | Active | Metricool connected. Logo confirmed. Half Marathon 7 June -- feed post scheduled tonight. A-board done, Run Club leaflets printed (20 copies). Padel + Play Post 2 scheduled 5 + 11 June. Run Club launching Mon 15 June, 6:30pm. Padel + Play banner still pending approval. |
+| Fade Golf | Active | Metricool connected. Free assessment giveaway live (draw 14 June). Father's Day winner draw 21 June. Meeting with Luke Mon 9 June 9am-12pm, Harry joining from 10am for filming. Monday prep document built. Google Ads admin upgrade still needed from Harry. |
+| Stride Clinics | Active | Metricool connected. Wendy top-up session still to book. 5 waiting area ads in progress. Mark emailed re removing fitness classes + nutrition pages from website. Google Ads admin upgrade + WordPress login -- raise with Harry tomorrow. Lynda footscan content planned for Mon 9 June. |
+| Fire & Earth Leamington | Active | Metricool connected. Half Marathon 7 June -- Q&As, shot list questions all prepped and sent to Harry. Banner ordered. Padel + Play 12 June -- Caroline to be confirmed. Run Club launching Mon 15 June. Nikka Google Ads meeting TBC pending Tanya contact via Harry. |
 
 ---
 
