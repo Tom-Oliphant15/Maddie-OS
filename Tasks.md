@@ -38,7 +38,7 @@
 | Design pro-am tie-in campaign once Luke confirms pro-am pricing | TBC | Maddie |
 | Monthly free assessment giveaway: draft recurring campaign brief | TBC | Maddie |
 | Free assessment giveaway draw -- updated to 14 June (was 25 June) | Fade Golf | Done | Maddie |
-| Father & Son giveaway -- plan and create post. Tone: cheeky, playful language (different to standard Fade Golf tone -- Father's Day warrants it). Winner announced live on Father's Day 21 June. | Fade Golf | Post live before 15 June, winner announced 21 June | Maddie -- run past Harry Wed 3 June |
+| Father & Son giveaway -- post live before 15 June, winner announced 21 June. Tone: cheeky, playful. Signed off. Content from Monday 9 June shoot with Luke + Harry. | Fade Golf | Post live before 15 June | Maddie |
 | Send proposed filming dates to Jason, Harry + Luke | In Progress -- WhatsApp sent to Luke + Jason group chat 2 June asking for availability. Awaiting response. | Maddie |
 | Meeting with Luke -- Mon 9 June, 9am-12pm. Harry joining from 10am for content filming. Run Filming Brief Generator Thu/Fri this week to prep shot list + talking points. | Mon 9 June | Maddie + Luke + Harry |
 | Fade Golf AI website walkthrough with Tom | Mon 1 June (afternoon) | Tom + Maddie |
@@ -52,7 +52,7 @@
 | Orthotics: July relaunch campaign | July | Maddie |
 | Stride website refresh (new headshots, bios, videos) | This month | Maddie |
 | Book Wendy top-up photo session -- need closer shots of Wendy, orthotic close-up, gait screen, tight gait plate shot before sending anything to Mark. Confirm Harry as foot model. | Stride | 3 June -- speak to Wendy + confirm Harry tomorrow | Maddie |
-| Run Club content with Katie, edit and post | Ongoing | Maddie |
+| Run Club content with Katie, edit and post | Ongoing | Maddie | At risk -- Katie has injured her knee. Launch 15 June may need to move. To be discussed. |
 | Photo shoot at Stride — Helen, Wendy + Lynda (foot model) | Mon 1 June, 11:30-12:00 | Maddie | Changed from video to photos -- 30 mins, focus on website-quality shots: podiatry/assessment, biomechanics, treatment room. Good camera. |
 | Clinic photography session at Stride (real treatment shots for future content) | When Harry back 3 June | Maddie + Harry |
 | Leaflet distribution -- Warwick + villages remaining | Today | Maddie |
@@ -60,17 +60,17 @@
 ### Fire & Earth Leamington
 | Task | Deadline | Owner |
 |---|---|---|
-| Reply to Nikka re Google Ads meeting (from 10 June) — send Tanya timing details first so she is in the loop before the meeting goes ahead | This week | Maddie |
-| Confirm Caroline is aware of Padel + Play pop-up (12 June) and her role as one of the therapists | ASAP | Maddie |
-| Create gift vouchers — Stride initial assessment + Fade Golf performance assessment — for charity auction events in Leamington (requested by Lynda) | This week | Maddie |
-| Design large A-board sign for F&E for Half Marathon Sunday 7 June | ASAP -- needed by Sat 6 June | Maddie |
-| Design Run Club leaflets for Katie to hand out at Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie |
-| Design Run Club sign (run club is happening) for Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie |
+| Reply to Nikka re Google Ads meeting (from 10 June) — Tanya meeting confirmed Mon 9 June with Maddie + Harry. Reply to Nikka after Monday's meeting once Tanya is briefed. | This week | Maddie |
+| Confirm Caroline is aware of Padel + Play pop-up (12 June) and her role as one of the therapists | ASAP | Maddie | Done -- WhatsApp sent 5 June. |
+| Create gift vouchers — Stride initial assessment + Fade Golf performance assessment + F&E 60 min treatment — for charity auction events in Leamington (requested by Lynda) | This week | Maddie | Done -- all three vouchers created and sent to Lynda 5 June. |
+| Design large A-board sign for F&E for Half Marathon Sunday 7 June | ASAP -- needed by Sat 6 June | Maddie | In Progress -- ordered 5 June, Tracy designing and delivering today. |
+| Design Run Club leaflets for Katie to hand out at Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie | In Progress -- ordered 5 June, Tracy designing and delivering today. |
+| Design Run Club sign (run club is happening) for Half Marathon 7 June | ASAP -- needed by Sat 6 June | Maddie | In Progress -- ordered 5 June, Tracy designing and delivering today. |
 | Ask a therapist to attend / represent F&E at the Half Marathon 7 June | ASAP | Maddie | Done -- confirmed by Liv, most therapists attending. |
-| Reschedule Padel + Play Post 2 -- pulled 1 June due to incorrect F&E logo. Redesign graphic with correct logo once confirmed with Harry Wed 3 June, then reschedule. | F&E | Maddie | On hold until correct logo confirmed |
+| Reschedule Padel + Play Post 2 -- pulled 1 June due to incorrect F&E logo. Redesign graphic with correct logo once confirmed with Harry Wed 3 June, then reschedule. | F&E | Maddie | Done -- logo signed off by Harry, post went live 3 June. |
 | Move Helen + Wendy talent releases from Drafts/ to Signed/ once received | Mon 1 June, before 11:30 | Maddie | Done -- signed copies received 1 June |
 | Order Padel + Play banner from Claridges (£68.39, banner only -- stand already owned) | This week | Maddie | Done -- ordered 4 June |
-| Get Aaron's + Kate's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- details sent to Tracy 3 June. Awaiting confirmation + print. |
+| Get Aaron's + Kate's business cards printed for Padel + Play (12 June) | By 6 June (allow print lead time) | Maddie | In Progress -- Tracy designing, delivery today 5 June. |
 | F&E website refresh | This month | Maddie |
 | F&E incentive scheme decision (parked with Harry) | At next Harry meeting | Tom (raise), Harry (decide) |
 
@@ -80,12 +80,12 @@
 
 | Task | Brand | Blocker | Owner |
 |---|---|---|---|
-| Google Ads 2FA access -- F&E + Stride campaigns (Maddie cannot edit without Harry's authentication) | Cross | Harry away until 3 June | Harry |
+| Google Ads admin access -- Harry to invite marketing@fadegroup.uk as Admin on both F&E + Stride accounts. fadegroup.uk added to allowed domains. Harry needs to do this. | Cross | Harry | Monday 9 June |
 | Ask Harry about F&E website backend access (needed for Google Tag implementation + any backend coding work) | Cross | Wed 3 June | Maddie |
 | Confirm correct F&E logo with Harry -- owner flagged incorrect logo in use (rebrand in progress, Maddie was given old logo in first week). Padel + Play post scheduled 6pm tonight needs pulling/updating before it goes live. Run Club graphic on hold until confirmed. | F&E | Wed 3 June | Maddie + Harry |
 | F&E Google Tag Manager implementation -- connecting tag to website code | F&E | Maddie has editor access only, not backend/code access. Google Support call 28 May could not proceed. Need whoever has F&E website backend access (Harry or original developer) to insert the GTM snippet. | Harry |
 | Master marketing document draft | Cross | Tom paused 26 May -- reviewing reporting structure and wants to streamline. Will come back with direction. | Tom |
-| Stride WordPress admin access | Stride | Harry to provide login (Jetpack blocked Mark's invite, 15 May). Tom does not have credentials. Harry on holiday until w/c 1 June -- earliest resolution 1 June. | Harry |
+| Stride WordPress admin access for Maddie | Stride | Mark already has access. Maddie needs login from Harry for Google Ads and website access. | Harry |
 | Architecture for Britt influencer monitoring tooling (Apify MCP) | Cross | Britt influencer campaign template not yet arrived | Britt |
 | Wendy's orthotic certification | Stride | ~4-week training window, sets real July launch date | Lynda confirms |
 

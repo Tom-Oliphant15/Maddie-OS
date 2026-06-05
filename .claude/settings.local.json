@@ -47,7 +47,9 @@
       "Bash(extract-text \"/Users/fadegroup/Documents/Maddie OS/Information/Fade Golf Luke Marketing - Revised 2026-05-26.docx\")",
       "Bash(python3 scripts/office/unpack.py \"/Users/fadegroup/Documents/Maddie OS/Information/Fade Golf Luke Marketing - Revised 2026-05-26.docx\" /tmp/luke-unpacked/)",
       "Bash(python3 -c ' *)",
-      "Bash(NODE_PATH=/opt/homebrew/lib/node_modules node create-vouchers.js)"
+      "Bash(NODE_PATH=/opt/homebrew/lib/node_modules node create-vouchers.js)",
+      "mcp__7b9ea98b-b86a-41ed-a348-b17bf3abec2e__slack_search_public",
+      "Bash(git -C '__TRACKED_VAR__/Documents/Maddie OS' status --porcelain Brain/)"
     ]
   }
 }
