@@ -38,7 +38,7 @@ What this skill is NOT:
 *Load these files before running this skill:*
 
 - [[Status]] for current state, open priorities
-- [[Tasks]] for tasks awaiting the meeting attendee(s)
+- `Tasks.md` for tasks awaiting the meeting attendee(s)
 - [[Contacts]] for canonical attendee details (email, Slack, role, relationship notes). Use this to resolve colloquial attendee names ("Lynda", "Mark") to canonical identifiers and to pull the right relationship context for the "One thing to remember" section.
 - Calendar event for context (via Google Workspace MCP) if a calendar event exists
 - Recent Slack/email threads with the attendee(s) (via Slack/Gmail MCPs)

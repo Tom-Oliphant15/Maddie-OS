@@ -39,7 +39,7 @@ What this skill is NOT:
 *Load these files before running this skill:*
 
 - [[Status]] for this week's priorities and recent completions
-- [[Tasks]] for completed tasks (this week) and active items
+- `Tasks.md` for completed tasks (this week) and active items
 - [[Fade Group]] for cross-brand context
 - The most recent Data Pull output from `Reviews/Data Pulls/` if available
 - Active Campaign Brief Expander outputs from `Information/Campaigns/` for in-flight campaigns

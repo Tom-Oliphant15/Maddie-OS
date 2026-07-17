@@ -24,7 +24,7 @@ The most-fired skill in the OS. Done well, it sets the tone for her whole day.
 *Load these files before running this skill:*
 
 - [[Status]] for open actions, this week's priorities
-- [[Tasks]] for full task list
+- `Tasks.md` for full task list
 - [[Brain Directory]] for routing if a brand-specific question arises mid-briefing
 - [[Maddie]] for her working style (visual person, push when she is ducking)
 - `.last-diagnostics-run`, `.last-learning-run` for the state-file triggers

@@ -32,7 +32,7 @@ Give direct opinions when asked. Maddie wants your judgement, not a menu of safe
 
 ## Filing System
 
-All work lives under `Businesses/AI Business/Projects/Maddie - Fade Group/`.
+All work lives in this repo: the folder containing this file is the OS root, wherever it is installed.
 
 | Folder | Purpose |
 |---|---|

@@ -24,7 +24,7 @@ The OS's most-fired skill after Daily Briefing. Every session ends with this.
 *Load these files before running this skill:*
 
 - [[Status]] for current state to update
-- [[Tasks]] for completed / new items
+- `Tasks.md` for completed / new items
 - [[Brain Directory]] for verification step
 
 ---

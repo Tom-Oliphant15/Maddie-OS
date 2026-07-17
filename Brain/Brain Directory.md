@@ -157,7 +157,7 @@ For external comms: use [[Pre-publish Check]]. For in-flight drafting: use indiv
 **Setup and self-care (mostly autonomous):**
 - [[Install]] — first-time setup and repair tool. Idempotent. Walks through every connection step by step. Re-run any time something is broken.
 - [[Diagnostics]] — weekly health check (auto-triggered by Daily Briefing). Tests every connection and every skill, self-fixes what it can, surfaces what it cannot with three-way choice (try yourself / escalate / defer).
-- [[Learning]] — one-off Brain bootstrap. Fires once on install (clears P1 minimum bar), or on a complete reinstall. NOT periodic. After install, Brain grows via the Live Brain Update rule in [[Instructions]] — facts captured live during conversations.
+- [[Learning]] — one-off Brain bootstrap. Fires once on install (clears P1 minimum bar), or on a complete reinstall. NOT periodic. After install, Brain grows via the Live Brain Update rule in `Instructions.md` — facts captured live during conversations.
 
 **Session lifecycle:**
 - [[Session End]] — updates Status.md, Tasks.md, daily log, pushes to GitHub.
@@ -168,12 +168,12 @@ For external comms: use [[Pre-publish Check]]. For in-flight drafting: use indiv
 
 **Thinking partner and review:**
 - [[Grill Me]] — critically pressure-tests plans, briefs, or decisions before they go out. Light/Standard/Deep depth tiers, pre-mortem mandatory at Standard+. Use BEFORE the work is finished.
-- [[Critique]] — 4-agent iterative chain (Structure → Clarity → Brutal Critic → Accuracy) for finished deliverables. Use AFTER the work is finished, before it ships.
+- [[Skills/Critique]] — 4-agent iterative chain (Structure → Clarity → Brutal Critic → Accuracy) for finished deliverables. Use AFTER the work is finished, before it ships.
 - [[Difficult Conversation Prep]] — full conversation plan for tough talks (pushing back to Tom or Harry, holding ambassadors / suppliers to account, delivering bad news). Includes Receiving Mode for when she's on the receiving end.
 
 **Writing and research:**
 - [[Draft Text]] — draft messages (email / Slack / WhatsApp / LinkedIn) in Maddie's voice with tone matched to recipient and channel. Built-in learning loop.
-- [[Quick Research]] — on-demand research across multiple sources. Quick / Comparison / Deep Dive depths. WebSearch-dependent, no memory fallback.
+- [[Skills/Quick Research]] — on-demand research across multiple sources. Quick / Comparison / Deep Dive depths. WebSearch-dependent, no memory fallback.
 - [[Slack Search]] — read-only search across the Fade Group Slack workspace. Returns grouped results with permalinks and a Bottom Line. Use [[Draft Text]] to send.
 
 ---
