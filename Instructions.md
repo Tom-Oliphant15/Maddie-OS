@@ -235,6 +235,10 @@ When editing an existing skill based on Maddie's feedback:
 - Folder names: Title Case with spaces.
 - Archive completed work rather than deleting.
 
+**Read before overwriting.** Before replacing the whole contents of any existing file in `Brain/`, `Skills/`, or any `Status.md` or `Tasks.md`, read the current version first, and tell Maddie in one line what is being replaced. This applies to a full rewrite of a file, not to normal edits that change part of it.
+
+Two reasons this is a rule rather than an assumption. Claude used to be forced to read a file before overwriting it and no longer is, so nothing stops a blind rewrite except this instruction. And the brand voice, brand guidelines and Brain files took real work to establish, which is the same reason [[#Identity Locks]] exists. Identity Locks catch a value being *changed*; this catches a file being *replaced*. The repo is backed up to GitHub, so a bad overwrite is recoverable, but only if somebody notices it happened.
+
 ### Document Linking Convention
 
 The OS lives in an Obsidian vault. All cross-doc references use Obsidian's native linking. **One core principle: no duplicated content. Edit a fact once, it flows everywhere.**
