@@ -1,12 +1,5 @@
 # Maddie OS — Status
 
-> [!warning] This file is out of date. Do not treat anything below as current.
-> **Nothing in this OS has been updated since 5 June 2026.** Checked on 16 August 2026: the last session pushed to GitHub was 5 June, so everything below is a snapshot roughly ten weeks old.
->
-> This matters because the Daily Briefing reads this file. "This Week's Priorities" describes a week in May. The brand rows describe campaigns that have since run (Half Marathon 7 June, Padel + Play 12 June, the Father's Day draw 21 June). The Metricool rows contradict each other: this file says connected for all three brands, while [[Tech Stack]] and [[Open Questions]] both say OAuth is still pending. Which is true is not known.
->
-> **If you are reading this in a live session:** do not carry any status, priority or blocker from this file into today's work without checking it with Maddie first. Rebuild the priorities table from what she tells you, then delete this banner.
-
 *Last updated: 2026-06-05 (Daily briefing run. Half Marathon print items ordered via Tracy (A-board, Run Club leaflets, Run Club sign), delivering today. Charity auction vouchers completed -- F&E 60 min treatment voucher added, all three sent to Lynda. Caroline confirmed for Padel + Play 12 June. Tanya meeting confirmed Monday 9 June (afternoon, time TBC). Google Ads domain allowlist updated (fadegroup.uk added) -- Harry to invite Maddie as Admin on both accounts Monday. Father's Day post signed off, content from Monday shoot. Weekly Slack report sent to #fade-group-marketing. Run Club 15 June at risk -- Katie injured her knee, to be discussed. Stride Instagram DM replied to (pricing: £69 initial, £59 ongoing).)*
 
 ---

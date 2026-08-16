@@ -2,11 +2,6 @@
 
 *Living registry of everything the OS doesn't know yet but needs to. Every unanswered question, deferred Brain gap, and stub-state decision lives here until resolved. Read by [[Daily Briefing]] each morning and surfaced as a recommendation block until cleared.*
 
-> [!warning] Not reviewed since creation. Every row below is unverified.
-> **Last reviewed 22 May 2026. Checked again on 16 August 2026 and nothing has moved since.** Rows still carry ETAs of "3 June" and "this week", which have long passed. Several are probably resolved and nobody has closed them.
->
-> The Daily Briefing surfaces up to three rows from this file every morning, so left as-is it will keep raising questions that may already have answers. Before using this file in a live session, walk the Active rows with Maddie, close what is done, and re-date what is not.
-
 *Last reviewed: 2026-05-22 (initial creation post-bootstrap form, populated with the 3 P3 skill stubs blocked on upstream decisions).*
 
 ---
